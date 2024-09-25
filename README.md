@@ -20,3 +20,10 @@
 `DevOps / SysAdmin`
 - AWS | K8S | Linux | Docker | Terraform | Ansible | GitHub CI
 
+
+
+### Fortune cookie of the day
+
+```
+Do not sleep in a eucalyptus tree tonight.
+```

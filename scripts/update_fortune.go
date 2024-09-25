@@ -3,55 +3,71 @@ package main
 import (
 	"flag"
 	"fmt"
+	"log"
 	"os"
 	"os/exec"
 	"regexp"
 	"strings"
 )
 
+const (
+	header       = "---\n#### :cookie: Fortune cookie of the day"
+	fortuneBlock = "```smalltalk\n%s\n```"
+	fortuneRegex = "(?s)(%s)(\\n+)(```smalltalk)(.*?)(```)(\\n*)"
+)
+
 func main() {
 	readmePath := flag.String("readme", "README.md", "Path to the README file")
 	flag.Parse()
 
-	cmd := exec.Command("fortune")
-	fortuneOutput, err := cmd.Output()
-	if err != nil {
-		fmt.Printf("Error running fortune: %v\n", err)
-		return
-	}
+	fortuneOutput, err := runFortune(flag.Args())
+	handleError(err, "running fortune")
 
-	mdFile := *readmePath
-	header := "### Fortune cookie of the day"
+	echoboxOutput, err := runEchobox(string(fortuneOutput))
+	handleError(err, "running echobox")
 
-	// Read the file content using os.ReadFile
+	err = updateReadme(*readmePath, string(echoboxOutput))
+	handleError(err, "updating README")
+
+	fmt.Println("Fortune updated in markdown file successfully!\n", string(fortuneOutput))
+}
+
+func updateReadme(mdFile string, fortune string) error {
 	fileContent, err := os.ReadFile(mdFile)
-	if err != nil && !os.IsNotExist(err) { // Handle errors other than file not existing
-		fmt.Printf("Error reading file: %v\n", err)
-		return
+	if err != nil && !os.IsNotExist(err) {
+		return fmt.Errorf("reading file: %w", err)
 	}
 
-	// Prepare the new fortune content
-	newFortune := fmt.Sprintf("```\n%s```\n", string(fortuneOutput))
+	newFortune := fmt.Sprintf(fortuneBlock, strings.TrimRight(fortune, "\n"))
 
-	// Create or update content under the header
 	var updatedContent string
-	// Use the header as part of the regex
-	re := regexp.MustCompile(fmt.Sprintf("(?s)(%s)(\\n+)(```)(.*?)(```)(\\n*)", regexp.QuoteMeta(header)))
+	re := regexp.MustCompile(fmt.Sprintf(fortuneRegex, regexp.QuoteMeta(header)))
 
 	if strings.Contains(string(fileContent), header) {
-		// Replace the existing fortune content under the header
+		// Replace the existing fortune content
 		updatedContent = re.ReplaceAllString(string(fileContent), header+"$2"+newFortune)
 	} else {
-		// If header doesn't exist, append the header and new fortune
-		updatedContent = string(fileContent) + "\n\n" + header + "\n\n" + newFortune
+		// Append new content if header doesn't exist
+		updatedContent = string(fileContent) + "\n" + header + "\n" + newFortune + "\n"
 	}
 
-	// Write the updated content back to the file using os.WriteFile
-	err = os.WriteFile(mdFile, []byte(updatedContent), 0644)
+	// Write the updated content back to the file
+	return os.WriteFile(mdFile, []byte(updatedContent), 0644)
+}
+
+func runFortune(args []string) ([]byte, error) {
+	fortuneCmd := exec.Command("fortune", args...)
+	return fortuneCmd.Output()
+}
+
+func runEchobox(input string) ([]byte, error) {
+	echoboxCmd := exec.Command("echobox", "-S", "curved", "-s", "2")
+	echoboxCmd.Stdin = strings.NewReader(input)
+	return echoboxCmd.Output()
+}
+
+func handleError(err error, context string) {
 	if err != nil {
-		fmt.Printf("Error writing to file: %v\n", err)
-		return
+		log.Fatalf("Error %s: %v", context, err)
 	}
-
-	fmt.Println("Fortune updated in markdown file successfully!")
 }
