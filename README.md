@@ -27,3 +27,16 @@
 ```
 Do not sleep in a eucalyptus tree tonight.
 ```
+
+---
+#### :cookie: Fortune cookie of the day
+```smalltalk
+╭──────────────────────────────────────────────────────────────────────────╮
+│                                                                          │
+│  Just to remind everyone.  Today, Sept 17, is Linux's 5th birthday.  So  │
+│  happy birthday to all on the list.  Thanks go out to Linus and all the  │
+│     other hard-working maintainers for 5 wonderful fast paced years!     │
+│                 -- William E. Roadcap <roadcapw@cfw.com>                 │
+│                                                                          │
+╰──────────────────────────────────────────────────────────────────────────╯
+```
