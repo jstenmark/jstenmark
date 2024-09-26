@@ -11,63 +11,108 @@ import (
 )
 
 const (
-	header       = "---\n#### :cookie: Fortune cookie of the day"
-	fortuneBlock = "```smalltalk\n%s\n```"
-	fortuneRegex = "(?s)(%s)(\\n+)(```smalltalk)(.*?)(```)(\\n*)"
+	defaultFile    = "README.md"
+	header         = "---\n#### :cookie: Fortune cookie of the day"
+	contentBlock   = "```smalltalk\n%s\n```"
+	contentPattern = "(?s)(%s)(\\n+)(```smalltalk)(.*?)(```)(\\n*)"
+)
+
+var (
+	fortuneArgs  = []string{"computers", "linux", "linuxcookie"}
+	contentRegex = regexp.MustCompile(fmt.Sprintf(contentPattern, regexp.QuoteMeta(header)))
 )
 
 func main() {
-	readmePath := flag.String("readme", "README.md", "Path to the README file")
+	filePath := flag.String("f", defaultFile, "Path to markdown file")
 	flag.Parse()
 
-	fortuneOutput, err := runFortune(flag.Args())
+	args := flag.Args()
+	if len(args) == 0 {
+		args = fortuneArgs
+	}
+
+	fileContent, err := readFile(*filePath)
+	handleError(err, "reading file")
+
+	fortuneOutput, err := runFortune(args)
 	handleError(err, "running fortune")
 
-	echoboxOutput, err := runEchobox(string(fortuneOutput))
-	handleError(err, "running echobox")
+	boxOutput := formatInBox(string(fortuneOutput))
 
-	err = updateReadme(*readmePath, string(echoboxOutput))
-	handleError(err, "updating README")
+	err = updateFile(fileContent, *filePath, string(boxOutput))
+	handleError(err, "updating file")
 
-	fmt.Println("Fortune updated in markdown file successfully!\n", string(fortuneOutput))
+	fmt.Println("Fortune updated successfully\n", string(boxOutput))
 }
 
-func updateReadme(mdFile string, fortune string) error {
-	fileContent, err := os.ReadFile(mdFile)
-	if err != nil && !os.IsNotExist(err) {
-		return fmt.Errorf("reading file: %w", err)
+func updateFile(fileContent string, filePath string, content string) error {
+	formattedContent := fmt.Sprintf(contentBlock, strings.TrimSpace(content))
+	updatedContent := updateFortuneContent(fileContent, formattedContent)
+
+	if !strings.HasSuffix(updatedContent, "\n") {
+		updatedContent += "\n"
 	}
 
-	newFortune := fmt.Sprintf(fortuneBlock, strings.TrimRight(fortune, "\n"))
+	return os.WriteFile(filePath, []byte(updatedContent), 0644)
+}
 
-	var updatedContent string
-	re := regexp.MustCompile(fmt.Sprintf(fortuneRegex, regexp.QuoteMeta(header)))
-
-	if strings.Contains(string(fileContent), header) {
-		// Replace the existing fortune content
-		updatedContent = re.ReplaceAllString(string(fileContent), header+"$2"+newFortune)
-	} else {
-		// Append new content if header doesn't exist
-		updatedContent = string(fileContent) + "\n" + header + "\n" + newFortune + "\n"
+func updateFortuneContent(fileContent string, newContent string) string {
+	if contentRegex.MatchString(fileContent) {
+		return contentRegex.ReplaceAllString(fileContent, header+"$2"+newContent)
 	}
-
-	// Write the updated content back to the file
-	return os.WriteFile(mdFile, []byte(updatedContent), 0644)
+	return fileContent + "\n" + header + "\n" + newContent + "\n"
 }
 
 func runFortune(args []string) ([]byte, error) {
-	fortuneCmd := exec.Command("fortune", args...)
-	return fortuneCmd.Output()
+	return exec.Command("fortune", args...).Output()
 }
 
-func runEchobox(input string) ([]byte, error) {
-	echoboxCmd := exec.Command("echobox", "-S", "curved", "-s", "2")
-	echoboxCmd.Stdin = strings.NewReader(input)
-	return echoboxCmd.Output()
+func readFile(fileName string) (string, error) {
+	fileContent, err := os.ReadFile(fileName)
+	if err != nil {
+		if os.IsNotExist(err) {
+			return "", nil // Return empty content if file does not exist
+		}
+		return "", fmt.Errorf("reading file %s: %w", fileName, err)
+	}
+	return string(fileContent), nil
 }
 
 func handleError(err error, context string) {
 	if err != nil {
 		log.Fatalf("Error %s: %v", context, err)
 	}
+}
+
+func formatInBox(text string) string {
+	text = convertTabs(text, 4)
+
+	lines := strings.Split(text, "\n")
+
+	// Determine the maximum line length
+	maxLength := 0
+	for _, line := range lines {
+		if len(line) > maxLength {
+			maxLength = len(line)
+		}
+	}
+
+	// Create the top and bottom borders using rounded corners
+	topBorder := "╭" + strings.Repeat("─", maxLength+2) + "╮"
+	bottomBorder := "╰" + strings.Repeat("─", maxLength+2) + "╯"
+	sideChar := "│"
+
+	// Build the boxed content with padding
+	var boxContent strings.Builder
+	boxContent.WriteString(topBorder + "\n")
+	for _, line := range lines {
+		boxContent.WriteString(sideChar + " " + line + strings.Repeat(" ", maxLength-len(line)) + " " + sideChar + "\n")
+	}
+	boxContent.WriteString(bottomBorder)
+
+	return boxContent.String()
+}
+
+func convertTabs(text string, tabWidth int) string {
+	return strings.ReplaceAll(text, "\t", strings.Repeat(" ", tabWidth))
 }

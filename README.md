@@ -4,7 +4,7 @@
 
 - 🔭 Currently crafting [ChatCopyCat](https://github.com/jstenmark/ChatCopyCat)
 - 🌐 Former maintainer of [ON-API](https://github.com/on-api), still supporting from time to time
-- 📫 Reach me at **[email](mailto:johannes@stenmark.in)** *I* **[LinkedIn](https://linkedin.com/in/www.linkedin.com/in/johannes-stenmark)**
+- 📫 Reach me at **[email](mailto:johannes@stenmark.in)** *I* **[LinkedIn](https://www.linkedin.com/in/johannes-stenmark)**
 
 ---
 
