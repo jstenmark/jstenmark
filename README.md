@@ -8,25 +8,13 @@
 
 ---
 
-`Languages`
-- TypeScript | Python | ZSH | HTML/CSS3 | PHP
+`Languages / Libs`
+###### TypeScript | Python | ZSH | HTML/CSS3 | PHP
+###### Express | NestJS | NextJS | Vue | React and others
 
-`Libs`
-- Express | NestJS | NextJS | Vue | React and others
-
-`Databases`
-- PostgreSQL | MySQL | Elastic | Redis | MongoDB
-
-`DevOps / SysAdmin`
-- AWS | K8S | Linux | Docker | Terraform | Ansible | GitHub CI
-
-
-
-### Fortune cookie of the day
-
-```
-Do not sleep in a eucalyptus tree tonight.
-```
+`DevOps / Tools`
+###### AWS | K8S | Linux | Docker | Terraform | Ansible | GitHub CI
+###### PostgreSQL | MySQL | Elastic | Redis | MongoDB
 
 ---
 #### :cookie: Fortune cookie of the day

@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 env:
-  fortunes: computers linux linuxcookie
+  FORTUNES: computers linux linuxcookie
 
 jobs:
   update-fortune:
@@ -29,7 +29,7 @@ jobs:
 
     - name: Run Fortune Update Script
       run: |
-        go run scripts/update_fortune.go ${{env.fortunes}}
+        go run scripts/update_fortune.go ${{env.FORTUNES}}
 
     - name: Commit Changes
       run: |
