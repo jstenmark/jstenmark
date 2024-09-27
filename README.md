@@ -1,20 +1,6 @@
-# Hi 👋, I'm Johannes Stenmark
+#### On a quest to catch 'em all: *node_modules edition*
 
-### *On a quest to catch 'em all: node_modules edition*
-
-- 🔭 Currently crafting [ChatCopyCat](https://github.com/jstenmark/ChatCopyCat)
-- 🌐 Former maintainer of [ON-API](https://github.com/on-api), still supporting from time to time
-- 📫 Reach me at **[email](mailto:johannes@stenmark.in)** *I* **[LinkedIn](https://www.linkedin.com/in/johannes-stenmark)**
-
----
-
-`Languages / Libs`
-###### TypeScript | Python | ZSH | HTML/CSS3 | PHP
-###### Express | NestJS | NextJS | Vue | React and others
-
-`DevOps / Tools`
-###### AWS | K8S | Linux | Docker | Terraform | Ansible | GitHub CI
-###### PostgreSQL | MySQL | Elastic | Redis | MongoDB
+##### :calling: Reach me at **[email](mailto:johannes@stenmark.in)** ***/*** **[LinkedIn](https://www.linkedin.com/in/johannes-stenmark)**.  :feet: Check out the [ChatCopyCat](https://github.com/jstenmark/ChatCopyCat) extension for VSCode.
 
 ---
 #### :cookie: Fortune cookie of the day
