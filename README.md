@@ -19,9 +19,11 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭─────────────────────────────╮
-│                             │
-│  Your fault -- core dumped  │
-│                             │
-╰─────────────────────────────╯
+╭──────────────────────────────────────────────────────────────────────╮
+│ [In 'Doctor' mode], I spent a good ten minutes telling Emacs what I  │
+│ thought of it.  (The response was, 'Perhaps you could try to be less │
+│ abusive.')                                                           │
+│         -- Matt Welsh                                                │
+│                                                                      │
+╰──────────────────────────────────────────────────────────────────────╯
 ```
