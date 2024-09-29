@@ -5,8 +5,11 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭─────────────────────────────────────────────────────────────────────────────────╮
-│ I am a computer. I am dumber than any human and smarter than any administrator. │
-│                                                                                 │
-╰─────────────────────────────────────────────────────────────────────────────────╯
+╭──────────────────────────────────────────────────────────────────────────────╮
+│ TeX is potentially the most significant invention in typesetting in this     │
+│ century.  It introduces a standard language for computer typography, and in  │
+│ terms of importance could rank near the introduction of the Gutenberg press. │
+│         -- Gordon Bell                                                       │
+│                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────╯
 ```
