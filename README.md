@@ -5,11 +5,9 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭──────────────────────────────────────────────────────────────────────────────╮
-│ TeX is potentially the most significant invention in typesetting in this     │
-│ century.  It introduces a standard language for computer typography, and in  │
-│ terms of importance could rank near the introduction of the Gutenberg press. │
-│         -- Gordon Bell                                                       │
-│                                                                              │
-╰──────────────────────────────────────────────────────────────────────────────╯
+╭───────────────────────────────────────────────────────────────────────────────╮
+│ I *____knew* I had some reason for not logging you off... If I could just │
+│ remember what it was.                                                         │
+│                                                                               │
+╰───────────────────────────────────────────────────────────────────────────────╯
 ```
