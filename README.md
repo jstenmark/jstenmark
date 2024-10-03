@@ -5,11 +5,8 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭──────────────────────────────────────────────────────────────────────────╮
-│ In case it's not obvious, any solution to this problem that introduces a │
-│ dependency on Java is profoundly uninteresting to me. In fact, my        │
-│ indifference to that could only be described as "sexual" in intensity.   │
-│         -- Jamie Zawinski                                                │
-│                                                                          │
-╰──────────────────────────────────────────────────────────────────────────╯
+╭───────────────────────────────────────────────────────────────╮
+│ To err is human -- to blame it on a computer is even more so. │
+│                                                               │
+╰───────────────────────────────────────────────────────────────╯
 ```
