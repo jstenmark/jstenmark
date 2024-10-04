@@ -5,8 +5,11 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭───────────────────────────────────────────────────────────────╮
-│ To err is human -- to blame it on a computer is even more so. │
-│                                                               │
-╰───────────────────────────────────────────────────────────────╯
+╭──────────────────────────────────────────────╮
+│ <sct> Anyone want the new supermount? :)     │
+│ <klogd> whats new aboutit                    │
+│ <sct> klogd: It cleans whiter than white. :) │
+│         -- Seen on #Linux                    │
+│                                              │
+╰──────────────────────────────────────────────╯
 ```
