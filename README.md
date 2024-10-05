@@ -5,11 +5,9 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭──────────────────────────────────────────────╮
-│ <sct> Anyone want the new supermount? :)     │
-│ <klogd> whats new aboutit                    │
-│ <sct> klogd: It cleans whiter than white. :) │
-│         -- Seen on #Linux                    │
-│                                              │
-╰──────────────────────────────────────────────╯
+╭────────────────────────────────────────────────╮
+│ FORTRAN is the language of Powerful Computers. │
+│         -- Steven Feiner                       │
+│                                                │
+╰────────────────────────────────────────────────╯
 ```
