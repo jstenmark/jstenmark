@@ -5,9 +5,12 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭────────────────────────────────────────────────╮
-│ FORTRAN is the language of Powerful Computers. │
-│         -- Steven Feiner                       │
-│                                                │
-╰────────────────────────────────────────────────╯
+╭───────────────────────────────────────────────────────────────────────────╮
+│     A disciple of another sect once came to Drescher as he was eating     │
+│ his morning meal.  "I would like to give you this personality test", said │
+│ the outsider, "because I want you to be happy."                           │
+│     Drescher took the paper that was offered him and put it into the      │
+│ toaster -- "I wish the toaster to be happy too".                          │
+│                                                                           │
+╰───────────────────────────────────────────────────────────────────────────╯
 ```
