@@ -5,12 +5,17 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭───────────────────────────────────────────────────────────────────────────╮
-│     A disciple of another sect once came to Drescher as he was eating     │
-│ his morning meal.  "I would like to give you this personality test", said │
-│ the outsider, "because I want you to be happy."                           │
-│     Drescher took the paper that was offered him and put it into the      │
-│ toaster -- "I wish the toaster to be happy too".                          │
-│                                                                           │
-╰───────────────────────────────────────────────────────────────────────────╯
+╭────────────────────────────────────────────────────────────────────────────────╮
+│                 UNIX Trix                                                      │
+│                                                                                │
+│ For those of you in the reseller business, here is a helpful tip that will     │
+│ save your support staff a few hours of precious time.  Before you send your    │
+│ next machine out to an untrained client, change the permissions on /etc/passwd │
+│ to 666 and make sure there is a copy somewhere on the disk.  Now when they     │
+│ forget the root password, you can easily login as an ordinary user and correct │
+│ the damage.  Having a bootable tape (for larger machines) is not a bad idea    │
+│ either.  If you need some help, give us a call.                                │
+│         -- CommUNIXque 1:1, ASCAR Business Systems                             │
+│                                                                                │
+╰────────────────────────────────────────────────────────────────────────────────╯
 ```
