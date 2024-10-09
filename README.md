@@ -5,9 +5,13 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭─────────────────────────────────────────────────────────────────╮
-│ <Skyhook> Where is 'bavaria' proper?  I thought it was austria. │
-│         -- Seen on #Linux                                       │
-│                                                                 │
-╰─────────────────────────────────────────────────────────────────╯
+╭─────────────────────────────────────────────────────────────────────────────────╮
+│ One of the things I routinely tell people is that if it's in the news, don't    │
+│ worry about it.  By definition, "news" means that it hardly ever happens.  If a │
+│ risk is in the news, then it's probably not worth worrying about.  When         │
+│ something is no longer reported -- automobile deaths, domestic violence -- when │
+│ it's so common that it's not news, then you should start worrying."             │
+│         -- Bruce Schneier, in _CRYPTO-GRAM_, May 15, 2005.                      │
+│                                                                                 │
+╰─────────────────────────────────────────────────────────────────────────────────╯
 ```
