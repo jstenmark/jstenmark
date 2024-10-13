@@ -5,12 +5,8 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭─────────────────────────────────────────────────────────────────────────╮
-│ The computer industry is journalists in their 20's standing in awe of   │
-│ entrepreneurs in their 30's who are hiring salesmen in their 40's and   │
-│ 50's and paying them in the 60's and 70's to bring their marketing into │
-│ the 80's.                                                               │
-│         -- Marty Winston                                                │
-│                                                                         │
-╰─────────────────────────────────────────────────────────────────────────╯
+╭─────────────────────────────────────────────────────────────────────────────╮
+│ If you think the system is working, ask someone who's waiting for a prompt. │
+│                                                                             │
+╰─────────────────────────────────────────────────────────────────────────────╯
 ```
