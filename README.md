@@ -5,8 +5,8 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭─────────────────────────────────────────────────────────────────────────────╮
-│ If you think the system is working, ask someone who's waiting for a prompt. │
-│                                                                             │
-╰─────────────────────────────────────────────────────────────────────────────╯
+╭──────────────────────────────────────╮
+│ Leveraging always beats prototyping. │
+│                                      │
+╰──────────────────────────────────────╯
 ```
