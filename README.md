@@ -5,8 +5,8 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭──────────────────────────────────────╮
-│ Leveraging always beats prototyping. │
-│                                      │
-╰──────────────────────────────────────╯
+╭──────────────────────────────╮
+│ panic: kernel trap (ignored) │
+│                              │
+╰──────────────────────────────╯
 ```
