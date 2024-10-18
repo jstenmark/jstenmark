@@ -5,9 +5,8 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭───────────────────────────────────────────────╮
-│ A list is only as strong as its weakest link. │
-│         -- Don Knuth                          │
-│                                               │
-╰───────────────────────────────────────────────╯
+╭────────────────────────╮
+│ That does not compute. │
+│                        │
+╰────────────────────────╯
 ```
