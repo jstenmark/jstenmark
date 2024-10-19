@@ -5,8 +5,8 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭────────────────────────╮
-│ That does not compute. │
-│                        │
-╰────────────────────────╯
+╭────────────────────────────╮
+│ Memory fault - where am I? │
+│                            │
+╰────────────────────────────╯
 ```
