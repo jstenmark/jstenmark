@@ -5,8 +5,9 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭────────────────────────────╮
-│ Memory fault - where am I? │
-│                            │
-╰────────────────────────────╯
+╭─────────────────────────────────────────────────────────────────╮
+│ "Never make any mistaeks."                                      │
+│ (Anonymous, in a mail discussion about to a kernel bug report.) │
+│                                                                 │
+╰─────────────────────────────────────────────────────────────────╯
 ```
