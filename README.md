@@ -5,10 +5,8 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭────────────────────────────────────────────────────────────────────────────╮
-│ There are three possibilities: Pioneer's solar panel has turned away from  │
-│ the sun; there's a large meteor blocking transmission; someone loaded Star │
-│ Trek 3.2 into our video processor.                                         │
-│                                                                            │
-╰────────────────────────────────────────────────────────────────────────────╯
+╭──────────────────────────────╮
+│ <<<<< EVACUATION ROUTE <<<<< │
+│                              │
+╰──────────────────────────────╯
 ```
