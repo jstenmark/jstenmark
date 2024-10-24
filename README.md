@@ -5,8 +5,8 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭─────────────────────────────────────────────────────────────────────────╮
-│ Due to lack of disk space, this fortune database has been discontinued. │
-│                                                                         │
-╰─────────────────────────────────────────────────────────────────────────╯
+╭───────────────────────────────────────────────────╮
+│ Within a computer, natural language is unnatural. │
+│                                                   │
+╰───────────────────────────────────────────────────╯
 ```
