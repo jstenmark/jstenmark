@@ -5,9 +5,9 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭────────────────────────────────────────────────────────────╮
-│ Syntactic sugar causes cancer of the semicolon.            │
-│         -- Epigrams in Programming, ACM SIGPLAN Sept. 1982 │
-│                                                            │
-╰────────────────────────────────────────────────────────────╯
+╭──────────────────────────────────╮
+│ A CONS is an object which cares. │
+│         -- Bernie Greenberg.     │
+│                                  │
+╰──────────────────────────────────╯
 ```
