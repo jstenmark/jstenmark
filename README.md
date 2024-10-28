@@ -5,9 +5,9 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭──────────────────────────────────╮
-│ A CONS is an object which cares. │
-│         -- Bernie Greenberg.     │
-│                                  │
-╰──────────────────────────────────╯
+╭───────────────────────────────────────────────────╮
+│ But what can you do with it?                      │
+│         -- ubiquitous cry from Linux-user partner │
+│                                                   │
+╰───────────────────────────────────────────────────╯
 ```
