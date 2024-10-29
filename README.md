@@ -5,9 +5,9 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭───────────────────────────────────────────────────╮
-│ But what can you do with it?                      │
-│         -- ubiquitous cry from Linux-user partner │
-│                                                   │
-╰───────────────────────────────────────────────────╯
+╭─────────────────────────────────────────────────────────────────────────────╮
+│ Real Programs don't use shared text.  Otherwise, how can they use functions │
+│ for scratch space after they are finished calling them?                     │
+│                                                                             │
+╰─────────────────────────────────────────────────────────────────────────────╯
 ```
