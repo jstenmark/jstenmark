@@ -5,9 +5,18 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭─────────────────────────────────────────────────────────────────────────────╮
-│ Real Programs don't use shared text.  Otherwise, how can they use functions │
-│ for scratch space after they are finished calling them?                     │
-│                                                                             │
-╰─────────────────────────────────────────────────────────────────────────────╯
+╭───────────────────────────────────────────────╮
+│ Welcome to boggle - do you want instructions? │
+│                                               │
+│ D    G    G    O                              │
+│                                               │
+│ O    Y    A    N                              │
+│                                               │
+│ A    D    B    T                              │
+│                                               │
+│ K    I    S    P                              │
+│ Enter words:                                  │
+│ >                                             │
+│                                               │
+╰───────────────────────────────────────────────╯
 ```
