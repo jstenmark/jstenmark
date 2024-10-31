@@ -5,18 +5,9 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭───────────────────────────────────────────────╮
-│ Welcome to boggle - do you want instructions? │
-│                                               │
-│ D    G    G    O                              │
-│                                               │
-│ O    Y    A    N                              │
-│                                               │
-│ A    D    B    T                              │
-│                                               │
-│ K    I    S    P                              │
-│ Enter words:                                  │
-│ >                                             │
-│                                               │
-╰───────────────────────────────────────────────╯
+╭────────────────────────────────────────────────────────────────────╮
+│ Any sufficiently advanced bug is indistinguishable from a feature. │
+│         -- Rich Kulawiec                                           │
+│                                                                    │
+╰────────────────────────────────────────────────────────────────────╯
 ```
