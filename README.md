@@ -5,9 +5,8 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭────────────────────────────────────────────────────────────────────────────────╮
-│ If you teach your children to like computers and to know how to gamble         │
-│ then they'll always be interested in something and won't come to no real harm. │
-│                                                                                │
-╰────────────────────────────────────────────────────────────────────────────────╯
+╭────────────────────────────────╮
+│ No line available at 300 baud. │
+│                                │
+╰────────────────────────────────╯
 ```
