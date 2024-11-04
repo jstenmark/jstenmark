@@ -5,10 +5,8 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭───────────────────────────────────────────────────────────────────────╮
-│ Much of the excitement we get out of our work is that we don't really │
-│ know what we are doing.                                               │
-│         -- E. Dijkstra                                                │
-│                                                                       │
-╰───────────────────────────────────────────────────────────────────────╯
+╭──────────────────────────────────────────────╮
+│ Your mode of life will be changed to EBCDIC. │
+│                                              │
+╰──────────────────────────────────────────────╯
 ```
