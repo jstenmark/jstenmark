@@ -5,8 +5,9 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭──────────────────────────────────────────────╮
-│ Your mode of life will be changed to EBCDIC. │
-│                                              │
-╰──────────────────────────────────────────────╯
+╭──────────────────────────────────────────────────────────╮
+│ The absence of labels [in ECL] is probably a good thing. │
+│         -- T. Cheatham                                   │
+│                                                          │
+╰──────────────────────────────────────────────────────────╯
 ```
