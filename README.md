@@ -5,9 +5,10 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭──────────────────────────────────────────────────────────╮
-│ The absence of labels [in ECL] is probably a good thing. │
-│         -- T. Cheatham                                   │
-│                                                          │
-╰──────────────────────────────────────────────────────────╯
+╭────────────────────────────────────────────────────────────────────────╮
+│ How do you power off this machine?                                     │
+│     -- Linus, when upgrading linux.cs.helsinki.fi, and after using the │
+│            machine for several months                                  │
+│                                                                        │
+╰────────────────────────────────────────────────────────────────────────╯
 ```
