@@ -5,10 +5,10 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭────────────────────────────────────────────────────────────────────────╮
-│ How do you power off this machine?                                     │
-│     -- Linus, when upgrading linux.cs.helsinki.fi, and after using the │
-│            machine for several months                                  │
-│                                                                        │
-╰────────────────────────────────────────────────────────────────────────╯
+╭─────────────────────────────────────────────────────────────────────────────────╮
+│ C is quirky, flawed, and an enormous success.                                   │
+│     -- Dennis Ritchie (1941-2011), creator of the C programming language and of │
+│     UNIX                                                                        │
+│                                                                                 │
+╰─────────────────────────────────────────────────────────────────────────────────╯
 ```
