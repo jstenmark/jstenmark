@@ -5,10 +5,11 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭─────────────────────────────────────────────────────────────────────────────────╮
-│ C is quirky, flawed, and an enormous success.                                   │
-│     -- Dennis Ritchie (1941-2011), creator of the C programming language and of │
-│     UNIX                                                                        │
-│                                                                                 │
-╰─────────────────────────────────────────────────────────────────────────────────╯
+╭────────────────────────────────────────────────────────────────────────╮
+│ > I'm an idiot..  At least this [bug] took about 5 minutes to find..   │
+│ We need to find some new terms to describe the rest of us mere mortals │
+│ then.                                                                  │
+│         -- Craig Schlenter in response to Linus Torvalds's             │
+│                                                                        │
+╰────────────────────────────────────────────────────────────────────────╯
 ```
