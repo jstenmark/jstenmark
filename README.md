@@ -5,8 +5,9 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭──────────────────────────────────────────────────╮
-│ You will have a head crash on your private pack. │
-│                                                  │
-╰──────────────────────────────────────────────────╯
+╭──────────────────────────────────────────────────────────────────────────╮
+│ But what can you do with it?  -- ubiquitous cry from Linux-user partner. │
+│ (Submitted by Andy Pearce, ajp@hpopd.pwd.hp.com)                         │
+│                                                                          │
+╰──────────────────────────────────────────────────────────────────────────╯
 ```
