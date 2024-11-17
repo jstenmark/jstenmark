@@ -5,10 +5,14 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭──────────────────────────────────────────────────────────────────────╮
-│ The first is to ensure your partner understands that nature has root │
-│ privileges - nature doesn't have to make sense.                      │
-│         -- Telsa Gwynne                                              │
-│                                                                      │
-╰──────────────────────────────────────────────────────────────────────╯
+╭──────────────────────────────────────────────────────────────────────────────╮
+│     After sifting through the overwritten remaining blocks of Luke's home    │
+│ directory, Luke and PDP-1 sped away from /u/lars, across the surface of the  │
+│ Winchester riding Luke's flying read/write head.  PDP-1 had Luke stop at the │
+│ edge of the cylinder overlooking /usr/spool/uucp.                            │
+│     "Unix-to-Unix Copy Program;" said PDP-1.  "You will never find a more    │
+│ wretched hive of bugs and flamers.  We must be cautious."                    │
+│         -- DECWARS                                                           │
+│                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────╯
 ```
