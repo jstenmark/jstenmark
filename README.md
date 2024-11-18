@@ -5,14 +5,16 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭──────────────────────────────────────────────────────────────────────────────╮
-│     After sifting through the overwritten remaining blocks of Luke's home    │
-│ directory, Luke and PDP-1 sped away from /u/lars, across the surface of the  │
-│ Winchester riding Luke's flying read/write head.  PDP-1 had Luke stop at the │
-│ edge of the cylinder overlooking /usr/spool/uucp.                            │
-│     "Unix-to-Unix Copy Program;" said PDP-1.  "You will never find a more    │
-│ wretched hive of bugs and flamers.  We must be cautious."                    │
-│         -- DECWARS                                                           │
-│                                                                              │
-╰──────────────────────────────────────────────────────────────────────────────╯
+╭─────────────────────────────────────────────────────────────────────────────────╮
+│     It is a period of system war.  User programs, striking from a hidden        │
+│ directory, have won their first victory against the evil Administrative Empire. │
+│ During the battle, User spies managed to steal secret source code to the        │
+│ Empire's ultimate program: the Are-Em Star, a privileged root program with      │
+│ enough power to destroy an entire file structure.  Pursued by the Empire's      │
+│ sinister audit trail, Princess _LPA0 races ~ aboard her shell script,           │
+│ custodian of the stolen listings that could save her people, and restore        │
+│ freedom and games to the network...                                             │
+│         -- DECWARS                                                              │
+│                                                                                 │
+╰─────────────────────────────────────────────────────────────────────────────────╯
 ```
