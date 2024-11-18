@@ -1,3 +1,6 @@
+// A script to add/update a markdown file with a "fortune" quote.
+// Dependencies: fortunes, fortune-mod
+
 package main
 
 import (
@@ -10,45 +13,84 @@ import (
 	"strings"
 )
 
-const (
-	defaultFile    = "README.md"
-	header         = "---\n#### :cookie: Fortune cookie of the day"
-	contentBlock   = "```smalltalk\n%s\n```"
-	contentPattern = "(?s)(%s)(\\n+)(```smalltalk)(.*?)(```)(\\n*)"
-)
+func printHelp() {
+	fmt.Println(`Usage: update_fortune [options] [categories...]
 
-var (
-	fortuneArgs  = []string{"computers", "linux", "linuxcookie"}
-	contentRegex = regexp.MustCompile(fmt.Sprintf(contentPattern, regexp.QuoteMeta(header)))
+Options:
+  -f <path>    Specify the path to the markdown file to update (default: README.md).
+  -b           Enable wrapping the fortune output in a decorative border (default: false).
+  -h           Display this help message.
+
+Categories:
+  - Provide optional categories for the fortune command. These determine the type of fortune displayed.
+  - Default categories: computers, linux, linuxcookie.
+  - To view all available categories, run: "fortune -f".
+
+Example:
+  - Update a custom file with a bordered fortune and custom categories:
+    go run update_fortune.go -f /app/FORTUNE.md -b ascii-art linux`)
+}
+
+const (
+	defaultFile       = "README.md"
+	defaultCategories = "ascii-art linux linuxcookie"
+	header            = "---\n#### :cookie: Fortune cookie of the day"
+	contentBlock      = "```smalltalk\n%s\n```"
+	contentPattern    = "(?s)(%s)(\\n+)(```smalltalk)(.*?)(```)(\\n*)"
+	tabWidth          = 4
+
+	topLeftChar     = "╭"
+	bottomLeftChar  = "╰"
+	topRightChar    = "╮"
+	bottomRightChar = "╯"
+	sideChar        = "│"
+	lineChar        = "─"
 )
 
 func main() {
-	filePath := flag.String("f", defaultFile, "Path to markdown file")
+	filePath := flag.String("f", defaultFile, "Path to the markdown file to update")
+	useBoxOutput := flag.Bool("b", false, "Wrap the output in a border")
+	showHelp := flag.Bool("h", false, "Show the help message")
 	flag.Parse()
+
+	if *showHelp {
+		printHelp()
+		return
+	}
 
 	args := flag.Args()
 	if len(args) == 0 {
-		args = fortuneArgs
+		args = strings.Split(defaultCategories, " ")
 	}
 
 	fileContent, err := readFile(*filePath)
-	handleError(err, "reading file")
+	handleError(err, "Reading file")
 
 	fortuneOutput, err := runFortune(args)
-	handleError(err, "running fortune")
+	handleError(err, "Running fortune")
 
-	boxOutput := formatInBox(string(fortuneOutput))
+	finalContent := string(fortuneOutput)
+	if *useBoxOutput {
+		finalContent = formatInBox(finalContent)
+	}
 
-	err = updateFile(fileContent, *filePath, string(boxOutput))
-	handleError(err, "updating file")
+	err = updateFile(fileContent, *filePath, finalContent)
+	handleError(err, "Updating file")
 
-	fmt.Println("Fortune updated successfully\n", string(boxOutput))
+	fmt.Println(finalContent)
 }
 
 func updateFile(fileContent string, filePath string, content string) error {
 	formattedContent := fmt.Sprintf(contentBlock, strings.TrimSpace(content))
 	updatedContent := updateFortuneContent(fileContent, formattedContent)
 
+	// Avoid writes if content has not changed
+	if fileContent == updatedContent {
+		fmt.Println("No changes detected.")
+		return nil
+	}
+
+	// Ensure file has a newline at the end
 	if !strings.HasSuffix(updatedContent, "\n") {
 		updatedContent += "\n"
 	}
@@ -57,62 +99,72 @@ func updateFile(fileContent string, filePath string, content string) error {
 }
 
 func updateFortuneContent(fileContent string, newContent string) string {
+	contentRegex := regexp.MustCompile(fmt.Sprintf(contentPattern, regexp.QuoteMeta(header)))
 	if contentRegex.MatchString(fileContent) {
 		return contentRegex.ReplaceAllString(fileContent, header+"$2"+newContent)
 	}
 	return fileContent + "\n" + header + "\n" + newContent + "\n"
 }
 
-func runFortune(args []string) ([]byte, error) {
-	return exec.Command("fortune", args...).Output()
-}
-
 func readFile(fileName string) (string, error) {
-	fileContent, err := os.ReadFile(fileName)
+	content, err := os.ReadFile(fileName)
 	if err != nil {
 		if os.IsNotExist(err) {
-			return "", nil // Return empty content if file does not exist
+			return "", nil
 		}
-		return "", fmt.Errorf("reading file %s: %w", fileName, err)
+		return "", fmt.Errorf("Failed to read file %s: %w", fileName, err)
 	}
-	return string(fileContent), nil
+	return string(content), nil
 }
 
-func handleError(err error, context string) {
-	if err != nil {
-		log.Fatalf("Error %s: %v", context, err)
-	}
-}
-
+// Creates a decorative box with borders around the input text
 func formatInBox(text string) string {
-	text = convertTabs(text, 4)
-
+	text = convertTabs(text, tabWidth)
 	lines := strings.Split(text, "\n")
 
-	// Determine the maximum line length
+	maxLength := maxLineLength(lines)
+
+	// Generate borders and content.
+	border := strings.Repeat(lineChar, maxLength+2)
+	var builder strings.Builder
+	builder.WriteString(fmt.Sprintf("%s%s%s\n", topLeftChar, border, topRightChar))
+
+	// Add lines to the box
+	for _, line := range lines {
+		if line != "" {
+			builder.WriteString(fmt.Sprintf("%s %s%s %s\n", sideChar, line, strings.Repeat(" ", maxLength-len(line)), sideChar))
+		}
+	}
+	builder.WriteString(fmt.Sprintf("%s%s%s", bottomLeftChar, border, bottomRightChar))
+
+	return builder.String()
+}
+
+func maxLineLength(lines []string) int {
 	maxLength := 0
 	for _, line := range lines {
 		if len(line) > maxLength {
 			maxLength = len(line)
 		}
 	}
-
-	// Create the top and bottom borders using rounded corners
-	topBorder := "╭" + strings.Repeat("─", maxLength+2) + "╮"
-	bottomBorder := "╰" + strings.Repeat("─", maxLength+2) + "╯"
-	sideChar := "│"
-
-	// Build the boxed content with padding
-	var boxContent strings.Builder
-	boxContent.WriteString(topBorder + "\n")
-	for _, line := range lines {
-		boxContent.WriteString(sideChar + " " + line + strings.Repeat(" ", maxLength-len(line)) + " " + sideChar + "\n")
-	}
-	boxContent.WriteString(bottomBorder)
-
-	return boxContent.String()
+	return maxLength
 }
 
 func convertTabs(text string, tabWidth int) string {
-	return strings.ReplaceAll(text, "\t", strings.Repeat(" ", tabWidth))
+	space := strings.Repeat(" ", tabWidth)
+	return strings.ReplaceAll(text, "\t", space)
+}
+
+func runFortune(args []string) (string, error) {
+	output, err := exec.Command("fortune", args...).Output()
+	if err != nil {
+		return "", fmt.Errorf("Failed to run fortune command: %w", err)
+	}
+	return string(output), nil
+}
+
+func handleError(err error, context string) {
+	if err != nil {
+		log.Fatalf("Error %s: %v", context, err)
+	}
 }

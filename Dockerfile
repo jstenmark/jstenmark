@@ -15,4 +15,4 @@ COPY scripts/update_fortune.go .
 COPY README.md .
 
 #RUN go mod tidy
-CMD ["sh", "-c", "go run update_fortune.go -f /app/README.md && cat README.md"]
+CMD ["sh", "-c", "go run update_fortune.go -f /app/README.md"]
