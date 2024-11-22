@@ -4,7 +4,8 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭────────────────────────────────────────────────────────╮
-│ Behind every great computer sits a skinny little geek. │
-╰────────────────────────────────────────────────────────╯
+╭───────────────────────────────────────────────────────────────────╮
+│ Bringing computers into the home won't change either one, but may │
+│ revitalize the corner saloon.                                     │
+╰───────────────────────────────────────────────────────────────────╯
 ```
