@@ -4,8 +4,9 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭───────────────────────────────────────────────────────────────────╮
-│ Bringing computers into the home won't change either one, but may │
-│ revitalize the corner saloon.                                     │
-╰───────────────────────────────────────────────────────────────────╯
+╭──────────────────────────────────────────────────────────────────────────╮
+│ The last time somebody said, "I find I can write much better with a word │
+│ processor.", I replied, "They used to say the same thing about drugs."   │
+│         -- Roy Blount, Jr.                                               │
+╰──────────────────────────────────────────────────────────────────────────╯
 ```
