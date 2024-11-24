@@ -4,9 +4,7 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭──────────────────────────────────────────────────────────────────────────╮
-│ The last time somebody said, "I find I can write much better with a word │
-│ processor.", I replied, "They used to say the same thing about drugs."   │
-│         -- Roy Blount, Jr.                                               │
-╰──────────────────────────────────────────────────────────────────────────╯
+╭────────────────────────────────────────────────────────────────────────╮
+│ There is no distinction between any AI program and some existent game. │
+╰────────────────────────────────────────────────────────────────────────╯
 ```
