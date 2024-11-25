@@ -5,6 +5,7 @@
 #### :cookie: Fortune cookie of the day
 ```smalltalk
 ╭────────────────────────────────────────────────────────────────────────╮
-│ There is no distinction between any AI program and some existent game. │
+│ A complex system that works is invariably found to have evolved from a │
+│ simple system that works.                                              │
 ╰────────────────────────────────────────────────────────────────────────╯
 ```
