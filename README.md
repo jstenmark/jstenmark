@@ -4,8 +4,13 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭────────────────────────────────────────────────────────────────────────╮
-│ A complex system that works is invariably found to have evolved from a │
-│ simple system that works.                                              │
-╰────────────────────────────────────────────────────────────────────────╯
+╭──────────────────────────────────────────────────────────────╮
+│ This  message was brought to  you by Linux, the free  unix.  │
+│ Windows without the X is like making love without a partner. │
+│ Sex, Drugs & Linux Rules                                     │
+│ win-nt from the people who invented edlin                    │
+│ apples  have  meant  trouble  since  eden                    │
+│ Linux, the way to get rid of boot viruses                    │
+│ (By mwikholm@at8.abo.fi, MaDsen Wikholm)                     │
+╰──────────────────────────────────────────────────────────────╯
 ```
