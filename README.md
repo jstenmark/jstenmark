@@ -4,13 +4,9 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭──────────────────────────────────────────────────────────────╮
-│ This  message was brought to  you by Linux, the free  unix.  │
-│ Windows without the X is like making love without a partner. │
-│ Sex, Drugs & Linux Rules                                     │
-│ win-nt from the people who invented edlin                    │
-│ apples  have  meant  trouble  since  eden                    │
-│ Linux, the way to get rid of boot viruses                    │
-│ (By mwikholm@at8.abo.fi, MaDsen Wikholm)                     │
-╰──────────────────────────────────────────────────────────────╯
+╭───────────────────────────────────────────────────────────────╮
+│ I develop for Linux for a living, I used to develop for DOS.  │
+│ Going from DOS to Linux is like trading a glider for an F117. │
+│ (By entropy@world.std.com, Lawrence Foard)                    │
+╰───────────────────────────────────────────────────────────────╯
 ```
