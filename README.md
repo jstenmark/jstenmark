@@ -4,9 +4,9 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭───────────────────────────────────────────────────────────────╮
-│ I develop for Linux for a living, I used to develop for DOS.  │
-│ Going from DOS to Linux is like trading a glider for an F117. │
-│ (By entropy@world.std.com, Lawrence Foard)                    │
-╰───────────────────────────────────────────────────────────────╯
+╭──────────────────────────────────────────────────────────────────────╮
+│ It was kinda like stuffing the wrong card in a computer, when you're │
+│ stickin' those artificial stimulants in your arm.                    │
+│         -- Dion, noted computer scientist                            │
+╰──────────────────────────────────────────────────────────────────────╯
 ```
