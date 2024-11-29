@@ -4,9 +4,7 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭──────────────────────────────────────────────────────────────────────╮
-│ It was kinda like stuffing the wrong card in a computer, when you're │
-│ stickin' those artificial stimulants in your arm.                    │
-│         -- Dion, noted computer scientist                            │
-╰──────────────────────────────────────────────────────────────────────╯
+╭────────────────────────────────────────────────────────────────────╮
+│ CCI Power 6/40: one board, a megabyte of cache, and an attitude... │
+╰────────────────────────────────────────────────────────────────────╯
 ```
