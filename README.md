@@ -4,7 +4,10 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭────────────────────────────────────────────────────────────────────╮
-│ CCI Power 6/40: one board, a megabyte of cache, and an attitude... │
-╰────────────────────────────────────────────────────────────────────╯
+╭────────────────────────────────────────────────────────────────────────────╮
+│ We are preparing to think about contemplating preliminary work on plans to │
+│ develop a schedule for producing the 10th Edition of the Unix Programmers  │
+│ Manual.                                                                    │
+│         -- Andrew Hume                                                     │
+╰────────────────────────────────────────────────────────────────────────────╯
 ```
