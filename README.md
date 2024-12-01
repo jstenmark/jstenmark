@@ -4,10 +4,10 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭────────────────────────────────────────────────────────────────────────────╮
-│ We are preparing to think about contemplating preliminary work on plans to │
-│ develop a schedule for producing the 10th Edition of the Unix Programmers  │
-│ Manual.                                                                    │
-│         -- Andrew Hume                                                     │
-╰────────────────────────────────────────────────────────────────────────────╯
+╭────────────────────────────────────────────────────────────────────────╮
+│ Thus spake the master programmer:                                      │
+│     "Though a program be but three lines long, someday it will have to │
+│     be maintained."                                                    │
+│         -- Geoffrey James, "The Tao of Programming"                    │
+╰────────────────────────────────────────────────────────────────────────╯
 ```
