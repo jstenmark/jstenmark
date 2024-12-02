@@ -4,10 +4,7 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭────────────────────────────────────────────────────────────────────────╮
-│ Thus spake the master programmer:                                      │
-│     "Though a program be but three lines long, someday it will have to │
-│     be maintained."                                                    │
-│         -- Geoffrey James, "The Tao of Programming"                    │
-╰────────────────────────────────────────────────────────────────────────╯
+╭────────────────────────────────╮
+│ Save gas, don't use the shell. │
+╰────────────────────────────────╯
 ```
