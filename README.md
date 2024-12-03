@@ -4,7 +4,7 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭────────────────────────────────╮
-│ Save gas, don't use the shell. │
-╰────────────────────────────────╯
+╭───────────────────────────────────────────────╮
+│ This file will self-destruct in five minutes. │
+╰───────────────────────────────────────────────╯
 ```
