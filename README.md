@@ -4,9 +4,7 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭──────────────────────────────────────────────────────────────────────────╮
-│ "If you want to travel around the world and be invited to speak at a lot │
-│ of different places, just write a Unix operating system."                │
-│ (By Linus Torvalds)                                                      │
-╰──────────────────────────────────────────────────────────────────────────╯
+╭───────────────────────────────────────────────────────────────╮
+│ To err is human -- to blame it on a computer is even more so. │
+╰───────────────────────────────────────────────────────────────╯
 ```
