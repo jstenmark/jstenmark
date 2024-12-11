@@ -4,8 +4,8 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭───────────────────────────────────────────────────╮
-│ Breadth-first search is the bulldozer of science. │
-│         -- Randy Goebel                           │
-╰───────────────────────────────────────────────────╯
+╭──────────────────────────────────────────────────────────────────────╮
+│ We are Microsoft.  Unix is irrelevant.  Openness is futile.  Prepare │
+│ to be assimilated.                                                   │
+╰──────────────────────────────────────────────────────────────────────╯
 ```
