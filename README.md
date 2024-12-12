@@ -4,8 +4,9 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭──────────────────────────────────────────────────────────────────────╮
-│ We are Microsoft.  Unix is irrelevant.  Openness is futile.  Prepare │
-│ to be assimilated.                                                   │
-╰──────────────────────────────────────────────────────────────────────╯
+╭────────────────────────────────────────────────────────────────────────────╮
+│ "How should I know if it works?  That's what beta testers are for.  I only │
+│ coded it."                                                                 │
+│ (Attributed to Linus Torvalds, somewhere in a posting)                     │
+╰────────────────────────────────────────────────────────────────────────────╯
 ```
