@@ -4,9 +4,27 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭────────────────────────────────────────────────────────────────────────────╮
-│ "How should I know if it works?  That's what beta testers are for.  I only │
-│ coded it."                                                                 │
-│ (Attributed to Linus Torvalds, somewhere in a posting)                     │
-╰────────────────────────────────────────────────────────────────────────────╯
+╭──────────────────────────────────────────────────────────────────────────────╮
+│       _                                                                      │
+│   _  / \               o                                                     │
+│  / \ | |               o       o         o                                   │
+│  | | | |   _            o    o               o       o                       │
+│  | \_| |  / \              o                o     o                          │
+│   \__  |  | |          o                  o                                  │
+│      | |  | |         ______      ~~~~            _____                      │
+│      | |__/ |           / ___--\\ ~~~         __/_____\__                    │
+│      |    ___/          / \--\\  \\   \ ___    <__  x x  __\                 │
+│      | |         / /\\  \\         ))     \       (  "     )                 │
+│      | |     -------(---->>(@)--(@)-------\----------< >-----------          │
+│      | |   //        | | //__________  /       \    ____)    (___      \\    │
+│      | |  //      __|_|     ( --------- )        //// ______ /////\       \\ │
+│      //      |    (  \ ______  /       <<<< <>-----<<<<< /        \\         │
+│     //     (     )              / /      \` \__     \\                       │
+│        //-------------------------------------------------------------\\     │
+│ Every now and then, when your life gets complicated and the weasels start    │
+│ closing in, the only cure is to load up on heinous chemicals and then        │
+│ drive like a bastard from Hollywood to Las Vegas ... with the music at       │
+│ top volume and at least a pint of ether.                                     │
+│         -- Hunter S. Thompson, "Fear and Loathing in Las Vegas"              │
+╰──────────────────────────────────────────────────────────────────────────────╯
 ```
