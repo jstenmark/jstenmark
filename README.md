@@ -4,27 +4,12 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭──────────────────────────────────────────────────────────────────────────────╮
-│       _                                                                      │
-│   _  / \               o                                                     │
-│  / \ | |               o       o         o                                   │
-│  | | | |   _            o    o               o       o                       │
-│  | \_| |  / \              o                o     o                          │
-│   \__  |  | |          o                  o                                  │
-│      | |  | |         ______      ~~~~            _____                      │
-│      | |__/ |           / ___--\\ ~~~         __/_____\__                    │
-│      |    ___/          / \--\\  \\   \ ___    <__  x x  __\                 │
-│      | |         / /\\  \\         ))     \       (  "     )                 │
-│      | |     -------(---->>(@)--(@)-------\----------< >-----------          │
-│      | |   //        | | //__________  /       \    ____)    (___      \\    │
-│      | |  //      __|_|     ( --------- )        //// ______ /////\       \\ │
-│      //      |    (  \ ______  /       <<<< <>-----<<<<< /        \\         │
-│     //     (     )              / /      \` \__     \\                       │
-│        //-------------------------------------------------------------\\     │
-│ Every now and then, when your life gets complicated and the weasels start    │
-│ closing in, the only cure is to load up on heinous chemicals and then        │
-│ drive like a bastard from Hollywood to Las Vegas ... with the music at       │
-│ top volume and at least a pint of ether.                                     │
-│         -- Hunter S. Thompson, "Fear and Loathing in Las Vegas"              │
-╰──────────────────────────────────────────────────────────────────────────────╯
+╭─────────────────────────────────────────────────────────────────────────────╮
+│     One day a student came to Moon and said, "I understand how to make      │
+│ a better garbage collector.  We must keep a reference count of the pointers │
+│ to each cons."                                                              │
+│     Moon patiently told the student the following story -- "One day a       │
+│ student came to Moon and said, "I understand how to make a better garbage   │
+│ collector..."                                                               │
+╰─────────────────────────────────────────────────────────────────────────────╯
 ```
