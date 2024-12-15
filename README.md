@@ -4,12 +4,9 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭─────────────────────────────────────────────────────────────────────────────╮
-│     One day a student came to Moon and said, "I understand how to make      │
-│ a better garbage collector.  We must keep a reference count of the pointers │
-│ to each cons."                                                              │
-│     Moon patiently told the student the following story -- "One day a       │
-│ student came to Moon and said, "I understand how to make a better garbage   │
-│ collector..."                                                               │
-╰─────────────────────────────────────────────────────────────────────────────╯
+╭─────────────────────────────────────────────────────────────────────╮
+│ This process can check if this value is zero, and if it is, it does │
+│ something child-like.                                               │
+│         -- Forbes Burkowski, CS 454, University of Washington       │
+╰─────────────────────────────────────────────────────────────────────╯
 ```
