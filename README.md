@@ -4,9 +4,9 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭─────────────────────────────────────────────────────────────────────╮
-│ This process can check if this value is zero, and if it is, it does │
-│ something child-like.                                               │
-│         -- Forbes Burkowski, CS 454, University of Washington       │
-╰─────────────────────────────────────────────────────────────────────╯
+╭────────────────────────────────────────────────────────────────────────────╮
+│ Computer Science is the only discipline in which we view adding a new wing │
+│ to a building as being maintenance                                         │
+│         -- Jim Horning                                                     │
+╰────────────────────────────────────────────────────────────────────────────╯
 ```
