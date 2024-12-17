@@ -4,9 +4,7 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭────────────────────────────────────────────────────────────────────────────╮
-│ Computer Science is the only discipline in which we view adding a new wing │
-│ to a building as being maintenance                                         │
-│         -- Jim Horning                                                     │
-╰────────────────────────────────────────────────────────────────────────────╯
+╭──────────────────────────────────────────────────────────────────────────────╮
+│ Evolution is a million line computer program falling into place by accident. │
+╰──────────────────────────────────────────────────────────────────────────────╯
 ```
