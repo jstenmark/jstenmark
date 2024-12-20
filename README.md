@@ -4,7 +4,7 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭────────────────────────────────╮
-│ Real programs don't eat cache. │
-╰────────────────────────────────╯
+╭──────────────────────────────────────────────────────────╮
+│ Profanity is the one language all programmers know best. │
+╰──────────────────────────────────────────────────────────╯
 ```
