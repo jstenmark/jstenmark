@@ -4,7 +4,9 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭──────────────────────────────────────────────────────────╮
-│ Profanity is the one language all programmers know best. │
-╰──────────────────────────────────────────────────────────╯
+╭──────────────────────────────────────────────────────────────────────────╮
+│ Ummm, well, OK.  The network's the network, the computer's the computer. │
+│ Sorry for the confusion.                                                 │
+│         -- Sun Microsystems                                              │
+╰──────────────────────────────────────────────────────────────────────────╯
 ```
