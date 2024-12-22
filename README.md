@@ -4,9 +4,7 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭──────────────────────────────────────────────────────────────────────────╮
-│ Ummm, well, OK.  The network's the network, the computer's the computer. │
-│ Sorry for the confusion.                                                 │
-│         -- Sun Microsystems                                              │
-╰──────────────────────────────────────────────────────────────────────────╯
+╭────────────────────────────╮
+│ System restarting, wait... │
+╰────────────────────────────╯
 ```
