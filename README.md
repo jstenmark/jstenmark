@@ -4,7 +4,8 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭────────────────╮
-│ Know Thy User. │
-╰────────────────╯
+╭─────────────────────────────────────────────────────────────────╮
+│ "Never make any mistaeks."                                      │
+│ (Anonymous, in a mail discussion about to a kernel bug report.) │
+╰─────────────────────────────────────────────────────────────────╯
 ```
