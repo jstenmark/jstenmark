@@ -4,8 +4,7 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭─────────────────────────────────────────────────────────────────╮
-│ "Never make any mistaeks."                                      │
-│ (Anonymous, in a mail discussion about to a kernel bug report.) │
-╰─────────────────────────────────────────────────────────────────╯
+╭───────────────────────────────────────────────────────────╮
+│ You had mail, but the super-user read it, and deleted it! │
+╰───────────────────────────────────────────────────────────╯
 ```
