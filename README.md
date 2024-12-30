@@ -4,8 +4,8 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭────────────────────────────────────────────────────────────╮
-│ Syntactic sugar causes cancer of the semicolon.            │
-│         -- Epigrams in Programming, ACM SIGPLAN Sept. 1982 │
-╰────────────────────────────────────────────────────────────╯
+╭───────────────────────────────────────────────────────────────────────────╮
+│ A LISP programmer knows the value of everything, but the cost of nothing. │
+│         -- Alan Perlis                                                    │
+╰───────────────────────────────────────────────────────────────────────────╯
 ```
