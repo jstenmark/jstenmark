@@ -4,8 +4,9 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭───────────────────────────────────────────────────────────────────────────╮
-│ A LISP programmer knows the value of everything, but the cost of nothing. │
-│         -- Alan Perlis                                                    │
-╰───────────────────────────────────────────────────────────────────────────╯
+╭───────────────────────────────────────────────────────────────────────╮
+│ "Text processing has made it possible to right-justify any idea, even │
+│ one which cannot be justified on any other grounds."                  │
+│         -- J. Finnegan, USC.                                          │
+╰───────────────────────────────────────────────────────────────────────╯
 ```
