@@ -4,9 +4,20 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭─────────────────────────────────────────────────────────────────────────╮
-│ I cannot conceive that anybody will require multiplications at the rate │
-│ of 40,000 or even 4,000 per hour ...                                    │
-│         -- F. H. Wales (1936)                                           │
-╰─────────────────────────────────────────────────────────────────────────╯
+╭────────────────────────────────────────────────────────────────────────────╮
+│     The FIELD GUIDE to NORTH AMERICAN MALES                                │
+│ SPECIES:    Cranial Males                                                  │
+│ SUBSPECIES:    The Hacker (homo computatis)                                │
+│ Description:                                                               │
+│     Gangly and frail, the hacker has a high forehead and thinning hair.    │
+│     Head disproportionately large and crooked forward, complexion wan and  │
+│     sightly gray from CRT illumination.  He has heavy black-rimmed glasses │
+│     and a look of intense concentration, which may be due to a software    │
+│     problem or to a pork-and-bean breakfast.                               │
+│ Feathering:                                                                │
+│     HOMO COMPUTATIS saw a Brylcreem ad fifteen years ago and believed it.  │
+│     Consequently, crest is greased down, except for the cowlick.           │
+│ Song:                                                                      │
+│     A rather plaintive "Is it up?"                                         │
+╰────────────────────────────────────────────────────────────────────────────╯
 ```
