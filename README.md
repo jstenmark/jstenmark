@@ -4,7 +4,9 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭───────────────────────────────────────────────────────────────────────────╮
-│ To understand a program you must become both the machine and the program. │
-╰───────────────────────────────────────────────────────────────────────────╯
+╭─────────────────────────────────────────────────────────────────────────────────╮
+│ Niklaus Wirth has lamented that, whereas Europeans pronounce his name correctly │
+│ (Ni-klows Virt), Americans invariably mangle it into (Nick-les Worth).  Which   │
+│ is to say that Europeans call him by name, but Americans call him by value.     │
+╰─────────────────────────────────────────────────────────────────────────────────╯
 ```
