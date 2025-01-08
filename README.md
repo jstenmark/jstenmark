@@ -4,9 +4,8 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭─────────────────────────────────────────────────────────────────────────────────╮
-│ Niklaus Wirth has lamented that, whereas Europeans pronounce his name correctly │
-│ (Ni-klows Virt), Americans invariably mangle it into (Nick-les Worth).  Which   │
-│ is to say that Europeans call him by name, but Americans call him by value.     │
-╰─────────────────────────────────────────────────────────────────────────────────╯
+╭──────────────────────────────────────────────────────────────╮
+│ If Machiavelli were a hacker, he'd have worked for the CSSG. │
+│         -- Phil Lapsley                                      │
+╰──────────────────────────────────────────────────────────────╯
 ```
