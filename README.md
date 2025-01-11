@@ -4,8 +4,7 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭───────────────────────────────────────────────────────╮
-│ The computing field is always in need of new cliches. │
-│         -- Alan Perlis                                │
-╰───────────────────────────────────────────────────────╯
+╭─────────────────────────────────────────╮
+│ On the eighth day, God created FORTRAN. │
+╰─────────────────────────────────────────╯
 ```
