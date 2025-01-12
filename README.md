@@ -4,7 +4,11 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭─────────────────────────────────────────╮
-│ On the eighth day, God created FORTRAN. │
-╰─────────────────────────────────────────╯
+╭─────────────────────────────────────────────────────────────────────────────╮
+│ "Waving away a cloud of smoke, I look up, and am blinded by a bright, white │
+│ light. It's God. No, not Richard Stallman, or Linus Torvalds, but God. In   │
+│ a booming voice, He says: "THIS IS A SIGN. USE LINUX, THE FREE UNIX SYSTEM  │
+│ FOR THE 386."                                                               │
+│ (Matt Welsh)                                                                │
+╰─────────────────────────────────────────────────────────────────────────────╯
 ```
