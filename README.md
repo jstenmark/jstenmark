@@ -4,7 +4,9 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭─────────────────────╮
-│ You are false data. │
-╰─────────────────────╯
+╭────────────────────────────────────────────────────────────────╮
+│ Computers are unreliable, but humans are even more unreliable. │
+│ Any system which depends on human reliability is unreliable.   │
+│         -- Gilb                                                │
+╰────────────────────────────────────────────────────────────────╯
 ```
