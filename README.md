@@ -4,9 +4,9 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭────────────────────────────────────────────────────────────────╮
-│ Computers are unreliable, but humans are even more unreliable. │
-│ Any system which depends on human reliability is unreliable.   │
-│         -- Gilb                                                │
-╰────────────────────────────────────────────────────────────────╯
+╭─────────────────────────────────────────────────────────────────────────╮
+│ The trouble with computers is that they do what you tell them, not what │
+│ you want.                                                               │
+│         -- D. Cohen                                                     │
+╰─────────────────────────────────────────────────────────────────────────╯
 ```
