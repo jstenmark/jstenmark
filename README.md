@@ -4,9 +4,9 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭─────────────────────────────────────────────────────────────────────────╮
-│ The trouble with computers is that they do what you tell them, not what │
-│ you want.                                                               │
-│         -- D. Cohen                                                     │
-╰─────────────────────────────────────────────────────────────────────────╯
+╭───────────────────────────────────────────────────────────────────╮
+│ A successful [software] tool is one that was used to do something │
+│ undreamed of by its author.                                       │
+│         -- S. C. Johnson                                          │
+╰───────────────────────────────────────────────────────────────────╯
 ```
