@@ -4,16 +4,15 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭───────────────────────────────────────────────────────────────────────────╮
-│ Seems a computer engineer, a systems analyst, and a programmer were       │
-│ driving down a mountain when the brakes gave out.  They screamed down the │
-│ mountain, gaining speed, but finally managed to grind to a halt, more by  │
-│ luck than anything else, just inches from a thousand foot drop to jagged  │
-│ rocks.  They all got out of the car:                                      │
-│         The computer engineer said, "I think I can fix it."               │
-│         The systems analyst said, "No, no, I think we should take it      │
-│ into town and have a specialist look at it."                              │
-│         The programmer said, "OK, but first I think we should get back    │
-│ in and see if it does it again."                                          │
-╰───────────────────────────────────────────────────────────────────────────╯
+╭─────────────────────────────────────────────────────────────────────────────────╮
+│     A novice programmer was once assigned to code a simple financial            │
+│ package.                                                                        │
+│     The novice worked furiously for many days, but when his master              │
+│ reviewed his program, he discovered that it contained a screen editor, a set    │
+│ of generalized graphics routines, and artificial intelligence interface,        │
+│ but not the slightest mention of anything financial.                            │
+│     When the master asked about this, the novice became indignant.              │
+│ "Don't be so impatient," he said, "I'll put the financial stuff in eventually." │
+│         -- Geoffrey James, "The Tao of Programming"                             │
+╰─────────────────────────────────────────────────────────────────────────────────╯
 ```
