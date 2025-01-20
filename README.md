@@ -4,9 +4,7 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭───────────────────────────────────────────────────────────╮
-│ Breakpoint 1, main (argc=1, argv=0xbffffc40) at main.c:29 │
-│ 29   printf ("Welcome to GNU Hell!\n");                   │
-│         -- "GNU Libtool documentation"                    │
-╰───────────────────────────────────────────────────────────╯
+╭────────────────────────────────────────────────╮
+│ If it's not in the computer, it doesn't exist. │
+╰────────────────────────────────────────────────╯
 ```
