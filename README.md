@@ -4,7 +4,9 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭────────────────────────────────────────────────╮
-│ If it's not in the computer, it doesn't exist. │
-╰────────────────────────────────────────────────╯
+╭──────────────────────────────────────────────────────────────────────────────╮
+│ Intel engineering seem to have misheard Intel marketing strategy. The phrase │
+│ was "Divide and conquer" not "Divide and cock up"                            │
+│ (By iialan@www.linux.org.uk, Alan Cox)                                       │
+╰──────────────────────────────────────────────────────────────────────────────╯
 ```
