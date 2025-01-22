@@ -4,9 +4,7 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭──────────────────────────────────────────────────────────────────────────────╮
-│ Intel engineering seem to have misheard Intel marketing strategy. The phrase │
-│ was "Divide and conquer" not "Divide and cock up"                            │
-│ (By iialan@www.linux.org.uk, Alan Cox)                                       │
-╰──────────────────────────────────────────────────────────────────────────────╯
+╭─────────────────────────────────────────────────────────────────────────╮
+│ panic: kernel segmentation violation. core dumped        (only kidding) │
+╰─────────────────────────────────────────────────────────────────────────╯
 ```
