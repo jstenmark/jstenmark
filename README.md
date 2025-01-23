@@ -4,7 +4,10 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭─────────────────────────────────────────────────────────────────────────╮
-│ panic: kernel segmentation violation. core dumped        (only kidding) │
-╰─────────────────────────────────────────────────────────────────────────╯
+╭──────────────────────────────────────────────────────────────────────╮
+│ "[In 'Doctor' mode], I spent a good ten minutes telling Emacs what I │
+│ thought of it.  (The response was, 'Perhaps you could try to be less │
+│ abusive.')"                                                          │
+│ (By Matt Welsh)                                                      │
+╰──────────────────────────────────────────────────────────────────────╯
 ```
