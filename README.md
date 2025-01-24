@@ -4,10 +4,9 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭──────────────────────────────────────────────────────────────────────╮
-│ "[In 'Doctor' mode], I spent a good ten minutes telling Emacs what I │
-│ thought of it.  (The response was, 'Perhaps you could try to be less │
-│ abusive.')"                                                          │
-│ (By Matt Welsh)                                                      │
-╰──────────────────────────────────────────────────────────────────────╯
+╭─────────────────────────────────────────────────────────────────────────╮
+│ APL is a write-only language.  I can write programs in APL, but I can't │
+│ read any of them.                                                       │
+│         -- Roy Keir                                                     │
+╰─────────────────────────────────────────────────────────────────────────╯
 ```
