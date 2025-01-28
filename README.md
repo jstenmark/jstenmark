@@ -4,11 +4,9 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭───────────────────────────────────────────────────────────────────────────────╮
-│ Brace yourselves.  We're about to try something that borders on the unique:   │
-│ an actually rather serious technical book which is not only (gasp) vehemently │
-│ anti-Solemn, but also (shudder) takes sides.  I tend to think of it as        │
-│ `Constructive Snottiness.'                                                    │
-│         -- Mike Padlipsky, "Elements of Networking Style"                     │
-╰───────────────────────────────────────────────────────────────────────────────╯
+╭──────────────────────────────────────────────────────────────╮
+│ The computer is to the information industry roughly what the │
+│ central power station is to the electrical industry.         │
+│         -- Peter Drucker                                     │
+╰──────────────────────────────────────────────────────────────╯
 ```
