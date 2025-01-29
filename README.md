@@ -4,9 +4,10 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭──────────────────────────────────────────────────────────────╮
-│ The computer is to the information industry roughly what the │
-│ central power station is to the electrical industry.         │
-│         -- Peter Drucker                                     │
-╰──────────────────────────────────────────────────────────────╯
+╭──────────────────────────────────────────────────────────────────────╮
+│ Real computer scientists admire ADA for its overwhelming aesthetic   │
+│ value but they find it difficult to actually program in it, as it is │
+│ much too large to implement.  Most computer scientists don't notice  │
+│ this because they are still arguing over what else to add to ADA.    │
+╰──────────────────────────────────────────────────────────────────────╯
 ```
