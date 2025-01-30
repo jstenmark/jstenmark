@@ -4,10 +4,19 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭──────────────────────────────────────────────────────────────────────╮
-│ Real computer scientists admire ADA for its overwhelming aesthetic   │
-│ value but they find it difficult to actually program in it, as it is │
-│ much too large to implement.  Most computer scientists don't notice  │
-│ this because they are still arguing over what else to add to ADA.    │
-╰──────────────────────────────────────────────────────────────────────╯
+╭───────────────────────────────────────────────────────────────────────────────╮
+│     A novice asked the master: "I have a program that sometimes runs and      │
+│ sometimes aborts.  I have followed the rules of programming, yet I am totally │
+│ baffled. What is the reason for this?"                                        │
+│     The master replied: "You are confused because you do not understand       │
+│ the Tao.  Only a fool expects rational behavior from his fellow humans.  Why  │
+│ do you expect it from a machine that humans have constructed?  Computers      │
+│ simulate determinism; only the Tao is perfect.                                │
+│     The rules of programming are transitory; only the Tao is eternal.         │
+│ Therefore you must contemplate the Tao before you receive enlightenment."     │
+│     "But how will I know when I have received enlightenment?" asked the       │
+│ novice.                                                                       │
+│     "Your program will then run correctly," replied the master.               │
+│         -- Geoffrey James, "The Tao of Programming"                           │
+╰───────────────────────────────────────────────────────────────────────────────╯
 ```
