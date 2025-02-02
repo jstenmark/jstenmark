@@ -4,8 +4,9 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭───────────────────────────────────────────────────────────────────────────╮
-│ Somebody's terminal is dropping bits.  I found a pile of them over in the │
-│ corner.                                                                   │
-╰───────────────────────────────────────────────────────────────────────────╯
+╭────────────────────────────────────────────────────────────────────╮
+│ In most countries selling harmful things like drugs is punishable. │
+│ Then howcome people can sell Microsoft software and go unpunished? │
+│ (By hasku@rost.abo.fi, Hasse Skrifvars)                            │
+╰────────────────────────────────────────────────────────────────────╯
 ```
