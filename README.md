@@ -4,9 +4,8 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭────────────────────────────────────────────────────────────────────╮
-│ In most countries selling harmful things like drugs is punishable. │
-│ Then howcome people can sell Microsoft software and go unpunished? │
-│ (By hasku@rost.abo.fi, Hasse Skrifvars)                            │
-╰────────────────────────────────────────────────────────────────────╯
+╭──────────────────────────────────────────╮
+│ To iterate is human, to recurse, divine. │
+│         -- Robert Heller                 │
+╰──────────────────────────────────────────╯
 ```
