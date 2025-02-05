@@ -4,8 +4,7 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭──────────────────────────────────────────╮
-│ To iterate is human, to recurse, divine. │
-│         -- Robert Heller                 │
-╰──────────────────────────────────────────╯
+╭───────────────────────────╮
+│ /earth: file system full. │
+╰───────────────────────────╯
 ```
