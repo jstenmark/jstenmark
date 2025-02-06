@@ -4,7 +4,8 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭───────────────────────────╮
-│ /earth: file system full. │
-╰───────────────────────────╯
+╭────────────────────────────────────────────────────────────╮
+│ Adding manpower to a late software project makes it later. │
+│         -- F. Brooks, "The Mythical Man-Month"             │
+╰────────────────────────────────────────────────────────────╯
 ```
