@@ -4,8 +4,8 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭────────────────────────────────────────────────────────────╮
-│ Adding manpower to a late software project makes it later. │
-│         -- F. Brooks, "The Mythical Man-Month"             │
-╰────────────────────────────────────────────────────────────╯
+╭───────────────────────────────────────────────────────────────────────╮
+│ We are Pentium of Borg. Division is futile. You will be approximated. │
+│ (seen in someone's .signature)                                        │
+╰───────────────────────────────────────────────────────────────────────╯
 ```
