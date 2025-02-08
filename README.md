@@ -4,8 +4,9 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭───────────────────────────────────────────────────────────────────────╮
-│ We are Pentium of Borg. Division is futile. You will be approximated. │
-│ (seen in someone's .signature)                                        │
-╰───────────────────────────────────────────────────────────────────────╯
+╭────────────────────────────────────────────────────────────────────────────╮
+│ You can now buy more gates with less specifications than at any other time │
+│ in history.                                                                │
+│         -- Kenneth Parker                                                  │
+╰────────────────────────────────────────────────────────────────────────────╯
 ```
