@@ -4,9 +4,11 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭────────────────────────────────────────────────────────────────────────────╮
-│ You can now buy more gates with less specifications than at any other time │
-│ in history.                                                                │
-│         -- Kenneth Parker                                                  │
-╰────────────────────────────────────────────────────────────────────────────╯
+╭─────────────────────────────────────────────────────────────────────────────╮
+│ The so-called "desktop metaphor" of today's workstations is instead an      │
+│ "airplane-seat" metaphor.  Anyone who has shuffled a lap full of papers     │
+│ while seated between two portly passengers will recognize the difference -- │
+│ one can see only a very few things at once.                                 │
+│         -- Fred Brooks                                                      │
+╰─────────────────────────────────────────────────────────────────────────────╯
 ```
