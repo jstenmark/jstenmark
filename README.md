@@ -4,9 +4,10 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭─────────────────────────────────────────────────────────────────────────╮
-│ APL is a write-only language.  I can write programs in APL, but I can't │
-│ read any of them.                                                       │
-│         -- Roy Keir                                                     │
-╰─────────────────────────────────────────────────────────────────────────╯
+╭────────────────────────────────────────╮
+│ Ignorance is bliss.                    │
+│         -- Thomas Gray                 │
+│ Fortune updates the great quotes, #42: │
+│     BLISS is ignorance.                │
+╰────────────────────────────────────────╯
 ```
