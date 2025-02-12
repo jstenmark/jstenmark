@@ -4,10 +4,7 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭────────────────────────────────────────╮
-│ Ignorance is bliss.                    │
-│         -- Thomas Gray                 │
-│ Fortune updates the great quotes, #42: │
-│     BLISS is ignorance.                │
-╰────────────────────────────────────────╯
+╭───────────────────────────────────────────────────────────────────────────────╮
+│ If a listener nods his head when you're explaining your program, wake him up. │
+╰───────────────────────────────────────────────────────────────────────────────╯
 ```
