@@ -4,7 +4,7 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭───────────────────────────────────────────────────────────────────────────────╮
-│ If a listener nods his head when you're explaining your program, wake him up. │
-╰───────────────────────────────────────────────────────────────────────────────╯
+╭─────────────────────────────────────────────────────────────────╮
+│ System going down at 5 this afternoon to install scheduler bug. │
+╰─────────────────────────────────────────────────────────────────╯
 ```
