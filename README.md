@@ -4,11 +4,13 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭─────────────────────────────────────────────────────────────────────────╮
-│ Those parts of the system that you can hit with a hammer (not advised)  │
-│ are called hardware; those program instructions that you can only curse │
-│ at are called software.                                                 │
-│         -- Levitating Trains and Kamikaze Genes: Technological          │
-│            Literacy for the 1990's.                                     │
-╰─────────────────────────────────────────────────────────────────────────╯
+╭──────────────────────────────────────────────────────────────────────────╮
+│ Unix is a lot more complicated (than CP/M) of course -- the typical Unix │
+│ hacker can never remember what the PRINT command is called this week --  │
+│ but when it gets right down to it, Unix is a glorified video game.       │
+│ People don't do serious work on Unix systems; they send jokes around the │
+│ world on USENET or write adventure games and research papers.            │
+│         -- E. Post                                                       │
+│         "Real Programmers Don't Use Pascal", Datamation, 7/83            │
+╰──────────────────────────────────────────────────────────────────────────╯
 ```
