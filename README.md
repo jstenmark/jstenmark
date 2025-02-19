@@ -4,9 +4,7 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭────────────────────────────────────────────────────────────────────────────╮
-│ If computers take over (which seems to be their natural tendency), it will │
-│ serve us right.                                                            │
-│         -- Alistair Cooke                                                  │
-╰────────────────────────────────────────────────────────────────────────────╯
+╭─────────────────────────────────────────────────────────────────────────╮
+│ It is now pitch dark.  If you proceed, you will likely fall into a pit. │
+╰─────────────────────────────────────────────────────────────────────────╯
 ```
