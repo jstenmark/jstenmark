@@ -4,7 +4,8 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭─────────────────────────────────────────────────────────────────────────╮
-│ It is now pitch dark.  If you proceed, you will likely fall into a pit. │
-╰─────────────────────────────────────────────────────────────────────────╯
+╭─────────────────────────────────────────────────────────────────────╮
+│ Never underestimate the bandwidth of a station wagon full of tapes. │
+│         -- Dr. Warren Jackson, Director, UTCS                       │
+╰─────────────────────────────────────────────────────────────────────╯
 ```
