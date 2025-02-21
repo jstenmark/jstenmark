@@ -4,8 +4,13 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭─────────────────────────────────────────────────────────────────────╮
-│ Never underestimate the bandwidth of a station wagon full of tapes. │
-│         -- Dr. Warren Jackson, Director, UTCS                       │
-╰─────────────────────────────────────────────────────────────────────╯
+╭──────────────────────────────────────────────────────────────────────────────╮
+│ Unix Express:                                                                │
+│ All passenger bring a piece of the aeroplane and a box of tools with them to │
+│ the airport. They gather on the tarmac, arguing constantly about what kind   │
+│ of plane they want to build and how to put it together. Eventually, the      │
+│ passengers split into groups and build several different aircraft, but give  │
+│ them all the same name. Some passengers actually reach their destinations.   │
+│ All passengers believe they got there.                                       │
+╰──────────────────────────────────────────────────────────────────────────────╯
 ```
