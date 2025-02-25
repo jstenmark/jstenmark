@@ -4,7 +4,10 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭───────────────────────────────────────────────────────────╮
-│ Would you people stop playing these stupid games?!?!?!!!! │
-╰───────────────────────────────────────────────────────────╯
+╭─────────────────────────────────────────────────────────────────────────╮
+│ Around computers it is difficult to find the correct unit of time to    │
+│ measure progress.  Some cathedrals took a century to complete.  Can you │
+│ imagine the grandeur and scope of a program that would take as long?    │
+│         -- Epigrams in Programming, ACM SIGPLAN Sept. 1982              │
+╰─────────────────────────────────────────────────────────────────────────╯
 ```
