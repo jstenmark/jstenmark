@@ -4,9 +4,11 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭───────────────────────────────────────────────────────────────────────────╮
-│ "I would rather spend 10 hours reading someone else's source code than    │
-│ 10 minutes listening to Musak waiting for technical support which isn't." │
-│ (By Dr. Greg Wettstein, Roger Maris Cancer Center)                        │
-╰───────────────────────────────────────────────────────────────────────────╯
+╭───────────────────────────────────────────────────────────────────────────────╮
+│ Overconfidence breeds error when we take for granted that the game will       │
+│ continue on its normal course; when we fail to provide for an unusually       │
+│ powerful resource -- a check, a sacrifice, a stalemate.  Afterwards the       │
+│ victim may wail, `But who could have dreamt of such an idiotic-looking move?' │
+│         -- Fred Reinfeld, "The Complete Chess Course"                         │
+╰───────────────────────────────────────────────────────────────────────────────╯
 ```
