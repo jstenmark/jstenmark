@@ -4,11 +4,9 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭───────────────────────────────────────────────────────────────────────────────╮
-│ Overconfidence breeds error when we take for granted that the game will       │
-│ continue on its normal course; when we fail to provide for an unusually       │
-│ powerful resource -- a check, a sacrifice, a stalemate.  Afterwards the       │
-│ victim may wail, `But who could have dreamt of such an idiotic-looking move?' │
-│         -- Fred Reinfeld, "The Complete Chess Course"                         │
-╰───────────────────────────────────────────────────────────────────────────────╯
+╭───────────────────────────────────────────────────────────────────╮
+│ A successful [software] tool is one that was used to do something │
+│ undreamed of by its author.                                       │
+│         -- S. C. Johnson                                          │
+╰───────────────────────────────────────────────────────────────────╯
 ```
