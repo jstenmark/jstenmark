@@ -4,9 +4,7 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭───────────────────────────────────────────────────────────────────╮
-│ A successful [software] tool is one that was used to do something │
-│ undreamed of by its author.                                       │
-│         -- S. C. Johnson                                          │
-╰───────────────────────────────────────────────────────────────────╯
+╭────────────────────────────────╮
+│ No line available at 300 baud. │
+╰────────────────────────────────╯
 ```
