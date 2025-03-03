@@ -4,27 +4,8 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭──────────────────────────────────────────────────────────────────────────────╮
-│       _                                                                      │
-│   _  / \               o                                                     │
-│  / \ | |               o       o         o                                   │
-│  | | | |   _            o    o               o       o                       │
-│  | \_| |  / \              o                o     o                          │
-│   \__  |  | |          o                  o                                  │
-│      | |  | |         ______      ~~~~            _____                      │
-│      | |__/ |           / ___--\\ ~~~         __/_____\__                    │
-│      |    ___/          / \--\\  \\   \ ___    <__  x x  __\                 │
-│      | |         / /\\  \\         ))     \       (  "     )                 │
-│      | |     -------(---->>(@)--(@)-------\----------< >-----------          │
-│      | |   //        | | //__________  /       \    ____)    (___      \\    │
-│      | |  //      __|_|     ( --------- )        //// ______ /////\       \\ │
-│      //      |    (  \ ______  /       <<<< <>-----<<<<< /        \\         │
-│     //     (     )              / /      \` \__     \\                       │
-│        //-------------------------------------------------------------\\     │
-│ Every now and then, when your life gets complicated and the weasels start    │
-│ closing in, the only cure is to load up on heinous chemicals and then        │
-│ drive like a bastard from Hollywood to Las Vegas ... with the music at       │
-│ top volume and at least a pint of ether.                                     │
-│         -- Hunter S. Thompson, "Fear and Loathing in Las Vegas"              │
-╰──────────────────────────────────────────────────────────────────────────────╯
+╭──────────────────────────────────────────────────────────────────────╮
+│ Computers can figure out all kinds of problems, except the things in │
+│ the world that just don't add up.                                    │
+╰──────────────────────────────────────────────────────────────────────╯
 ```
