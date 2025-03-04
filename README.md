@@ -4,8 +4,7 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭──────────────────────────────────────────────────────────────────────╮
-│ Computers can figure out all kinds of problems, except the things in │
-│ the world that just don't add up.                                    │
-╰──────────────────────────────────────────────────────────────────────╯
+╭─────────────────────────────────────────────────────────────────╮
+│ Long computations which yield zero are probably all for naught. │
+╰─────────────────────────────────────────────────────────────────╯
 ```
