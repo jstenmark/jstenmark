@@ -4,7 +4,8 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭─────────────────────────────────────────────────────────────────╮
-│ Long computations which yield zero are probably all for naught. │
-╰─────────────────────────────────────────────────────────────────╯
+╭─────────────────────────────────────────────────╮
+│ Premature optimization is the root of all evil. │
+│         -- D. E. Knuth                          │
+╰─────────────────────────────────────────────────╯
 ```
