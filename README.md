@@ -4,7 +4,7 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭─────────────────────────╮
-│ IOT trap -- core dumped │
-╰─────────────────────────╯
+╭────────────────╮
+│ You have mail. │
+╰────────────────╯
 ```
