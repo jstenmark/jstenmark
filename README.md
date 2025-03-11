@@ -4,7 +4,7 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭────────────────╮
-│ You have mail. │
-╰────────────────╯
+╭──────────────────────────────────────────────────╮
+│ This is an unauthorized cybernetic announcement. │
+╰──────────────────────────────────────────────────╯
 ```
