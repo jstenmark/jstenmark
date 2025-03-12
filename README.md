@@ -4,7 +4,7 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭──────────────────────────────────────────────────╮
-│ This is an unauthorized cybernetic announcement. │
-╰──────────────────────────────────────────────────╯
+╭──────────────────────────────╮
+│ Reactor error - core dumped! │
+╰──────────────────────────────╯
 ```
