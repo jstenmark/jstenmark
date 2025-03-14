@@ -4,11 +4,7 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭─────────────────────────────────────────────────────────────────────────╮
-│ "Our attitude with TCP/IP is, `Hey, we'll do it, but don't make a big   │
-│ system, because we can't fix it if it breaks -- nobody can.'"           │
-│ "TCP/IP is OK if you've got a little informal club, and it doesn't make │
-│ any difference if it takes a while to fix it."                          │
-│         -- Ken Olson, in Digital News, 1988                             │
-╰─────────────────────────────────────────────────────────────────────────╯
+╭────────────────────────────────────╮
+│ There are no games on this system. │
+╰────────────────────────────────────╯
 ```
