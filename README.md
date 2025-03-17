@@ -4,8 +4,12 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭──────────────────────────────────────────────────────────────╮
-│ Never put off till run-time what you can do at compile-time. │
-│         -- D. Gries                                          │
-╰──────────────────────────────────────────────────────────────╯
+╭───────────────────────────────────────────────────────────────╮
+│ skldfjkljklsR%^&(IXDRTYju187pkasdjbasdfbuil                │
+│ h;asvgy8p    23r1vyui135    2                                │
+│ kmxsij90TYDFS$b    jkzxdjkl bjnk ;j    nk;<[][;-==-<<<<<';[, │
+│         [hjioasdvbnuio;buip^&(FTSD$%*VYUI:buio;sdf}[asdf']    │
+│                 sdoihjfh(_YU*G&F^*CTY98y                      │
+│ Now look what you've gone and done!  You've broken it!        │
+╰───────────────────────────────────────────────────────────────╯
 ```
