@@ -4,12 +4,9 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭───────────────────────────────────────────────────────────────╮
-│ skldfjkljklsR%^&(IXDRTYju187pkasdjbasdfbuil                │
-│ h;asvgy8p    23r1vyui135    2                                │
-│ kmxsij90TYDFS$b    jkzxdjkl bjnk ;j    nk;<[][;-==-<<<<<';[, │
-│         [hjioasdvbnuio;buip^&(FTSD$%*VYUI:buio;sdf}[asdf']    │
-│                 sdoihjfh(_YU*G&F^*CTY98y                      │
-│ Now look what you've gone and done!  You've broken it!        │
-╰───────────────────────────────────────────────────────────────╯
+╭──────────────────────────────────────────────────────────────────╮
+│ I am professionally trained in computer science, which is to say │
+│ (in all seriousness) that I am extremely poorly educated.        │
+│         -- Joseph Weizenbaum, "Computer Power and Human Reason"  │
+╰──────────────────────────────────────────────────────────────────╯
 ```
