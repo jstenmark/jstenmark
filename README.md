@@ -4,9 +4,9 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭──────────────────────────────────────────────────────────────────╮
-│ I am professionally trained in computer science, which is to say │
-│ (in all seriousness) that I am extremely poorly educated.        │
-│         -- Joseph Weizenbaum, "Computer Power and Human Reason"  │
-╰──────────────────────────────────────────────────────────────────╯
+╭─────────────────────────────────────────────────────────────────────╮
+│ You can tell how far we have to go, when FORTRAN is the language of │
+│ supercomputers.                                                     │
+│         -- Steven Feiner                                            │
+╰─────────────────────────────────────────────────────────────────────╯
 ```
