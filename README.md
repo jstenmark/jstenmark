@@ -5,18 +5,12 @@
 #### :cookie: Fortune cookie of the day
 ```smalltalk
 ╭───────────────────────────────────────────────────────────────────────────────╮
-│     A programmer from a very large computer company went to a software        │
-│ conference and then returned to report to his manager, saying: "What sort     │
-│ of programmers work for other companies?  They behaved badly and were         │
-│ unconcerned with appearances. Their hair was long and unkempt and their       │
-│ clothes were wrinkled and old. They crashed out hospitality suites and they   │
-│ made rude noises during my presentation."                                     │
-│     The manager said: "I should have never sent you to the conference.        │
-│ Those programmers live beyond the physical world.  They consider life absurd, │
-│ an accidental coincidence.  They come and go without knowing limitations.     │
-│ Without a care, they live only for their programs.  Why should they bother    │
-│ with social conventions?"                                                     │
-│     "They are alive within the Tao."                                          │
-│         -- Geoffrey James, "The Tao of Programming"                           │
+│ Shopping at this grody little computer store at the Galleria for a            │
+│ totally awwwesome Apple.  Fer suuure.  I mean Apples are nice you know?       │
+│ But, you know, there is this cute guy who works there and HE says that        │
+│ VAX's are cooler!  I mean I don't really know, you know? He says that he      │
+│ has this totally tubular VAX at home and it's stuffed with memory-to-the-max! │
+│ Right, yeah.  And he wants to take me home to show it to me.  Oh My God!      │
+│ I'm suuure.  Gag me with a Prime!                                             │
 ╰───────────────────────────────────────────────────────────────────────────────╯
 ```
