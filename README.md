@@ -4,8 +4,8 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭───────────────────────────────────────────────╮
-│ A list is only as strong as its weakest link. │
-│         -- Don Knuth                          │
-╰───────────────────────────────────────────────╯
+╭──────────────────────────────────────────────────────────────────────────╮
+│ Just go with the flow control, roll with the crunches, and, when you get │
+│ a prompt, type like hell.                                                │
+╰──────────────────────────────────────────────────────────────────────────╯
 ```
