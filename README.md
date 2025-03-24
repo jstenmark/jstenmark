@@ -4,8 +4,18 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭──────────────────────────────────────────────────────────────────────────╮
-│ Just go with the flow control, roll with the crunches, and, when you get │
-│ a prompt, type like hell.                                                │
-╰──────────────────────────────────────────────────────────────────────────╯
+╭──────────────────────────────────────────────────────────────────────────────╮
+│ A certain monk had a habit of pestering the Grand Tortue (the only one who   │
+│ had ever reached the Enlightenment 'Yond Enlightenment), by asking whether   │
+│ various objects had Buddha-nature or not.  To such a question Tortue         │
+│ invariably sat silent.  The monk had already asked about a bean, a lake,     │
+│ and a moonlit night.  One day he brought to Tortue a piece of string, and    │
+│ asked the same question.  In reply, the Grand Tortue grasped the loop        │
+│ between his feet and, with a few simple manipulations, created a complex     │
+│ string which he proferred wordlessly to the monk.  At that moment, the monk  │
+│ was enlightened.                                                             │
+│ From then on, the monk did not bother Tortue.  Instead, he made string after │
+│ string by Tortue's method; and he passed the method on to his own disciples, │
+│ who passed it on to theirs.                                                  │
+╰──────────────────────────────────────────────────────────────────────────────╯
 ```
