@@ -4,7 +4,7 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭───────────────╮
-│ PLUG IT IN!!! │
-╰───────────────╯
+╭───────────────────────────────╮
+│ Pause for storage relocation. │
+╰───────────────────────────────╯
 ```
