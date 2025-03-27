@@ -4,7 +4,7 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭───────────────────────────────╮
-│ Pause for storage relocation. │
-╰───────────────────────────────╯
+╭────────────────────────────────────────────────────────────────╮
+│ Most public domain software is free, at least at first glance. │
+╰────────────────────────────────────────────────────────────────╯
 ```
