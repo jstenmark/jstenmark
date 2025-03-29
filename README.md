@@ -4,12 +4,11 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭─────────────────────────────────────────────────────────────────────────────────╮
-│ One of the things I routinely tell people is that if it's in the news, don't    │
-│ worry about it.  By definition, "news" means that it hardly ever happens.  If a │
-│ risk is in the news, then it's probably not worth worrying about.  When         │
-│ something is no longer reported -- automobile deaths, domestic violence -- when │
-│ it's so common that it's not news, then you should start worrying."             │
-│         -- Bruce Schneier, in _CRYPTO-GRAM_, May 15, 2005.                      │
-╰─────────────────────────────────────────────────────────────────────────────────╯
+╭─────────────────────────────────────────────────────────────────────────────╮
+│     A novice was trying to fix a broken lisp machine by turning the         │
+│ power off and on.  Knight, seeing what the student was doing spoke sternly, │
+│ "You cannot fix a machine by just power-cycling it with no understanding    │
+│ of what is going wrong."  Knight turned the machine off and on.  The        │
+│ machine worked.                                                             │
+╰─────────────────────────────────────────────────────────────────────────────╯
 ```
