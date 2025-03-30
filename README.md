@@ -4,11 +4,9 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭─────────────────────────────────────────────────────────────────────────────╮
-│     A novice was trying to fix a broken lisp machine by turning the         │
-│ power off and on.  Knight, seeing what the student was doing spoke sternly, │
-│ "You cannot fix a machine by just power-cycling it with no understanding    │
-│ of what is going wrong."  Knight turned the machine off and on.  The        │
-│ machine worked.                                                             │
-╰─────────────────────────────────────────────────────────────────────────────╯
+╭───────────────────────────────────────────────────────────────────────────╮
+│ "I would rather spend 10 hours reading someone else's source code than    │
+│ 10 minutes listening to Musak waiting for technical support which isn't." │
+│ (By Dr. Greg Wettstein, Roger Maris Cancer Center)                        │
+╰───────────────────────────────────────────────────────────────────────────╯
 ```
