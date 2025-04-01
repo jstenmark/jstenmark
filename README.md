@@ -4,7 +4,7 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭─────────────────────────────────────────────────────╮
-│ If this is timesharing, give me my share right now. │
-╰─────────────────────────────────────────────────────╯
+╭───────────────────────────────────────────────────────────────────╮
+│ I'm still waiting for the advent of the computer science groupie. │
+╰───────────────────────────────────────────────────────────────────╯
 ```
