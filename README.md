@@ -4,7 +4,13 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭───────────────────────────────────────────────────────────────────╮
-│ I'm still waiting for the advent of the computer science groupie. │
-╰───────────────────────────────────────────────────────────────────╯
+╭────────────────────────────────────────────────────────────────────────────────╮
+│ ===  ALL CSH USERS PLEASE NOTE  ========================                       │
+│ Set the variable  to all the people that you think are losers.  This    │
+│ will cause all said losers to have the variable -WHO-THINK-I-AM-A-LOSER │
+│ updated in their .login file.  Should you attempt to execute a job on a        │
+│ machine with poor response time and a machine on your local net is currently   │
+│ populated by losers, that machine will be freed up for your job through a      │
+│ cold boot process.                                                             │
+╰────────────────────────────────────────────────────────────────────────────────╯
 ```
