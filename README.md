@@ -4,13 +4,9 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭────────────────────────────────────────────────────────────────────────────────╮
-│ ===  ALL CSH USERS PLEASE NOTE  ========================                       │
-│ Set the variable  to all the people that you think are losers.  This    │
-│ will cause all said losers to have the variable -WHO-THINK-I-AM-A-LOSER │
-│ updated in their .login file.  Should you attempt to execute a job on a        │
-│ machine with poor response time and a machine on your local net is currently   │
-│ populated by losers, that machine will be freed up for your job through a      │
-│ cold boot process.                                                             │
-╰────────────────────────────────────────────────────────────────────────────────╯
+╭──────────────────────────────────────────────────────────────────────────╮
+│ "If you want to travel around the world and be invited to speak at a lot │
+│ of different places, just write a Unix operating system."                │
+│ (By Linus Torvalds)                                                      │
+╰──────────────────────────────────────────────────────────────────────────╯
 ```
