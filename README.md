@@ -4,7 +4,9 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭─────────────────╮
-│ Please go away. │
-╰─────────────────╯
+╭─────────────────────────────────────────────────────────────────────────╮
+│ No hardware designer should be allowed to produce any piece of hardware │
+│ until three software guys have signed off for it.                       │
+│         -- Andy Tanenbaum                                               │
+╰─────────────────────────────────────────────────────────────────────────╯
 ```
