@@ -4,9 +4,8 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭─────────────────────────────────────────────────────────────────────────╮
-│ No hardware designer should be allowed to produce any piece of hardware │
-│ until three software guys have signed off for it.                       │
-│         -- Andy Tanenbaum                                               │
-╰─────────────────────────────────────────────────────────────────────────╯
+╭─────────────────────────────────────────────────────────────────╮
+│ SCCS, the source motel!  Programs check in and never check out! │
+│         -- Ken Thompson                                         │
+╰─────────────────────────────────────────────────────────────────╯
 ```
