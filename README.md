@@ -4,8 +4,7 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭─────────────────────────────────────────────────────────────────╮
-│ SCCS, the source motel!  Programs check in and never check out! │
-│         -- Ken Thompson                                         │
-╰─────────────────────────────────────────────────────────────────╯
+╭──────────────────────────────────────────────────────────╮
+│ Your computer account is overdrawn.  Please reauthorize. │
+╰──────────────────────────────────────────────────────────╯
 ```
