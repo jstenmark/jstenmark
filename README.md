@@ -4,7 +4,8 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭──────────────────────────────────────────────────────────╮
-│ Your computer account is overdrawn.  Please reauthorize. │
-╰──────────────────────────────────────────────────────────╯
+╭───────────────────────────────────────────────────────────────────────╮
+│ Wasn't there something about a PASCAL programmer knowing the value of │
+│ everything and the Wirth of nothing?                                  │
+╰───────────────────────────────────────────────────────────────────────╯
 ```
