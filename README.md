@@ -4,8 +4,8 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭───────────────────────────────────────────────────────────────────────╮
-│ Wasn't there something about a PASCAL programmer knowing the value of │
-│ everything and the Wirth of nothing?                                  │
-╰───────────────────────────────────────────────────────────────────────╯
+╭───────────────────────────────────────────╮
+│ Remember, UNIX spelled backwards is XINU. │
+│         -- Mt.                            │
+╰───────────────────────────────────────────╯
 ```
