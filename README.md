@@ -4,8 +4,9 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭───────────────────────────────────────────╮
-│ Remember, UNIX spelled backwards is XINU. │
-│         -- Mt.                            │
-╰───────────────────────────────────────────╯
+╭──────────────────────────────────────────────────────────────────────────╮
+│ In less than a century, computers will be making substantial progress on │
+│ ... the overriding problem of war and peace.                             │
+│         -- James Slagle                                                  │
+╰──────────────────────────────────────────────────────────────────────────╯
 ```
