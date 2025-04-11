@@ -4,9 +4,13 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭──────────────────────────────────────────────────────────────────────────╮
-│ In less than a century, computers will be making substantial progress on │
-│ ... the overriding problem of war and peace.                             │
-│         -- James Slagle                                                  │
-╰──────────────────────────────────────────────────────────────────────────╯
+╭─────────────────────────────────────────────────────────────────────────────╮
+│ The work [of software development] is becoming far easier (i.e. the tools   │
+│ we're using work at a higher level, more removed from machine, peripheral   │
+│ and operating system imperatives) than it was twenty years ago, and because │
+│ of this, knowledge of the internals of a system may become less accessible. │
+│ We may be able to dig deeper holes, but unless we know how to build taller  │
+│ ladders, we had best hope that it does not rain much.                       │
+│         -- Paul Licker                                                      │
+╰─────────────────────────────────────────────────────────────────────────────╯
 ```
