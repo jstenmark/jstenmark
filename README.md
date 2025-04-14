@@ -4,8 +4,7 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭────────────────────────────────────╮
-│ The steady state of disks is full. │
-│         -- Ken Thompson            │
-╰────────────────────────────────────╯
+╭──────────────────────────────────────────────────────────╮
+│ If at first you don't succeed, you must be a programmer. │
+╰──────────────────────────────────────────────────────────╯
 ```
