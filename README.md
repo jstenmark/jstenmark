@@ -4,7 +4,7 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭──────────────────────────────────────────────────────────╮
-│ If at first you don't succeed, you must be a programmer. │
-╰──────────────────────────────────────────────────────────╯
+╭───────────────────────────────╮
+│ Disk crisis, please clean up! │
+╰───────────────────────────────╯
 ```
