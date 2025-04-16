@@ -4,7 +4,11 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭───────────────────────────────╮
-│ Disk crisis, please clean up! │
-╰───────────────────────────────╯
+╭────────────────────────────────────────────────────────────────────────────────╮
+│ Personally, I think my choice in the mostest-superlative-computer wars has to  │
+│ be the HP-48 series of calculators.  They'll run almost anything.  And if they │
+│ can't, while I'll just plug a Linux box into the serial port and load up the   │
+│ HP-48 VT-100 emulator.                                                         │
+│ (By jdege@winternet.com, Jeff Dege)                                            │
+╰────────────────────────────────────────────────────────────────────────────────╯
 ```
