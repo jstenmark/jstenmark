@@ -4,11 +4,17 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭────────────────────────────────────────────────────────────────────────────────╮
-│ Personally, I think my choice in the mostest-superlative-computer wars has to  │
-│ be the HP-48 series of calculators.  They'll run almost anything.  And if they │
-│ can't, while I'll just plug a Linux box into the serial port and load up the   │
-│ HP-48 VT-100 emulator.                                                         │
-│ (By jdege@winternet.com, Jeff Dege)                                            │
-╰────────────────────────────────────────────────────────────────────────────────╯
+╭─────────────────────────────────────────────────────────────────────────╮
+│     It appears that after his death, Albert Einstein found himself      │
+│ working as the doorkeeper at the Pearly Gates.  One slow day, he        │
+│ found that he had time to chat with the new entrants.  To the first one │
+│ he asked, "What's your IQ?"  The new arrival replied, "190".  They      │
+│ discussed Einstein's theory of relativity for hours.  When the second   │
+│ new arrival came, Einstein once again inquired as to the newcomer's     │
+│ IQ.  The answer this time came "120".  To which Einstein replied, "Tell │
+│ me, how did the Cubs do this year?" and they proceeded to talk for half │
+│ an hour or so.  To the final arrival, Einstein once again posed the     │
+│ question, "What's your IQ?".  Upon receiving the answer "70",           │
+│ Einstein smiled and replied, "Got a minute to tell me about VMS 4.0?"   │
+╰─────────────────────────────────────────────────────────────────────────╯
 ```
