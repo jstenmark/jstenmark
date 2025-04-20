@@ -4,9 +4,8 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭───────────────────────────────────────────────────────────────────────────╮
-│ "I would rather spend 10 hours reading someone else's source code than    │
-│ 10 minutes listening to Musak waiting for technical support which isn't." │
-│ (By Dr. Greg Wettstein, Roger Maris Cancer Center)                        │
-╰───────────────────────────────────────────────────────────────────────────╯
+╭────────────────────────────────────────────────────────────────╮
+│ We are using Linux daily to UP our productivity - so UP yours! │
+│ (Adapted from Pat Paulsen by Joe Sloan)                        │
+╰────────────────────────────────────────────────────────────────╯
 ```
