@@ -4,10 +4,12 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭─────────────────────────────────────────────────────────────────────────╮
-│ "For that matter, compare your pocket computer with the massive jobs of │
-│ a thousand years ago.  Why not, then, the last step of doing away with  │
-│ computers altogether?"                                                  │
-│         -- Jehan Shuman                                                 │
-╰─────────────────────────────────────────────────────────────────────────╯
+╭──────────────────────────────────────────────────────────────────────────╮
+│ ... it is easy to be blinded to the essential uselessness of them by the │
+│ sense of achievement you get from getting them to work at all.  In other │
+│ words... their fundamental design flaws are completely hidden by their   │
+│ superficial design flaws.                                                │
+│         -- The Hitchhiker's Guide to the Galaxy, on the products         │
+│                of the Sirius Cybernetics Corporation.                    │
+╰──────────────────────────────────────────────────────────────────────────╯
 ```
