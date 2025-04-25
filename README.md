@@ -5,6 +5,7 @@
 #### :cookie: Fortune cookie of the day
 ```smalltalk
 ╭─────────────────────────────────────────────────────╮
-│ If this is timesharing, give me my share right now. │
+│ "It runs like _x, where _x is something unsavory" │
+│         -- Prof. Romas Aleliunas, CS 435            │
 ╰─────────────────────────────────────────────────────╯
 ```
