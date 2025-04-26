@@ -4,8 +4,7 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭─────────────────────────────────────────────────────╮
-│ "It runs like _x, where _x is something unsavory" │
-│         -- Prof. Romas Aleliunas, CS 435            │
-╰─────────────────────────────────────────────────────╯
+╭───────────────────────────────────────────────────────────╮
+│ You are in a maze of little twisting passages, all alike. │
+╰───────────────────────────────────────────────────────────╯
 ```
