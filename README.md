@@ -4,7 +4,7 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭───────────────────────────────────────────────────────────────────────╮
-│ HOST SYSTEM NOT RESPONDING, PROBABLY DOWN. DO YOU WANT TO WAIT? (Y/N) │
-╰───────────────────────────────────────────────────────────────────────╯
+╭───────────────────────────────────────────────╮
+│ Overload -- core meltdown sequence initiated. │
+╰───────────────────────────────────────────────╯
 ```
