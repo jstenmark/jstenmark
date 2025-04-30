@@ -4,7 +4,7 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭───────────────────────────────────────────────╮
-│ Overload -- core meltdown sequence initiated. │
-╰───────────────────────────────────────────────╯
+╭──────────────────────────────────────────────────╮
+│ This is an unauthorized cybernetic announcement. │
+╰──────────────────────────────────────────────────╯
 ```
