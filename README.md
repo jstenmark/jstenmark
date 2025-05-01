@@ -4,7 +4,7 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭──────────────────────────────────────────────────╮
-│ This is an unauthorized cybernetic announcement. │
-╰──────────────────────────────────────────────────╯
+╭───────────────────────────────────────────────────────────╮
+│ No man is an island if he's on at least one mailing list. │
+╰───────────────────────────────────────────────────────────╯
 ```
