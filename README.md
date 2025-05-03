@@ -4,14 +4,11 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭────────────────────────────────────────────────────────────────────────────╮
-│ ===  ALL USERS PLEASE NOTE  ========================                       │
-│ A new system, the CIRCULATORY system, has been added.                      │
-│ The long-experimental CIRCULATORY system has been released to users.  The  │
-│ Lisp Machine uses Type B fluid, the L machine uses Type A fluid.  When the │
-│ switch to Common Lisp occurs both machines will, of course, be Type O.     │
-│ Please check fluid level by using the DIP stick which is located in the    │
-│ back of VMI monitors.  Unchecked low fluid levels can cause poor paging    │
-│ performance.                                                               │
-╰────────────────────────────────────────────────────────────────────────────╯
+╭────────────────────────────────────────────────────────────────────────╮
+│ Has everyone noticed that all the letters of the word "database" are   │
+│ typed with the left hand?  Now the layout of the QWERTYUIOP typewriter │
+│ keyboard was designed, among other things, to facilitate the even use  │
+│ of both hands.  It follows, therefore, that writing about databases is │
+│ not only unnatural, but a lot harder than it appears.                  │
+╰────────────────────────────────────────────────────────────────────────╯
 ```
