@@ -4,11 +4,14 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭────────────────────────────────────────────────────────────────────────╮
-│ Has everyone noticed that all the letters of the word "database" are   │
-│ typed with the left hand?  Now the layout of the QWERTYUIOP typewriter │
-│ keyboard was designed, among other things, to facilitate the even use  │
-│ of both hands.  It follows, therefore, that writing about databases is │
-│ not only unnatural, but a lot harder than it appears.                  │
-╰────────────────────────────────────────────────────────────────────────╯
+╭───────────────────────────────────────────────────────────────────────────────╮
+│     The wise programmer is told about the Tao and follows it.  The average    │
+│ programmer is told about the Tao and searches for it.  The foolish programmer │
+│ is told about the Tao and laughs at it.  If it were not for laughter, there   │
+│ would be no Tao.                                                              │
+│     The highest sounds are the hardest to hear.  Going forward is a way to    │
+│ retreat.  Greater talent shows itself late in life.  Even a perfect program   │
+│ still has bugs.                                                               │
+│         -- Geoffrey James, "The Tao of Programming"                           │
+╰───────────────────────────────────────────────────────────────────────────────╯
 ```
