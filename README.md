@@ -4,11 +4,9 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭────────────────────────────────────────────────────────────────────────────╮
-│ At first sight, the idea of any rules or principles being superimposed on  │
-│ the creative mind seems more likely to hinder than to help, but this is    │
-│ quite untrue in practice.  Disciplined thinking focuses inspiration rather │
-│ than blinkers it.                                                          │
-│         -- G. L. Glegg, "The Design of Design"                             │
-╰────────────────────────────────────────────────────────────────────────────╯
+╭──────────────────────────────────────────────────────────────────────────╮
+│ Congratulations!  You are the one-millionth user to log into our system. │
+│ If there's anything special we can do for you, anything at all, don't    │
+│ hesitate to ask!                                                         │
+╰──────────────────────────────────────────────────────────────────────────╯
 ```
