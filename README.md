@@ -5,8 +5,6 @@
 #### :cookie: Fortune cookie of the day
 ```smalltalk
 ╭──────────────────────────────────────────────────────────────────────────╮
-│ Congratulations!  You are the one-millionth user to log into our system. │
-│ If there's anything special we can do for you, anything at all, don't    │
-│ hesitate to ask!                                                         │
+│ I'm all for computer dating, but I wouldn't want one to marry my sister. │
 ╰──────────────────────────────────────────────────────────────────────────╯
 ```
