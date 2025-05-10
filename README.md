@@ -4,7 +4,8 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭──────────────────────────────────────────────────────────────────────────╮
-│ I'm all for computer dating, but I wouldn't want one to marry my sister. │
-╰──────────────────────────────────────────────────────────────────────────╯
+╭────────────────────────────────────────────╮
+│ The road to hell is paved with NAND gates. │
+│         -- J. Gooding                      │
+╰────────────────────────────────────────────╯
 ```
