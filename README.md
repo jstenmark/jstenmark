@@ -4,8 +4,9 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭────────────────────────────────────────────╮
-│ The road to hell is paved with NAND gates. │
-│         -- J. Gooding                      │
-╰────────────────────────────────────────────╯
+╭─────────────────────────────────────────────────────╮
+│ You can tune a piano, but you can't tuna fish.      │
+│ You can tune a filesystem, but you can't tuna fish. │
+│         -- from the tunefs(8) man page              │
+╰─────────────────────────────────────────────────────╯
 ```
