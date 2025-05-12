@@ -4,9 +4,10 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭─────────────────────────────────────────────────────╮
-│ You can tune a piano, but you can't tuna fish.      │
-│ You can tune a filesystem, but you can't tuna fish. │
-│         -- from the tunefs(8) man page              │
-╰─────────────────────────────────────────────────────╯
+╭──────────────────────────────────────────────────────────────────────────────╮
+│ To say that UNIX is doomed is pretty rabid, OS/2 will certainly play a role, │
+│ but you don't build a hundred million instructions per second multiprocessor │
+│ micro and then try to run it on OS/2.  I mean, get serious.                  │
+│         -- William Zachmann, International Data Corp                         │
+╰──────────────────────────────────────────────────────────────────────────────╯
 ```
