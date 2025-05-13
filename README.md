@@ -4,10 +4,7 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭──────────────────────────────────────────────────────────────────────────────╮
-│ To say that UNIX is doomed is pretty rabid, OS/2 will certainly play a role, │
-│ but you don't build a hundred million instructions per second multiprocessor │
-│ micro and then try to run it on OS/2.  I mean, get serious.                  │
-│         -- William Zachmann, International Data Corp                         │
-╰──────────────────────────────────────────────────────────────────────────────╯
+╭───────────────────────────────────────────────────────────────────────────────╮
+│ If a listener nods his head when you're explaining your program, wake him up. │
+╰───────────────────────────────────────────────────────────────────────────────╯
 ```
