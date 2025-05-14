@@ -4,7 +4,7 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭───────────────────────────────────────────────────────────────────────────────╮
-│ If a listener nods his head when you're explaining your program, wake him up. │
-╰───────────────────────────────────────────────────────────────────────────────╯
+╭──────────────────────────────────────────────╮
+│ You scratch my tape, and I'll scratch yours. │
+╰──────────────────────────────────────────────╯
 ```
