@@ -4,10 +4,8 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭────────────────────────────────────────────────────────────────────────────╮
-│ We are preparing to think about contemplating preliminary work on plans to │
-│ develop a schedule for producing the 10th Edition of the Unix Programmers  │
-│ Manual.                                                                    │
-│         -- Andrew Hume                                                     │
-╰────────────────────────────────────────────────────────────────────────────╯
+╭─────────────────────────────────────────────────────────────────╮
+│ Per buck you get more computing action with the small computer. │
+│         -- R. W. Hamming                                        │
+╰─────────────────────────────────────────────────────────────────╯
 ```
