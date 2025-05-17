@@ -4,8 +4,7 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭─────────────────────────────────────────────────────────────────╮
-│ Per buck you get more computing action with the small computer. │
-│         -- R. W. Hamming                                        │
-╰─────────────────────────────────────────────────────────────────╯
+╭─────────────────────────────────────────────────────╮
+│ If this is timesharing, give me my share right now. │
+╰─────────────────────────────────────────────────────╯
 ```
