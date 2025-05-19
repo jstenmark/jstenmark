@@ -4,7 +4,11 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭──────────────────────────────────────────╮
-│ Cobol programmers are down in the dumps. │
-╰──────────────────────────────────────────╯
+╭─────────────────────────────────────────────────────────────────────────╮
+│     "What's that thing?"                                                │
+│     "Well, it's a highly technical, sensitive instrument we use in      │
+│ computer repair.  Being a layman, you probably can't grasp exactly what │
+│ it does.  We call it a two-by-four."                                    │
+│         -- Jeff MacNelley, "Shoe"                                       │
+╰─────────────────────────────────────────────────────────────────────────╯
 ```
