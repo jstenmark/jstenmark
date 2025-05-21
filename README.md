@@ -4,8 +4,7 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭──────────────────────────────────────────────────────────────────────────╮
-│ Coding is easy;  All you do is sit staring at a terminal until the drops │
-│ of blood form on your forehead.                                          │
-╰──────────────────────────────────────────────────────────────────────────╯
+╭───────────────────────────────────────────────────────╮
+│ I've noticed several design suggestions in your code. │
+╰───────────────────────────────────────────────────────╯
 ```
