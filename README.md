@@ -4,7 +4,8 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭───────────────────────────────────────────────────────╮
-│ I've noticed several design suggestions in your code. │
-╰───────────────────────────────────────────────────────╯
+╭──────────────────────────────────────────────────────────────────────────╮
+│ Standards are crucial.  And the best thing about standards is: there are │
+│ so ____many to choose from!                                          │
+╰──────────────────────────────────────────────────────────────────────────╯
 ```
