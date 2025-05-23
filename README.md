@@ -4,8 +4,8 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭──────────────────────────────────────────────────────────────────────────╮
-│ Standards are crucial.  And the best thing about standards is: there are │
-│ so ____many to choose from!                                          │
-╰──────────────────────────────────────────────────────────────────────────╯
+╭─────────────────────────────────────────────────────────────────────────╮
+│ The 11 is for people with the pride of a 10 and the pocketbook of an 8. │
+│         -- R. B. Greenberg [referring to PDPs?]                         │
+╰─────────────────────────────────────────────────────────────────────────╯
 ```
