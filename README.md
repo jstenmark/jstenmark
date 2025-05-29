@@ -4,10 +4,10 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭───────────────────────────────────────────────────────────────────────╮
-│ Thus spake the master programmer:                                     │
-│     "You can demonstrate a program for a corporate executive, but you │
-│     can't make him computer literate."                                │
-│         -- Geoffrey James, "The Tao of Programming"                   │
-╰───────────────────────────────────────────────────────────────────────╯
+╭──────────────────────────────────────────────────────────────────────────────╮
+│ DOS: n., A small annoying boot virus that causes random spontaneous system   │
+│      crashes, usually just before saving a massive project.  Easily cured by │
+│      UNIX.  See also MS-DOS, IBM-DOS, DR-DOS.                                │
+│ (from David Vicker's .plan)                                                  │
+╰──────────────────────────────────────────────────────────────────────────────╯
 ```
