@@ -4,10 +4,13 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭──────────────────────────────────────────────────────────────────────────────╮
-│ DOS: n., A small annoying boot virus that causes random spontaneous system   │
-│      crashes, usually just before saving a massive project.  Easily cured by │
-│      UNIX.  See also MS-DOS, IBM-DOS, DR-DOS.                                │
-│ (from David Vicker's .plan)                                                  │
-╰──────────────────────────────────────────────────────────────────────────────╯
+╭────────────────────────────────────────────────────────────────────────────────╮
+│ ===  ALL CSH USERS PLEASE NOTE  ========================                       │
+│ Set the variable  to all the people that you think are losers.  This    │
+│ will cause all said losers to have the variable -WHO-THINK-I-AM-A-LOSER │
+│ updated in their .login file.  Should you attempt to execute a job on a        │
+│ machine with poor response time and a machine on your local net is currently   │
+│ populated by losers, that machine will be freed up for your job through a      │
+│ cold boot process.                                                             │
+╰────────────────────────────────────────────────────────────────────────────────╯
 ```
