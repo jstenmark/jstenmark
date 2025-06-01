@@ -4,7 +4,8 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭───────────────────────────────────────────────────╮
-│ The world will end in 5 minutes.  Please log out. │
-╰───────────────────────────────────────────────────╯
+╭────────────────────────────────────────────────────────────────────────╮
+│ You must realize that the computer has it in for you.  The irrefutable │
+│ proof of this is that the computer always does what you tell it to do. │
+╰────────────────────────────────────────────────────────────────────────╯
 ```
