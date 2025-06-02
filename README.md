@@ -4,8 +4,8 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭────────────────────────────────────────────────────────────────────────╮
-│ You must realize that the computer has it in for you.  The irrefutable │
-│ proof of this is that the computer always does what you tell it to do. │
-╰────────────────────────────────────────────────────────────────────────╯
+╭──────────────────────────────────────────────────────────────────────╮
+│ Computers will not be perfected until they can compute how much more │
+│ than the estimate the job will cost.                                 │
+╰──────────────────────────────────────────────────────────────────────╯
 ```
