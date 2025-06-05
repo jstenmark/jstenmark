@@ -4,8 +4,7 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭────────────────────────────────────────╮
-│ Logic doesn't apply to the real world. │
-│         -- Marvin Minsky               │
-╰────────────────────────────────────────╯
+╭───────────────────────────────────────────────────────────────────────────────╮
+│ The best way to accelerate a Macintoy is at 9.8 meters per second per second. │
+╰───────────────────────────────────────────────────────────────────────────────╯
 ```
