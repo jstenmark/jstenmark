@@ -4,8 +4,7 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭───────────────────────────────────────────────────────────╮
-│ Unix is a Registered Bell of AT&T Trademark Laboratories. │
-│         -- Donn Seeley                                    │
-╰───────────────────────────────────────────────────────────╯
+╭──────────────────────────────────────────────────╮
+│ ** MAXIMUM TERMINALS ACTIVE.  TRY AGAIN LATER ** │
+╰──────────────────────────────────────────────────╯
 ```
