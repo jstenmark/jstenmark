@@ -4,7 +4,7 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭──────────────────────────────────────────────────╮
-│ ** MAXIMUM TERMINALS ACTIVE.  TRY AGAIN LATER ** │
-╰──────────────────────────────────────────────────╯
+╭────────────────────────────────────────────────────────────────╮
+│ Most public domain software is free, at least at first glance. │
+╰────────────────────────────────────────────────────────────────╯
 ```
