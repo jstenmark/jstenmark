@@ -4,13 +4,13 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭──────────────────────────────────────────────────────────────────────────╮
-│ Unix is a lot more complicated (than CP/M) of course -- the typical Unix │
-│ hacker can never remember what the PRINT command is called this week --  │
-│ but when it gets right down to it, Unix is a glorified video game.       │
-│ People don't do serious work on Unix systems; they send jokes around the │
-│ world on USENET or write adventure games and research papers.            │
-│         -- E. Post                                                       │
-│         "Real Programmers Don't Use Pascal", Datamation, 7/83            │
-╰──────────────────────────────────────────────────────────────────────────╯
+╭────────────────────────────────────────────────────────────────────────────────╮
+│     In the beginning was the Tao.  The Tao gave birth to Space and Time.       │
+│ Therefore, Space and Time are the Yin and Yang of programming.                 │
+│     Programmers that do not comprehend the Tao are always running out of       │
+│ time and space for their programs.  Programmers that comprehend the Tao always │
+│ have enough time and space to accomplish their goals.                          │
+│     How could it be otherwise?                                                 │
+│         -- Geoffrey James, "The Tao of Programming"                            │
+╰────────────────────────────────────────────────────────────────────────────────╯
 ```
