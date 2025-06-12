@@ -4,13 +4,7 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭────────────────────────────────────────────────────────────────────────────────╮
-│     In the beginning was the Tao.  The Tao gave birth to Space and Time.       │
-│ Therefore, Space and Time are the Yin and Yang of programming.                 │
-│     Programmers that do not comprehend the Tao are always running out of       │
-│ time and space for their programs.  Programmers that comprehend the Tao always │
-│ have enough time and space to accomplish their goals.                          │
-│     How could it be otherwise?                                                 │
-│         -- Geoffrey James, "The Tao of Programming"                            │
-╰────────────────────────────────────────────────────────────────────────────────╯
+╭───────────────────────────────────────────────────────────────────╮
+│ I'm still waiting for the advent of the computer science groupie. │
+╰───────────────────────────────────────────────────────────────────╯
 ```
