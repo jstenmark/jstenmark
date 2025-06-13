@@ -4,7 +4,7 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭───────────────────────────────────────────────────────────────────╮
-│ I'm still waiting for the advent of the computer science groupie. │
-╰───────────────────────────────────────────────────────────────────╯
+╭─────────────────────────────────╮
+│ 1: No code table for op: ++post │
+╰─────────────────────────────────╯
 ```
