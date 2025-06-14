@@ -4,7 +4,8 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭─────────────────────────────────╮
-│ 1: No code table for op: ++post │
-╰─────────────────────────────────╯
+╭──────────────────────────────────────────────────────────────────────────────╮
+│ [A computer is] like an Old Testament god, with a lot of rules and no mercy. │
+│         -- Joseph Campbell                                                   │
+╰──────────────────────────────────────────────────────────────────────────────╯
 ```
