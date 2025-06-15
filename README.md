@@ -4,8 +4,7 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭──────────────────────────────────────────────────────────────────────────────╮
-│ [A computer is] like an Old Testament god, with a lot of rules and no mercy. │
-│         -- Joseph Campbell                                                   │
-╰──────────────────────────────────────────────────────────────────────────────╯
+╭──────────────────────────────────────╮
+│ Save energy:  Drive a smaller shell. │
+╰──────────────────────────────────────╯
 ```
