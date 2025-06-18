@@ -4,8 +4,7 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭─────────────────────────────────────────────────────────────────────────╮
-│ Trying to be happy is like trying to build a machine for which the only │
-│ specification is that it should run noiselessly.                        │
-╰─────────────────────────────────────────────────────────────────────────╯
+╭────────────────────╮
+│ fortune: not found │
+╰────────────────────╯
 ```
