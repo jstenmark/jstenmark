@@ -4,7 +4,7 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭────────────────────╮
-│ fortune: not found │
-╰────────────────────╯
+╭─────────────────────────────────────────╮
+│ I wish you humans would leave me alone. │
+╰─────────────────────────────────────────╯
 ```
