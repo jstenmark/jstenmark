@@ -4,7 +4,7 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭──────────────────────╮
-│ Type louder, please. │
-╰──────────────────────╯
+╭───────────────────────────────────╮
+│ Vitamin C deficiency is apauling. │
+╰───────────────────────────────────╯
 ```
