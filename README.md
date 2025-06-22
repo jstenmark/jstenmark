@@ -4,7 +4,10 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭───────────────────────────────────╮
-│ Vitamin C deficiency is apauling. │
-╰───────────────────────────────────╯
+╭────────────────────────────────────────────────────────────────────────────────╮
+│ Giving up on assembly language was the apple in our Garden of Eden:  Languages │
+│ whose use squanders machine cycles are sinful.  The LISP machine now permits   │
+│ LISP programmers to abandon bra and fig-leaf.                                  │
+│         -- Epigrams in Programming, ACM SIGPLAN Sept. 1982                     │
+╰────────────────────────────────────────────────────────────────────────────────╯
 ```
