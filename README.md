@@ -4,8 +4,7 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭─────────────────────────────────────────────────────────────────────────╮
-│ BYTE editors are people who separate the wheat from the chaff, and then │
-│ carefully print the chaff.                                              │
-╰─────────────────────────────────────────────────────────────────────────╯
+╭─────────────────────────────╮
+│ Kiss your keyboard goodbye! │
+╰─────────────────────────────╯
 ```
