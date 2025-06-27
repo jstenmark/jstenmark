@@ -4,11 +4,7 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭───────────────────────────────────────────────────────────────────────────╮
-│ As seen on slashdot about what you can do with your cable modems:         │
-│ (http://slashdot.org/comments.pl?sid=32387&cid=3495418):                  │
-│         Summary: It's not about how you handle your equipment, it's where │
-│         you have permission to stick it.                                  │
-│ The post is by "redgekko"                                                 │
-╰───────────────────────────────────────────────────────────────────────────╯
+╭──────────────────────────────────────────────╮
+│ Avoid strange women and temporary variables. │
+╰──────────────────────────────────────────────╯
 ```
