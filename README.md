@@ -4,7 +4,7 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭──────────────────────────────────────────────╮
-│ Avoid strange women and temporary variables. │
-╰──────────────────────────────────────────────╯
+╭────────────────────────────────────────────────────────╮
+│ There are three kinds of people: men, women, and unix. │
+╰────────────────────────────────────────────────────────╯
 ```
