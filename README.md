@@ -4,7 +4,7 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭────────────────────────────────────────────────────────╮
-│ There are three kinds of people: men, women, and unix. │
-╰────────────────────────────────────────────────────────╯
+╭─────────────────────────────────────────────╮
+│ Your mode of life will be changed to ASCII. │
+╰─────────────────────────────────────────────╯
 ```
