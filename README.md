@@ -4,7 +4,7 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭─────────────────────────────────────────────╮
-│ Your mode of life will be changed to ASCII. │
-╰─────────────────────────────────────────────╯
+╭───────────────────────────────────────────────────────────╮
+│ As of next week, passwords will be entered in Morse code. │
+╰───────────────────────────────────────────────────────────╯
 ```
