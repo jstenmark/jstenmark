@@ -4,7 +4,7 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭───────────────────────────────────────────────────────────╮
-│ As of next week, passwords will be entered in Morse code. │
-╰───────────────────────────────────────────────────────────╯
+╭─────────────────────────────────────────────────╮
+│ This system will self-destruct in five minutes. │
+╰─────────────────────────────────────────────────╯
 ```
