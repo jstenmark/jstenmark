@@ -4,12 +4,8 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭────────────────────────────────────────────────────────────────────────────╮
-│ It is possible by ingenuity and at the expense of clarity... {to do almost │
-│ anything in any language}.  However, the fact that it is possible to push  │
-│ a pea up a mountain with your nose does not mean that this is a sensible   │
-│ way of getting it there.  Each of these techniques of language extension   │
-│ should be used in its proper place.                                        │
-│         -- Christopher Strachey                                            │
-╰────────────────────────────────────────────────────────────────────────────╯
+╭──────────────────────────────────────────────────────────────────────────╮
+│ Standards are crucial.  And the best thing about standards is: there are │
+│ so ____many to choose from!                                          │
+╰──────────────────────────────────────────────────────────────────────────╯
 ```
