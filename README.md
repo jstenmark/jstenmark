@@ -4,9 +4,7 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭────────────────────────────────────────────────────────────────────────╮
-│ Conceptual integrity in turn dictates that the design must proceed     │
-│ from one mind, or from a very small number of agreeing resonant minds. │
-│         -- Frederick Brooks Jr., "The Mythical Man Month"              │
-╰────────────────────────────────────────────────────────────────────────╯
+╭────────────────────────────────────────────────────╮
+│ Row, row, row your bits, gently down the stream... │
+╰────────────────────────────────────────────────────╯
 ```
