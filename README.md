@@ -4,7 +4,7 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭────────────────────────────────────────────────────╮
-│ Row, row, row your bits, gently down the stream... │
-╰────────────────────────────────────────────────────╯
+╭───────────────────────────────────────╮
+│ You have a message from the operator. │
+╰───────────────────────────────────────╯
 ```
