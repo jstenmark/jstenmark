@@ -4,7 +4,8 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭───────────────────────────────────────╮
-│ You have a message from the operator. │
-╰───────────────────────────────────────╯
+╭──────────────────────────────────────────────────────────────────────╮
+│ If the code and the comments disagree, then both are probably wrong. │
+│         -- Norm Schryer                                              │
+╰──────────────────────────────────────────────────────────────────────╯
 ```
