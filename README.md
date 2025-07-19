@@ -4,8 +4,15 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭──────────────────────────────────────────────────────────────────────╮
-│ If the code and the comments disagree, then both are probably wrong. │
-│         -- Norm Schryer                                              │
-╰──────────────────────────────────────────────────────────────────────╯
+╭──────────────────────────────────────────────────────────────────────────────╮
+│ The misnaming of fields of study is so common as to lead to what might be    │
+│ general systems laws.  For example, Frank Harary once suggested the law that │
+│ any field that had the word "science" in its name was guaranteed thereby     │
+│ not to be a science.  He would cite as examples Military Science, Library    │
+│ Science, Political Science, Homemaking Science, Social Science, and Computer │
+│ Science.  Discuss the generality of this law, and possible reasons for its   │
+│ predictive power.                                                            │
+│         -- Gerald Weinberg, "An Introduction to General Systems              │
+│            Thinking"                                                         │
+╰──────────────────────────────────────────────────────────────────────────────╯
 ```
