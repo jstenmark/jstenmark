@@ -4,15 +4,14 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭──────────────────────────────────────────────────────────────────────────────╮
-│ The misnaming of fields of study is so common as to lead to what might be    │
-│ general systems laws.  For example, Frank Harary once suggested the law that │
-│ any field that had the word "science" in its name was guaranteed thereby     │
-│ not to be a science.  He would cite as examples Military Science, Library    │
-│ Science, Political Science, Homemaking Science, Social Science, and Computer │
-│ Science.  Discuss the generality of this law, and possible reasons for its   │
-│ predictive power.                                                            │
-│         -- Gerald Weinberg, "An Introduction to General Systems              │
-│            Thinking"                                                         │
-╰──────────────────────────────────────────────────────────────────────────────╯
+╭───────────────────────────────────────────────────────────────────────────╮
+│ Now, it we had this sort of thing:                                        │
+│   yield -a     for yield to all traffic                                   │
+│   yield -t     for yield to trucks                                        │
+│   yield -f     for yield to people walking (yield foot)                   │
+│   yield -d t*  for yield on days starting with t                          │
+│ ...you'd have a lot of dead people at intersections, and traffic jams you │
+│ wouldn't believe...                                                       │
+│ (Discussion in comp.os.linux.misc on the intuitiveness of commands.)      │
+╰───────────────────────────────────────────────────────────────────────────╯
 ```
