@@ -4,14 +4,26 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭───────────────────────────────────────────────────────────────────────────╮
-│ Now, it we had this sort of thing:                                        │
-│   yield -a     for yield to all traffic                                   │
-│   yield -t     for yield to trucks                                        │
-│   yield -f     for yield to people walking (yield foot)                   │
-│   yield -d t*  for yield on days starting with t                          │
-│ ...you'd have a lot of dead people at intersections, and traffic jams you │
-│ wouldn't believe...                                                       │
-│ (Discussion in comp.os.linux.misc on the intuitiveness of commands.)      │
-╰───────────────────────────────────────────────────────────────────────────╯
+╭────────────────────────────────────────────────────────────╮
+│ X windows:                                                 │
+│     The ultimate bottleneck.                               │
+│     Flawed beyond belief.                                  │
+│     The only thing you have to fear.                       │
+│     Somewhere between chaos and insanity.                  │
+│     On autopilot to oblivion.                              │
+│     The joke that kills.                                   │
+│     A disgrace you can be proud of.                        │
+│     A mistake carried out to perfection.                   │
+│     Belongs more to the problem set than the solution set. │
+│     To err is X windows.                                   │
+│     Ignorance is our most important resource.              │
+│     Complex nonsolutions to simple nonproblems.            │
+│     Built to fall apart.                                   │
+│     Nullifying centuries of progress.                      │
+│     Falling to new depths of inefficiency.                 │
+│     The last thing you need.                               │
+│     The defacto substandard.                               │
+│ Elevating brain damage to an art form.                     │
+│     X windows.                                             │
+╰────────────────────────────────────────────────────────────╯
 ```
