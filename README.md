@@ -4,7 +4,8 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭───────────────────────────────────────────────────────────────────╮
-│ I'm still waiting for the advent of the computer science groupie. │
-╰───────────────────────────────────────────────────────────────────╯
+╭────────────────────────────────────╮
+│ The steady state of disks is full. │
+│         -- Ken Thompson            │
+╰────────────────────────────────────╯
 ```
