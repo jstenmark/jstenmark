@@ -4,8 +4,9 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭────────────────────────────────────╮
-│ The steady state of disks is full. │
-│         -- Ken Thompson            │
-╰────────────────────────────────────╯
+╭────────────────────────────────────────────────────────────────────────╮
+│ Systems have sub-systems and sub-systems have sub-systems and so on ad │
+│ infinitum -- which is why we're always starting over.                  │
+│         -- Epigrams in Programming, ACM SIGPLAN Sept. 1982             │
+╰────────────────────────────────────────────────────────────────────────╯
 ```
