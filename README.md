@@ -4,7 +4,10 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭───────────────────────────────────────────╮
-│ fortune: cannot execute.  Out of cookies. │
-╰───────────────────────────────────────────╯
+╭─────────────────────────────────────────────────────────────────────────╮
+│ As part of the conversion, computer specialists rewrote 1,500 programs; │
+│ a process that traditionally requires some debugging.                   │
+│         -- USA Today, referring to the Internal Revenue Service         │
+│            conversion to a new computer system.                         │
+╰─────────────────────────────────────────────────────────────────────────╯
 ```
