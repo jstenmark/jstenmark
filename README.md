@@ -4,10 +4,8 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭─────────────────────────────────────────────────────────────────────────╮
-│ As part of the conversion, computer specialists rewrote 1,500 programs; │
-│ a process that traditionally requires some debugging.                   │
-│         -- USA Today, referring to the Internal Revenue Service         │
-│            conversion to a new computer system.                         │
-╰─────────────────────────────────────────────────────────────────────────╯
+╭─────────────────────────────────────────────────────────────────────────────────╮
+│ Real Programmers don't write in FORTRAN.  FORTRAN is for pipe stress freaks and │
+│ crystallography weenies.  FORTRAN is for wimp engineers who wear white socks.   │
+╰─────────────────────────────────────────────────────────────────────────────────╯
 ```
