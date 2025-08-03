@@ -4,8 +4,7 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭─────────────────────────────────────────────────────────────────────────────────╮
-│ Real Programmers don't write in FORTRAN.  FORTRAN is for pipe stress freaks and │
-│ crystallography weenies.  FORTRAN is for wimp engineers who wear white socks.   │
-╰─────────────────────────────────────────────────────────────────────────────────╯
+╭───────────────────────────────────────────────────────────╮
+│ You are in a maze of little twisting passages, all alike. │
+╰───────────────────────────────────────────────────────────╯
 ```
