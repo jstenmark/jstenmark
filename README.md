@@ -4,7 +4,11 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭───────────────────────────────────────────────────────────╮
-│ You are in a maze of little twisting passages, all alike. │
-╰───────────────────────────────────────────────────────────╯
+╭─────────────────────────────────────────────────────────────────────────────╮
+│ Couldn't we jury-rig the cat to act as an audio switch, and have it yell    │
+│ at people to save their core images before logging them out?  I'm sure      │
+│ the cattle prod would be effective in this regard.  In any case, a traverse │
+│ mounted iguana, while more perverted, gives better traction, not to mention │
+│ being easier to stake.                                                      │
+╰─────────────────────────────────────────────────────────────────────────────╯
 ```
