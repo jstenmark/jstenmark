@@ -4,11 +4,22 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭────────────────────────────────────────────────────────────────────────╮
-│ The beer-cooled computer does not harm the ozone layer.                │
-│         -- John M. Ford, a.k.a. Dr. Mike                               │
-│     [If I can read my notes from the Ask Dr. Mike session at Baycon, I │
-│      believe he added that the beer-cooled computer uses "Forget Only  │
-│      Memory".  Ed.]                                                    │
-╰────────────────────────────────────────────────────────────────────────╯
+╭──────────────────────────────────────────────────────────────────╮
+│ Proposed Additions to the PDP-11 Instruction Set:                │
+│ BBW    Branch Both Ways                                          │
+│ BEW    Branch Either Way                                         │
+│ BBBF    Branch on Bit Bucket Full                                │
+│ BH    Branch and Hang                                            │
+│ BMR    Branch Multiple Registers                                 │
+│ BOB    Branch On Bug                                             │
+│ BPO    Branch on Power Off                                       │
+│ BST    Backspace and Stretch Tape                                │
+│ CDS    Condense and Destroy System                               │
+│ CLBR    Clobber Register                                         │
+│ CLBRI    Clobber Register Immediately                            │
+│ CM    Circulate Memory                                           │
+│ CMFRM    Come From -- essential for truly structured programming │
+│ CPPR    Crumple Printer Paper and Rip                            │
+│ CRN    Convert to Roman Numerals                                 │
+╰──────────────────────────────────────────────────────────────────╯
 ```
