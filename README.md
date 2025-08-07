@@ -4,22 +4,7 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭──────────────────────────────────────────────────────────────────╮
-│ Proposed Additions to the PDP-11 Instruction Set:                │
-│ BBW    Branch Both Ways                                          │
-│ BEW    Branch Either Way                                         │
-│ BBBF    Branch on Bit Bucket Full                                │
-│ BH    Branch and Hang                                            │
-│ BMR    Branch Multiple Registers                                 │
-│ BOB    Branch On Bug                                             │
-│ BPO    Branch on Power Off                                       │
-│ BST    Backspace and Stretch Tape                                │
-│ CDS    Condense and Destroy System                               │
-│ CLBR    Clobber Register                                         │
-│ CLBRI    Clobber Register Immediately                            │
-│ CM    Circulate Memory                                           │
-│ CMFRM    Come From -- essential for truly structured programming │
-│ CPPR    Crumple Printer Paper and Rip                            │
-│ CRN    Convert to Roman Numerals                                 │
-╰──────────────────────────────────────────────────────────────────╯
+╭──────────────────╮
+│ Function reject. │
+╰──────────────────╯
 ```
