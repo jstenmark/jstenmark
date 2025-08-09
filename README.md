@@ -4,8 +4,7 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭───────────────────────────────────────────────────────────────────────╮
-│ The party adjourned to a hot tub, yes.  Fully clothed, I might add.   │
-│         -- IBM employee, testifying in California State Supreme Court │
-╰───────────────────────────────────────────────────────────────────────╯
+╭───────────────────────────────────╮
+│ Put no trust in cryptic comments. │
+╰───────────────────────────────────╯
 ```
