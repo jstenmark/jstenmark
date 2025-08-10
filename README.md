@@ -4,7 +4,8 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭───────────────────────────────────╮
-│ Put no trust in cryptic comments. │
-╰───────────────────────────────────╯
+╭────────────────────────────────────────────────────────╮
+│ Linux: Because a PC is a terrible thing to waste.      │
+│ (By komarimf@craft.camp.clarkson.edu, Mark Komarinski) │
+╰────────────────────────────────────────────────────────╯
 ```
