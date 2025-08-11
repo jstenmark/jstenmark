@@ -4,8 +4,7 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭────────────────────────────────────────────────────────╮
-│ Linux: Because a PC is a terrible thing to waste.      │
-│ (By komarimf@craft.camp.clarkson.edu, Mark Komarinski) │
-╰────────────────────────────────────────────────────────╯
+╭───────────────────────────────────────────────────────────────────╮
+│ I'm still waiting for the advent of the computer science groupie. │
+╰───────────────────────────────────────────────────────────────────╯
 ```
