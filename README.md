@@ -4,7 +4,7 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭──────────────────╮
-│ /usr/news/gotcha │
-╰──────────────────╯
+╭───────────────────────────────────────────────────────────────────────────╮
+│ To understand a program you must become both the machine and the program. │
+╰───────────────────────────────────────────────────────────────────────────╯
 ```
