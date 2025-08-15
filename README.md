@@ -4,7 +4,7 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭───────────────────────────────────────────────────────────────────────────╮
-│ To understand a program you must become both the machine and the program. │
-╰───────────────────────────────────────────────────────────────────────────╯
+╭────────────────────────────────╮
+│ Save gas, don't use the shell. │
+╰────────────────────────────────╯
 ```
