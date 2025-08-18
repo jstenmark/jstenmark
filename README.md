@@ -4,7 +4,8 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭───────────────────────────────────────╮
-│ You can be replaced by this computer. │
-╰───────────────────────────────────────╯
+╭──────────────────────────────────────────────────────────────╮
+│ A Linux machine! because a 486 is a terrible thing to waste! │
+│ (By jjs@wintermute.ucr.edu, Joe Sloan)                       │
+╰──────────────────────────────────────────────────────────────╯
 ```
