@@ -4,8 +4,9 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭──────────────────────────────────────────────────────────────╮
-│ A Linux machine! because a 486 is a terrible thing to waste! │
-│ (By jjs@wintermute.ucr.edu, Joe Sloan)                       │
-╰──────────────────────────────────────────────────────────────╯
+╭─────────────────────────────────────────────────────────────────────╮
+│ Sigh.  I like to think it's just the Linux people who want to be on │
+│ the "leading edge" so bad they walk right off the precipice.        │
+│ (Craig E. Groeschel)                                                │
+╰─────────────────────────────────────────────────────────────────────╯
 ```
