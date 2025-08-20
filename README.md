@@ -4,9 +4,10 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭─────────────────────────────────────────────────────────────────────╮
-│ Sigh.  I like to think it's just the Linux people who want to be on │
-│ the "leading edge" so bad they walk right off the precipice.        │
-│ (Craig E. Groeschel)                                                │
-╰─────────────────────────────────────────────────────────────────────╯
+╭─────────────────────────────────────────────────────────────────────────╮
+│ "...you might as well skip the Xmas celebration completely, and instead │
+│ sit in front of your linux computer playing with the                    │
+│ all-new-and-improved linux kernel version."                             │
+│ (By Linus Torvalds)                                                     │
+╰─────────────────────────────────────────────────────────────────────────╯
 ```
