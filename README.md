@@ -4,10 +4,9 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭─────────────────────────────────────────────────────────────────────────╮
-│ "...you might as well skip the Xmas celebration completely, and instead │
-│ sit in front of your linux computer playing with the                    │
-│ all-new-and-improved linux kernel version."                             │
-│ (By Linus Torvalds)                                                     │
-╰─────────────────────────────────────────────────────────────────────────╯
+╭─────────────────────────────────────────────────────────────────────╮
+│ "We all know Linux is great...it does infinite loops in 5 seconds." │
+│ (Linus Torvalds about the superiority of Linux on the Amsterdam     │
+│ Linux Symposium)                                                    │
+╰─────────────────────────────────────────────────────────────────────╯
 ```
