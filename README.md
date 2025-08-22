@@ -4,9 +4,7 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭─────────────────────────────────────────────────────────────────────╮
-│ "We all know Linux is great...it does infinite loops in 5 seconds." │
-│ (Linus Torvalds about the superiority of Linux on the Amsterdam     │
-│ Linux Symposium)                                                    │
-╰─────────────────────────────────────────────────────────────────────╯
+╭──────────────────────────────────────╮
+│ Save yourself!  Reboot in 5 seconds! │
+╰──────────────────────────────────────╯
 ```
