@@ -4,7 +4,7 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭──────────────────────────────────────╮
-│ Save yourself!  Reboot in 5 seconds! │
-╰──────────────────────────────────────╯
+╭──────────────╮
+│ news: gotcha │
+╰──────────────╯
 ```
