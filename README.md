@@ -4,7 +4,10 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭──────────────╮
-│ news: gotcha │
-╰──────────────╯
+╭──────────────────────────────────────────────────────────────────╮
+│ FORTRAN is a good example of a language which is easier to parse │
+│ using ad hoc techniques.                                         │
+│         -- D. Gries                                              │
+│         [What's good about it?  Ed.]                             │
+╰──────────────────────────────────────────────────────────────────╯
 ```
