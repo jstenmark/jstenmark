@@ -4,11 +4,10 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭────────────────────────────────────────────────────────────────────────────╮
-│ At first sight, the idea of any rules or principles being superimposed on  │
-│ the creative mind seems more likely to hinder than to help, but this is    │
-│ quite untrue in practice.  Disciplined thinking focuses inspiration rather │
-│ than blinkers it.                                                          │
-│         -- G. L. Glegg, "The Design of Design"                             │
-╰────────────────────────────────────────────────────────────────────────────╯
+╭────────────────────────────────────────────────────────────────────────────────╮
+│ Anyone who thinks UNIX is intuitive should be forced to write 5000 lines of    │
+│ code using nothing but vi or emacs. AAAAACK!                                   │
+│ (Discussion in comp.os.linux.misc on the intuitiveness of commands, especially │
+│ Emacs.)                                                                        │
+╰────────────────────────────────────────────────────────────────────────────────╯
 ```
