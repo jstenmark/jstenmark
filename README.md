@@ -4,7 +4,9 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭──────────────────────────────────────────────────────────╮
-│ Your computer account is overdrawn.  Please reauthorize. │
-╰──────────────────────────────────────────────────────────╯
+╭─────────────────────────────────────────────────────────────────────────╮
+│ And 1.1.81 is officially BugFree(tm), so if you receive any bug-reports │
+│ on it, you know they are just evil lies."                               │
+│ (By Linus Torvalds, Linus.Torvalds@cs.helsinki.fi)                      │
+╰─────────────────────────────────────────────────────────────────────────╯
 ```
