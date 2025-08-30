@@ -4,9 +4,9 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭─────────────────────────────────────────────────────────────────────────╮
-│ And 1.1.81 is officially BugFree(tm), so if you receive any bug-reports │
-│ on it, you know they are just evil lies."                               │
-│ (By Linus Torvalds, Linus.Torvalds@cs.helsinki.fi)                      │
-╰─────────────────────────────────────────────────────────────────────────╯
+╭───────────────────────────────────────────────────────────╮
+│ Breakpoint 1, main (argc=1, argv=0xbffffc40) at main.c:29 │
+│ 29   printf ("Welcome to GNU Hell!\n");                   │
+│         -- "GNU Libtool documentation"                    │
+╰───────────────────────────────────────────────────────────╯
 ```
