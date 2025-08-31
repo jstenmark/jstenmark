@@ -4,9 +4,9 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭───────────────────────────────────────────────────────────╮
-│ Breakpoint 1, main (argc=1, argv=0xbffffc40) at main.c:29 │
-│ 29   printf ("Welcome to GNU Hell!\n");                   │
-│         -- "GNU Libtool documentation"                    │
-╰───────────────────────────────────────────────────────────╯
+╭──────────────────────────────────────────────────────────────────────────╮
+│ In less than a century, computers will be making substantial progress on │
+│ ... the overriding problem of war and peace.                             │
+│         -- James Slagle                                                  │
+╰──────────────────────────────────────────────────────────────────────────╯
 ```
