@@ -4,11 +4,12 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭──────────────────────────────────────────────────────────────────────╮
-│ One of the most overlooked advantages to computers is...  If they do │
-│ foul up, there's no law against whacking them around a little.       │
-│         -- Joe Martin                                                │
-╰──────────────────────────────────────────────────────────────────────╯
+╭────────────────────────────────────────────────────────────────────╮
+│ You have acquired a scroll entitled 'irk gleknow mizk'(n).--More-- │
+│ This is an IBM Manual scroll.--More--                              │
+│ You are permanently confused.                                      │
+│         -- Dave Decot                                              │
+╰────────────────────────────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
