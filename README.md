@@ -4,12 +4,11 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭────────────────────────────────────────────────────────────────────╮
-│ You have acquired a scroll entitled 'irk gleknow mizk'(n).--More-- │
-│ This is an IBM Manual scroll.--More--                              │
-│ You are permanently confused.                                      │
-│         -- Dave Decot                                              │
-╰────────────────────────────────────────────────────────────────────╯
+╭─────────────────────────────────────────────────────────────────────╮
+│ Man is the best computer we can put aboard a spacecraft ... and the │
+│ only one that can be mass produced with unskilled labor.            │
+│         -- Wernher von Braun                                        │
+╰─────────────────────────────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
