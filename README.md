@@ -5,9 +5,9 @@
 #### :cookie: Fortune cookie of the day
 ```smalltalk
 ╭─────────────────────────────────────────────────────────────────────╮
-│ Man is the best computer we can put aboard a spacecraft ... and the │
-│ only one that can be mass produced with unskilled labor.            │
-│         -- Wernher von Braun                                        │
+│ The bugs you have to avoid are the ones that give the user not only │
+│ the inclination to get on a plane, but also the time.               │
+│         -- Kay Bostic                                               │
 ╰─────────────────────────────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
