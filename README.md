@@ -4,11 +4,9 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭─────────────────────────────────────────────────────────────────────╮
-│ The bugs you have to avoid are the ones that give the user not only │
-│ the inclination to get on a plane, but also the time.               │
-│         -- Kay Bostic                                               │
-╰─────────────────────────────────────────────────────────────────────╯
+╭─────────────────────────────────────────────────────────────────────────────╮
+│ If you think the system is working, ask someone who's waiting for a prompt. │
+╰─────────────────────────────────────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
