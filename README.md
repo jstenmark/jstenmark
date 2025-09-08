@@ -4,12 +4,10 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭───────────────────────────────────────────────────────────────────────────╮
-│     "Uncle Cosmo ... why do they call this a word processor?"             │
-│     "It's simple, Skyler ... you've seen what food processors do to food, │
-│ right?"                                                                   │
-│         -- MacNelley, "Shoe"                                              │
-╰───────────────────────────────────────────────────────────────────────────╯
+╭─────────────────────────────────────────────────────────────────────╮
+│ It's a naive, domestic operating system without any breeding, but I │
+│ think you'll be amused by its presumption.                          │
+╰─────────────────────────────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
