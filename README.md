@@ -4,10 +4,11 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭─────────────────────────────────────────────────────────────────────╮
-│ It's a naive, domestic operating system without any breeding, but I │
-│ think you'll be amused by its presumption.                          │
-╰─────────────────────────────────────────────────────────────────────╯
+╭────────────────────────────────────────────────────────────────────────────────╮
+│ What a computer is to me is the most remarkable tool that we have ever come up │
+│ with. It's the equivalent of a bicycle for our minds.                          │
+│                 -- Steve Jobs (1955-2011)                                      │
+╰────────────────────────────────────────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
