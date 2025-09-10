@@ -4,11 +4,11 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭────────────────────────────────────────────────────────────────────────────────╮
-│ What a computer is to me is the most remarkable tool that we have ever come up │
-│ with. It's the equivalent of a bicycle for our minds.                          │
-│                 -- Steve Jobs (1955-2011)                                      │
-╰────────────────────────────────────────────────────────────────────────────────╯
+╭────────────────────────────────────────────────────────────────────╮
+│ In most countries selling harmful things like drugs is punishable. │
+│ Then howcome people can sell Microsoft software and go unpunished? │
+│ (By hasku@rost.abo.fi, Hasse Skrifvars)                            │
+╰────────────────────────────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
