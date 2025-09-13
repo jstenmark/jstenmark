@@ -4,13 +4,11 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭─────────────────────────────────────────────────────────────────────────────────╮
-│ When I read commentary about suggestions for where C should go, I often think   │
-│ back and give thanks that it wasn't developed under the advice of a worldwide   │
-│ crowd.                                                                          │
-│     -- Dennis Ritchie (1941-2011), creator of the C programming language and of │
-│     UNIX                                                                        │
-╰─────────────────────────────────────────────────────────────────────────────────╯
+╭─────────────────────────────────────────────────────────────────────────╮
+│ And 1.1.81 is officially BugFree(tm), so if you receive any bug-reports │
+│ on it, you know they are just evil lies."                               │
+│ (By Linus Torvalds, Linus.Torvalds@cs.helsinki.fi)                      │
+╰─────────────────────────────────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
