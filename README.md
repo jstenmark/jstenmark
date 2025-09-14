@@ -4,11 +4,10 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭─────────────────────────────────────────────────────────────────────────╮
-│ And 1.1.81 is officially BugFree(tm), so if you receive any bug-reports │
-│ on it, you know they are just evil lies."                               │
-│ (By Linus Torvalds, Linus.Torvalds@cs.helsinki.fi)                      │
-╰─────────────────────────────────────────────────────────────────────────╯
+╭─────────────────────────────────────────────────────────────────────────────╮
+│ Beware of the Turing Tar-pit in which everything is possible but nothing of │
+│ interest is easy.                                                           │
+╰─────────────────────────────────────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
