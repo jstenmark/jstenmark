@@ -4,11 +4,9 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭─────────────────────────────────────────────────────────────────────╮
-│ UNIX is hot.  It's more than hot.  It's steaming.  It's quicksilver │
-│ lightning with a laserbeam kicker.                                  │
-│         -- Michael Jay Tucker                                       │
-╰─────────────────────────────────────────────────────────────────────╯
+╭────────────────────────────────────────────────╮
+│ If God had a beard, he'd be a UNIX programmer. │
+╰────────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
