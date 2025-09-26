@@ -4,9 +4,12 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭──────────────────────────────────────────────────╮
-│ ** MAXIMUM TERMINALS ACTIVE.  TRY AGAIN LATER ** │
-╰──────────────────────────────────────────────────╯
+╭──────────────────────────────────────────────────────────────────────────────╮
+│ DOS: n., A small annoying boot virus that causes random spontaneous system   │
+│      crashes, usually just before saving a massive project.  Easily cured by │
+│      UNIX.  See also MS-DOS, IBM-DOS, DR-DOS.                                │
+│ (from David Vicker's .plan)                                                  │
+╰──────────────────────────────────────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
