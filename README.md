@@ -4,12 +4,11 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭──────────────────────────────────────────────────────────────────────────────╮
-│ DOS: n., A small annoying boot virus that causes random spontaneous system   │
-│      crashes, usually just before saving a massive project.  Easily cured by │
-│      UNIX.  See also MS-DOS, IBM-DOS, DR-DOS.                                │
-│ (from David Vicker's .plan)                                                  │
-╰──────────────────────────────────────────────────────────────────────────────╯
+╭────────────────────────────────────────────────────────────────────────────╮
+│ You can now buy more gates with less specifications than at any other time │
+│ in history.                                                                │
+│         -- Kenneth Parker                                                  │
+╰────────────────────────────────────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
