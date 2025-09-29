@@ -4,11 +4,10 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭──────────────────────────────────────────────────────────────────────╮
-│ "Are [Linux users] lemmings collectively jumping off of the cliff of │
-│ reliable, well-engineered commercial software?"                      │
-│ (By Matt Welsh)                                                      │
-╰──────────────────────────────────────────────────────────────────────╯
+╭─────────────────────────────────────────────────────────────────────────────╮
+│ Disraeli was pretty close: actually, there are Lies, Damn lies, Statistics, │
+│ Benchmarks, and Delivery dates.                                             │
+╰─────────────────────────────────────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
