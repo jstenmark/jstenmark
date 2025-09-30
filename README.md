@@ -4,10 +4,16 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭─────────────────────────────────────────────────────────────────────────────╮
-│ Disraeli was pretty close: actually, there are Lies, Damn lies, Statistics, │
-│ Benchmarks, and Delivery dates.                                             │
-╰─────────────────────────────────────────────────────────────────────────────╯
+╭──────────────────────────────────────────────────────────────────╮
+│ Do you suffer painful elimination?                               │
+│         -- Don Knuth, "Structured Programming with Gotos"        │
+│ Do you suffer painful recrimination?                             │
+│         -- Nancy Boxer, "Structured Programming with Come-froms" │
+│ Do you suffer painful illumination?                              │
+│         -- Isaac Newton, "Optics"                                │
+│ Do you suffer painful hallucination?                             │
+│         -- Don Juan, cited by Carlos Casteneda                   │
+╰──────────────────────────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
