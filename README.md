@@ -4,16 +4,9 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭──────────────────────────────────────────────────────────────────╮
-│ Do you suffer painful elimination?                               │
-│         -- Don Knuth, "Structured Programming with Gotos"        │
-│ Do you suffer painful recrimination?                             │
-│         -- Nancy Boxer, "Structured Programming with Come-froms" │
-│ Do you suffer painful illumination?                              │
-│         -- Isaac Newton, "Optics"                                │
-│ Do you suffer painful hallucination?                             │
-│         -- Don Juan, cited by Carlos Casteneda                   │
-╰──────────────────────────────────────────────────────────────────╯
+╭────────────────╮
+│ Know Thy User. │
+╰────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
