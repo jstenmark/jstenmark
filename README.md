@@ -4,25 +4,22 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭─────────────────────────────────────────────────────────────────────────────────╮
-│ ***** Special AI Seminar (abstract)                                             │
-│ It has been widely recognized that AI programs require expert knowledge         │
-│ in order to perform well in complex domains.  But knowledge alone is not        │
-│ sufficient for some applications; wisdom is needed as well.  Accordingly,       │
-│ we have developed a new approach to artificial intelligence which we call       │
-│ "wisdom engineering".  As a test of our ideas, we have written IMMANUEL, a      │
-│ wisdom based system for the task domain of western philosophical thought.       │
-│ IMMANUEL was supplied initially with 200 wisdom units which contained wisdom    │
-│ about such elementary concepts as mind, matter, being, nothingness, and so      │
-│ forth.  IMMANUEL was then allowed to run freely, guided by the heuristic        │
-│ rules contained in its heterarchically organized meta wisdom base.  IMMANUEL    │
-│ succeeded in rediscovering most of the important philosophical ideas developed  │
-│ in western culture over the course of the last 25 centuries, including those    │
-│ underlying Plato's theory of government, Kant's metaphysics, Nietzsche's theory │
-│ of value, and Husserl's phenomenology.  In this seminar, we will describe       │
-│ IMMANUEL's achievements and internal architecture.  We will also briefly        │
-│ discuss our recent efforts to apply wisdom engineering to oil exploration.      │
-╰─────────────────────────────────────────────────────────────────────────────────╯
+╭─────────────────────────────────────────────────╮
+│ The tao that can be tar(1)ed                    │
+│ is not the entire Tao.                          │
+│ The path that can be specified                  │
+│ is not the Full Path.                           │
+│ We declare the names                            │
+│ of all variables and functions.                 │
+│ Yet the Tao has no type specifier.              │
+│ Dynamically binding, you realize the magic.     │
+│ Statically binding, you see only the hierarchy. │
+│ Yet magic and hierarchy                         │
+│ arise from the same source,                     │
+│ and this source has a null pointer.             │
+│ Reference the NULL within NULL,                 │
+│ it is the gateway to all wizardry.              │
+╰─────────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
