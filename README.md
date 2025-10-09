@@ -4,13 +4,14 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭─────────────────────────────────────────────────────────────────────────────╮
-│ "Waving away a cloud of smoke, I look up, and am blinded by a bright, white │
-│ light. It's God. No, not Richard Stallman, or Linus Torvalds, but God. In   │
-│ a booming voice, He says: "THIS IS A SIGN. USE LINUX, THE FREE UNIX SYSTEM  │
-│ FOR THE 386."                                                               │
-│ (Matt Welsh)                                                                │
-╰─────────────────────────────────────────────────────────────────────────────╯
+╭───────────────────────────────────────────────────────────────────────╮
+│     The problem with engineers is that they tend to cheat in order to │
+│ get results.                                                          │
+│     The problem with mathematicians is that they tend to work on toy  │
+│ problems in order to get results.                                     │
+│     The problem with program verifiers is that they tend to cheat at  │
+│ toy problems in order to get results.                                 │
+╰───────────────────────────────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
