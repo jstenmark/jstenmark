@@ -4,9 +4,12 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭───────────────────────────────╮
-│ Disk crisis, please clean up! │
-╰───────────────────────────────╯
+╭────────────────────────────────────────────────────────────────────────╮
+│ Thus spake the master programmer:                                      │
+│     "Though a program be but three lines long, someday it will have to │
+│     be maintained."                                                    │
+│         -- Geoffrey James, "The Tao of Programming"                    │
+╰────────────────────────────────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
