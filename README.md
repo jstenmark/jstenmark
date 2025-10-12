@@ -4,12 +4,10 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭────────────────────────────────────────────────────────────────────────╮
-│ Thus spake the master programmer:                                      │
-│     "Though a program be but three lines long, someday it will have to │
-│     be maintained."                                                    │
-│         -- Geoffrey James, "The Tao of Programming"                    │
-╰────────────────────────────────────────────────────────────────────────╯
+╭─────────────────────────────────────────────────────────────────────╮
+│ If builders built buildings the way programmers wrote programs,     │
+│ then the first woodpecker to come along would destroy civilization. │
+╰─────────────────────────────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
