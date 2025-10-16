@@ -4,9 +4,11 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭─────────────────────────────────────────────────────────╮
-│ Hacking's just another word for nothing left to kludge. │
-╰─────────────────────────────────────────────────────────╯
+╭───────────────────────────────────────────────────────────────────────────╮
+│ ... Jesus cried with a loud voice: Lazarus, come forth; the bug hath been │
+│ found and thy program runneth.  And he that was dead came forth...        │
+│         -- John 11:43-44 [version 2.0?]                                   │
+╰───────────────────────────────────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
