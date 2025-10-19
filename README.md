@@ -4,9 +4,13 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭───────────────────────────╮
-│ Garbage In -- Gospel Out. │
-╰───────────────────────────╯
+╭───────────────────────────────────────────────────────────────────────╮
+│ From the Pro 350 Pocket Service Guide, p. 49, Step 5 of the           │
+│ instructions on removing an I/O board from the card cage, comes a new │
+│ experience in sound:                                                  │
+│ 5.  Turn the handle to the right 90 degrees.  The pin-spreading       │
+│     sound is normal for this type of connector.                       │
+╰───────────────────────────────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
