@@ -5,11 +5,9 @@
 #### :cookie: Fortune cookie of the day
 ```smalltalk
 ╭───────────────────────────────────────────────────────────────────────╮
-│ Unix gives you just enough rope to hang yourself -- and then a couple │
-│ of more feet, just to be sure.                                        │
-│         -- Eric Allman                                                │
-│ ... We make rope.                                                     │
-│         -- Rob Gingell on Sun Microsystem's new virtual memory.       │
+│ At Group L, Stoffel oversees six first-rate programmers, a managerial │
+│ challenge roughly comparable to herding cats.                         │
+│         -- The Washington Post Magazine, 9 June, 1985                 │
 ╰───────────────────────────────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
