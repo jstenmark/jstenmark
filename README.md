@@ -4,11 +4,11 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭───────────────────────────────────────────────────────────────────────╮
-│ At Group L, Stoffel oversees six first-rate programmers, a managerial │
-│ challenge roughly comparable to herding cats.                         │
-│         -- The Washington Post Magazine, 9 June, 1985                 │
-╰───────────────────────────────────────────────────────────────────────╯
+╭────────────────────────────────────────────────────────────────────────────╮
+│ "How should I know if it works?  That's what beta testers are for.  I only │
+│ coded it."                                                                 │
+│ (Attributed to Linus Torvalds, somewhere in a posting)                     │
+╰────────────────────────────────────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
