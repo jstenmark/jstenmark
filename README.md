@@ -4,11 +4,12 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭────────────────────────────────────────────────────────────────────────────╮
-│ "How should I know if it works?  That's what beta testers are for.  I only │
-│ coded it."                                                                 │
-│ (Attributed to Linus Torvalds, somewhere in a posting)                     │
-╰────────────────────────────────────────────────────────────────────────────╯
+╭──────────────────────────────────────────────────────────────────────────╮
+│ ... computer hardware progress is so fast.  No other technology since    │
+│ civilization began has seen six orders of magnitude in performance-price │
+│ gain in 30 years.                                                        │
+│         -- Fred Brooks                                                   │
+╰──────────────────────────────────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
