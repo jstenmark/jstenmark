@@ -4,12 +4,10 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭──────────────────────────────────────────────────────────────────────────╮
-│ ... computer hardware progress is so fast.  No other technology since    │
-│ civilization began has seen six orders of magnitude in performance-price │
-│ gain in 30 years.                                                        │
-│         -- Fred Brooks                                                   │
-╰──────────────────────────────────────────────────────────────────────────╯
+╭─────────────────────────────────────────────────────╮
+│ Stinginess with privileges is kindness in disguise. │
+│         -- Guide to VAX/VMS Security, Sep. 1984     │
+╰─────────────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
