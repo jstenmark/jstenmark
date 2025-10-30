@@ -4,10 +4,9 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭─────────────────────────────────────────────────────╮
-│ Stinginess with privileges is kindness in disguise. │
-│         -- Guide to VAX/VMS Security, Sep. 1984     │
-╰─────────────────────────────────────────────────────╯
+╭────────────────────────────╮
+│ This login session: .99 │
+╰────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
