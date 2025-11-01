@@ -4,13 +4,12 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭─────────────────────────────────────────────────────────────────────────────────╮
-│ Innovation has nothing to do with how many R&D dollars you have. When Apple     │
-│ came up with the Mac, IBM was spending at least 100 times more on R&D. It's not │
-│ about money. It's about the people you have, how you're led, and how much you   │
-│ get it.                                                                         │
-│                 -- Steve Jobs (1955-2011)                                       │
-╰─────────────────────────────────────────────────────────────────────────────────╯
+╭───────────────────────────────────────────────────────────────────────╮
+│ Thus spake the master programmer:                                     │
+│     "You can demonstrate a program for a corporate executive, but you │
+│     can't make him computer literate."                                │
+│         -- Geoffrey James, "The Tao of Programming"                   │
+╰───────────────────────────────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
