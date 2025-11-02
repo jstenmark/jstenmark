@@ -4,12 +4,9 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭───────────────────────────────────────────────────────────────────────╮
-│ Thus spake the master programmer:                                     │
-│     "You can demonstrate a program for a corporate executive, but you │
-│     can't make him computer literate."                                │
-│         -- Geoffrey James, "The Tao of Programming"                   │
-╰───────────────────────────────────────────────────────────────────────╯
+╭─────────────────────────────────────────────────╮
+│ CChheecckk yyoouurr dduupplleexx sswwiittcchh.. │
+╰─────────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
