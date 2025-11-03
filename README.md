@@ -4,9 +4,10 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭─────────────────────────────────────────────────╮
-│ CChheecckk yyoouurr dduupplleexx sswwiittcchh.. │
-╰─────────────────────────────────────────────────╯
+╭────────────────────────────────────────────────────────────────────────────╮
+│ Try to remove the color-problem by restarting your computer several times. │
+│         -- Microsoft Internet Explorer's README.TXT                        │
+╰────────────────────────────────────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
