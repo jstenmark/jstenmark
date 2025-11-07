@@ -4,9 +4,11 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭────────────────────────────╮
-│ Trap full -- please empty. │
-╰────────────────────────────╯
+╭──────────────────────────────────────────────────────────────────────╮
+│ "The algorithm to do that is extremely nasty.  You might want to mug │
+│ someone with it."                                                    │
+│         -- M. Devine, Computer Science 340                           │
+╰──────────────────────────────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
