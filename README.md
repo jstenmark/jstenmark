@@ -4,11 +4,14 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭──────────────────────────────────────────────────────────────────────╮
-│ "The algorithm to do that is extremely nasty.  You might want to mug │
-│ someone with it."                                                    │
-│         -- M. Devine, Computer Science 340                           │
-╰──────────────────────────────────────────────────────────────────────╯
+╭────────────────────────────────────────────────────────────────────────────╮
+│ No proper program contains an indication which as an operator-applied      │
+│ occurrence identifies an operator-defining occurrence which as an          │
+│ indication-applied occurrence identifies an indication-defining occurrence │
+│ different from the one identified by the given indication as an            │
+│ indication-applied occurrence.                                             │
+│         -- ALGOL 68 Report                                                 │
+╰────────────────────────────────────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
