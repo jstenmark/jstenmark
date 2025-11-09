@@ -4,14 +4,11 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭────────────────────────────────────────────────────────────────────────────╮
-│ No proper program contains an indication which as an operator-applied      │
-│ occurrence identifies an operator-defining occurrence which as an          │
-│ indication-applied occurrence identifies an indication-defining occurrence │
-│ different from the one identified by the given indication as an            │
-│ indication-applied occurrence.                                             │
-│         -- ALGOL 68 Report                                                 │
-╰────────────────────────────────────────────────────────────────────────────╯
+╭─────────────────────────────────────────────────────────────────────────╮
+│ The trouble with computers is that they do what you tell them, not what │
+│ you want.                                                               │
+│         -- D. Cohen                                                     │
+╰─────────────────────────────────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
