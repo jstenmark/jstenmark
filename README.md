@@ -4,9 +4,10 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭──────────────────────────────────────╮
-│ Save energy:  Drive a smaller shell. │
-╰──────────────────────────────────────╯
+╭─────────────────────────────────────────────────────────────────────────╮
+│ I did this 'cause Linux gives me a woody.  It doesn't generate revenue. │
+│ (Dave '-ddt->` Taylor, announcing DOOM for Linux)                       │
+╰─────────────────────────────────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
