@@ -4,10 +4,11 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭─────────────────────────────────────────────────────────────────────────╮
-│ I did this 'cause Linux gives me a woody.  It doesn't generate revenue. │
-│ (Dave '-ddt->` Taylor, announcing DOOM for Linux)                       │
-╰─────────────────────────────────────────────────────────────────────────╯
+╭───────────────────────────────────────────────────────────────────────╮
+│ Much of the excitement we get out of our work is that we don't really │
+│ know what we are doing.                                               │
+│         -- E. Dijkstra                                                │
+╰───────────────────────────────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
