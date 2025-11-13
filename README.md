@@ -4,11 +4,11 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭───────────────────────────────────────────────────────────────────────╮
-│ Much of the excitement we get out of our work is that we don't really │
-│ know what we are doing.                                               │
-│         -- E. Dijkstra                                                │
-╰───────────────────────────────────────────────────────────────────────╯
+╭────────────────────────────────────────────────────────────────────────────╮
+│ You can now buy more gates with less specifications than at any other time │
+│ in history.                                                                │
+│         -- Kenneth Parker                                                  │
+╰────────────────────────────────────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
