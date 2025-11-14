@@ -4,11 +4,10 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭────────────────────────────────────────────────────────────────────────────╮
-│ You can now buy more gates with less specifications than at any other time │
-│ in history.                                                                │
-│         -- Kenneth Parker                                                  │
-╰────────────────────────────────────────────────────────────────────────────╯
+╭───────────────────────────────────────────╮
+│ Remember, UNIX spelled backwards is XINU. │
+│         -- Mt.                            │
+╰───────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
