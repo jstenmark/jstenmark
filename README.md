@@ -4,9 +4,11 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭─────────────────────────────╮
-│ Memory fault -- brain fried │
-╰─────────────────────────────╯
+╭──────────────────────────────────────────────────────────────────────────╮
+│ I've finally learned what "upward compatible" means.  It means we get to │
+│ keep all our old mistakes.                                               │
+│         -- Dennie van Tassel                                             │
+╰──────────────────────────────────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
