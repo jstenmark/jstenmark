@@ -4,13 +4,12 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭────────────────────────────────────────────────────────────────────────────╮
-│ What's this script do?                                                     │
-│     unzip ; touch ; finger ; mount ; gasp ; yes ; umount ; sleep           │
-│ Hint for the answer: not everything is computer-oriented. Sometimes you're │
-│ in a sleeping bag, camping out.                                            │
-│ (Contributed by Frans van der Zande.)                                      │
-╰────────────────────────────────────────────────────────────────────────────╯
+╭─────────────────────────────────────────────────────────────────────╮
+│ "One basic notion underlying Usenet is that it is a cooperative."   │
+│ Having been on USENET for going on ten years, I disagree with this. │
+│ The basic notion underlying USENET is the flame.                    │
+│         -- Chuq Von Rospach                                         │
+╰─────────────────────────────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
