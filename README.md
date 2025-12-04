@@ -4,12 +4,9 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭─────────────────────────────────────────────────────────────────────╮
-│ "One basic notion underlying Usenet is that it is a cooperative."   │
-│ Having been on USENET for going on ten years, I disagree with this. │
-│ The basic notion underlying USENET is the flame.                    │
-│         -- Chuq Von Rospach                                         │
-╰─────────────────────────────────────────────────────────────────────╯
+╭───────────────────────────────────────────────────────────────────────╮
+│ BASIC is the Computer Science equivalent of `Scientific Creationism'. │
+╰───────────────────────────────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
