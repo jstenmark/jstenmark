@@ -4,9 +4,10 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭───────────────────────────────────────────────────────────────────────╮
-│ BASIC is the Computer Science equivalent of `Scientific Creationism'. │
-╰───────────────────────────────────────────────────────────────────────╯
+╭───────────────────────────────────────────────────────────────────────────╮
+│ Simulations are like miniskirts, they show a lot and hide the essentials. │
+│         -- Hubert Kirrman                                                 │
+╰───────────────────────────────────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
