@@ -4,20 +4,19 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭───────────────────────────────────────────────────────────────────────────────╮
-│ Writers who use a computer swear to its liberating power in tones that bear   │
-│ witness to the apocalyptic power of a new divinity.  Their conviction results │
-│ from something deeper than mere gratitude for the computer's conveniences.    │
-│ Every new medium of writing brings about new intensities of religious belief  │
-│ and new schisms among believers.  In the 16th century the printed book helped │
-│ make possible the split between Catholics and Protestants.  In the 20th       │
-│ century this history of tragedy and triumph is repeating itself as a farce.   │
-│ Those who worship the Apple computer and those who put their faith in the IBM │
-│ PC are equally convinced that the other camp is damned or deluded.  Each cult │
-│ holds in contempt the rituals and the laws of the other.  Each thinks that it │
-│ is itself the one hope for salvation.                                         │
-│         -- Edward Mendelson, "The New Republic", February 22, 1988            │
-╰───────────────────────────────────────────────────────────────────────────────╯
+╭────────────────────────────────────────────────────────────────────────╮
+│     THE LESSER-KNOWN PROGRAMMING LANGUAGES #18: FIFTH                  │
+│ FIFTH is a precision mathematical language in which the data types     │
+│ refer to quantity.  The data types range from CC, OUNCE, SHOT, and     │
+│ JIGGER to FIFTH (hence the name of the language), LITER, MAGNUM and    │
+│ BLOTTO.  Commands refer to ingredients such as CHABLIS, CHARDONNAY,    │
+│ CABERNET, GIN, VERMOUTH, VODKA, SCOTCH, and WHATEVERSAROUND.           │
+│ The many versions of the FIFTH language reflect the sophistication and │
+│ financial status of its users.  Commands in the ELITE dialect include  │
+│ VSOP and LAFITE, while commands in the GUTTER dialect include HOOTCH   │
+│ and RIPPLE. The latter is a favorite of frustrated FORTH programmers   │
+│ who end up using this language.                                        │
+╰────────────────────────────────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
