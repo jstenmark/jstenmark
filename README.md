@@ -4,10 +4,11 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭───────────────────────────────────────────────────────────────────╮
-│ To be a kind of moral Unix, he touched the hem of Nature's shift. │
-│         -- Shelley                                                │
-╰───────────────────────────────────────────────────────────────────╯
+╭───────────────────────────────────────────────────────────────╮
+│ "Who is General Failure and why is he reading my hard disk ?" │
+│ Microsoft spel chekar vor sail, worgs grate !!                │
+│ (By leitner@inf.fu-berlin.de, Felix von Leitner)              │
+╰───────────────────────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
