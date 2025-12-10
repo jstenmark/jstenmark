@@ -4,11 +4,11 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭───────────────────────────────────────────────────────────────╮
-│ "Who is General Failure and why is he reading my hard disk ?" │
-│ Microsoft spel chekar vor sail, worgs grate !!                │
-│ (By leitner@inf.fu-berlin.de, Felix von Leitner)              │
-╰───────────────────────────────────────────────────────────────╯
+╭──────────────────────────────────────────────────────────────────────────╮
+│ "If you want to travel around the world and be invited to speak at a lot │
+│ of different places, just write a Unix operating system."                │
+│ (By Linus Torvalds)                                                      │
+╰──────────────────────────────────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
