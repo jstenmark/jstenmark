@@ -4,10 +4,12 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭────────────────────────────────────────────╮
-│ The "cutting edge" is getting rather dull. │
-│         -- Andy Purshottam                 │
-╰────────────────────────────────────────────╯
+╭─────────────────╮
+│ C Code.         │
+│ C Code Run.     │
+│ Run, Code, RUN! │
+│     PLEASE!!!!  │
+╰─────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
