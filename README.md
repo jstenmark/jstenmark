@@ -4,12 +4,9 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭─────────────────╮
-│ C Code.         │
-│ C Code Run.     │
-│ Run, Code, RUN! │
-│     PLEASE!!!!  │
-╰─────────────────╯
+╭────────────────────────────────╮
+│ Real programs don't eat cache. │
+╰────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
