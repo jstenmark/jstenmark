@@ -4,23 +4,23 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭─────────────────────────────────────────────────────────────────────────╮
-│ The Gurus of Unix Meeting of Minds (GUMM) takes place Wednesday, April  │
-│ 1, 2076 (check THAT in your perpetual calendar program), 14 feet above  │
-│ the ground directly in front of the Milpitas Gumps.  Members will grep  │
-│ each other by the hand (after intro), yacc a lot, smoke filtered        │
-│ chroots in pipes, chown with forks, use the wc (unless uuclean), fseek  │
-│ nice zombie processes, strip, and sleep, but not, we hope, od.  Three   │
-│ days will be devoted to discussion of the ramifications of whodo.  Two  │
-│ seconds have been allotted for a complete rundown of all the user-      │
-│ friendly features of Unix.  Seminars include "Everything You Know is    │
-│ Wrong", led by Tom Kempson, "Batman or Cat:man?" led by Richie Dennis   │
-│ "cc C?  Si!  Si!" led by Kerwin Bernighan, and "Document Unix, Are You  │
-│ Kidding?" led by Jan Yeats.  No Reader Service No. is necessary because │
-│ all GUGUs (Gurus of Unix Group of Users) already know everything we     │
-│ could tell them.                                                        │
-│         -- "Get GUMMed," Dr. Dobb's Journal, June '84                   │
-╰─────────────────────────────────────────────────────────────────────────╯
+╭────────────────────────────────────────────────────────────────────────────────╮
+│     *** A NEW KIND OF PROGRAMMING ***                                          │
+│ Do you want the instant respect that comes from being able to use technical    │
+│ terms that nobody understands?  Do you want to strike fear and loathing into   │
+│ the hearts of DP managers everywhere?  If so, then let the Famous Programmers' │
+│ School lead you on... into the world of professional computer programming.     │
+│ They say a good programmer can write 20 lines of effective program per day.    │
+│ With our unique training course, we'll show you how to write 20 lines of code  │
+│ and lots more besides.  Our training course covers every programming language  │
+│ in existence, and some that aren't.  You'll learn why the on/off switch for a  │
+│ computer is so important, what the words *fatal error* mean, and who and what  │
+│ you should blame when you make a mistake.                                      │
+│     Yes, I want the brochure describing this incredible offer.                 │
+│     I enclose  is small unmarked bills to cover the cost of               │
+│     postage and handling. (No live poultry, please.)                           │
+│ *** Our Slogan:  Top down programming for the masses. ***                      │
+╰────────────────────────────────────────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
