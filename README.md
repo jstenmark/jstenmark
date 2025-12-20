@@ -5,7 +5,7 @@
 #### :cookie: Fortune cookie of the day
 ```smalltalk
 ╭────────────────────────────────────────────────────────────────────────────╮
-│ Why do we want intelligent terminals  when there are so many stupid users? │
+│ There are two ways to write error-free programs; only the third one works. │
 ╰────────────────────────────────────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
