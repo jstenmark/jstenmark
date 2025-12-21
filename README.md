@@ -4,9 +4,14 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭────────────────────────────────────────────────────────────────────────────╮
-│ There are two ways to write error-free programs; only the third one works. │
-╰────────────────────────────────────────────────────────────────────────────╯
+╭──────────────────────────────────────────────────────────────────────────────────────────╮
+│ "We wanted to build the chat system of the future, and we                                │
+│ ended up with application-layer multicast streaming media. In 1999.                      │
+│ We were a bit ahead of our time [ââ]"                                          │
+│ [ââ] This is marketing-speak for âwrongâ; you can say the same thing │
+│ for a batterâs swing when he takes a strike.                                        │
+│     -- Thomas Ptacek, http://www.matasano.com/log/914/                                   │
+╰──────────────────────────────────────────────────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
