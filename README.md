@@ -4,14 +4,13 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭──────────────────────────────────────────────────────────────────────────────────────────╮
-│ "We wanted to build the chat system of the future, and we                                │
-│ ended up with application-layer multicast streaming media. In 1999.                      │
-│ We were a bit ahead of our time [ââ]"                                          │
-│ [ââ] This is marketing-speak for âwrongâ; you can say the same thing │
-│ for a batterâs swing when he takes a strike.                                        │
-│     -- Thomas Ptacek, http://www.matasano.com/log/914/                                   │
-╰──────────────────────────────────────────────────────────────────────────────────────────╯
+╭─────────────────────────────────────────────────────────────────╮
+│ quit   When the quit statement is read, the  bc  processor      │
+│        is  terminated, regardless of where the quit state-      │
+│        ment is found.  For example, "if  (0  ==  1)  quit"      │
+│        will cause bc to terminate.                              │
+│ (Seen in the manpage for "bc". Note the "if" statement's logic) │
+╰─────────────────────────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
