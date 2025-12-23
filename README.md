@@ -4,13 +4,9 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭─────────────────────────────────────────────────────────────────╮
-│ quit   When the quit statement is read, the  bc  processor      │
-│        is  terminated, regardless of where the quit state-      │
-│        ment is found.  For example, "if  (0  ==  1)  quit"      │
-│        will cause bc to terminate.                              │
-│ (Seen in the manpage for "bc". Note the "if" statement's logic) │
-╰─────────────────────────────────────────────────────────────────╯
+╭────────────────────╮
+│ FORTH IF HONK THEN │
+╰────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
