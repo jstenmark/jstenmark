@@ -4,9 +4,11 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭────────────────────╮
-│ FORTH IF HONK THEN │
-╰────────────────────╯
+╭─────────────────────────────────────────────────────╮
+│ You can tune a piano, but you can't tuna fish.      │
+│ You can tune a filesystem, but you can't tuna fish. │
+│         -- from the tunefs(8) man page              │
+╰─────────────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
