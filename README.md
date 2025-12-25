@@ -4,11 +4,10 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭─────────────────────────────────────────────────────╮
-│ You can tune a piano, but you can't tuna fish.      │
-│ You can tune a filesystem, but you can't tuna fish. │
-│         -- from the tunefs(8) man page              │
-╰─────────────────────────────────────────────────────╯
+╭────────────────────────────────────────────╮
+│ The "cutting edge" is getting rather dull. │
+│         -- Andy Purshottam                 │
+╰────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
