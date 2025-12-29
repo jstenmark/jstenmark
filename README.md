@@ -4,9 +4,12 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭───────────────────────────────────────────────────────────────╮
-│ This dungeon is owned and operated by Frobozz Magic Co., Ltd. │
-╰───────────────────────────────────────────────────────────────╯
+╭──────────────────────────────────────────────────────────────────────────────╮
+│ I still maintain the point that designing a monolithic kernel in 1991 is a   │
+│ fundamental error.  Be thankful you are not my student.  You would not get a │
+│ high grade for such a design :-)                                             │
+│ (Andrew Tanenbaum to Linus Torvalds)                                         │
+╰──────────────────────────────────────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
