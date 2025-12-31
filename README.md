@@ -4,11 +4,10 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭─────────────────────────────────────────────────────────────────────────╮
-│ A computer lets you make more mistakes faster than any other invention, │
-│ with the possible exceptions of handguns and Tequilla.                  │
-│         -- Mitch Ratcliffe                                              │
-╰─────────────────────────────────────────────────────────────────────────╯
+╭─────────────────────────────────────────────────────────────────────╮
+│ Everyone can be taught to sculpt: Michelangelo would have had to be │
+│ taught how ___not to.  So it is with the great programmers.      │
+╰─────────────────────────────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
