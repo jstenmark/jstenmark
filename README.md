@@ -4,10 +4,12 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭──────────────────────────────────────────────────────────────╮
-│ If Machiavelli were a hacker, he'd have worked for the CSSG. │
-│         -- Phil Lapsley                                      │
-╰──────────────────────────────────────────────────────────────╯
+╭──────────────────────────────────────────────────────────────────────────────╮
+│ To say that UNIX is doomed is pretty rabid, OS/2 will certainly play a role, │
+│ but you don't build a hundred million instructions per second multiprocessor │
+│ micro and then try to run it on OS/2.  I mean, get serious.                  │
+│         -- William Zachmann, International Data Corp                         │
+╰──────────────────────────────────────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
