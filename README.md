@@ -4,9 +4,11 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭────────────────────────────────────────────────────╮
-│ An adequate bootstrap is a contradiction in terms. │
-╰────────────────────────────────────────────────────╯
+╭──────────────────────────────────────────────────────────────────────────────╮
+│ "The bad reputation UNIX has gotten is totally undeserved, laid on by people │
+│ who don't understand, who have not gotten in there and tried anything."      │
+│         -- Jim Joyce, owner of Jim Joyce's UNIX Bookstore                    │
+╰──────────────────────────────────────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
