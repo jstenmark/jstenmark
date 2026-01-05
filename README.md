@@ -4,11 +4,9 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭──────────────────────────────────────────────────────────────────────────────╮
-│ "The bad reputation UNIX has gotten is totally undeserved, laid on by people │
-│ who don't understand, who have not gotten in there and tried anything."      │
-│         -- Jim Joyce, owner of Jim Joyce's UNIX Bookstore                    │
-╰──────────────────────────────────────────────────────────────────────────────╯
+╭─────────────────────────────────────────────────╮
+│ This login session: .76, but for you .88. │
+╰─────────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
