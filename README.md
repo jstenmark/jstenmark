@@ -4,11 +4,12 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭─────────────────────────────────────────────────────────────────────────╮
-│ FORTRAN is not a flower but a weed -- it is hardy, occasionally blooms, │
-│ and grows in every computer.                                            │
-│         -- A. J. Perlis                                                 │
-╰─────────────────────────────────────────────────────────────────────────╯
+╭────────────────────────────────────────────────────────────────────────────────╮
+│ Anyone who thinks UNIX is intuitive should be forced to write 5000 lines of    │
+│ code using nothing but vi or emacs. AAAAACK!                                   │
+│ (Discussion in comp.os.linux.misc on the intuitiveness of commands, especially │
+│ Emacs.)                                                                        │
+╰────────────────────────────────────────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
