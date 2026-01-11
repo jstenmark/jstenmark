@@ -4,23 +4,20 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭────────────────────────────────────────────────────────────────────────────────╮
-│ _/I\_____________o______________o___/I\     l  * /    /_/ *   __  '     .* l   │
-│ I"""_____________l______________l___"""I\   l      *//      _l__l_   . *.  l   │
-│  [__][__][(******)__][__](******)[__][] \l  l-\ ---//---*----(oo)----------l   │
-│  [][__][__(******)][__][_(******)_][__] l   l  \\ // ____ >-(    )-<    /  l   │
-│  [__][__][_l    l[__][__][l    l][__][] l   l \\)) ._****_.(......) .@@@:::l   │
-│  [][__][__]l   .l_][__][__]   .l__][__] l   l   ll  _(o_o)_        (@*_*@  l   │
-│  [__][__][/   <_)[__][__]/   <_)][__][] l   l   ll (  / \  )     /   / / ) l   │
-│  [][__][ /..,/][__][__][/..,/_][__][__] l   l  / \\  _\  \_   /     _\_\   l   │
-│  [__][__(__/][__][__][_(__/_][__][__][] l   l______________________________l   │
-│  [__][__]] l     ,  , .      [__][__][] l                                      │
-│  [][__][_] l   . i. '/ ,     [][__][__] l        /\**/\       season's         │
-│  [__][__]] l  O .\ / /, O    [__][__][] l       ( o_o  )_)       greetings     │
-│ _[][__][_] l__l======='=l____[][__][__] l_______,(u  u  ,),__________________  │
-│  [__][__]]/  /l\-------/l\   [__][__][]/       {}{}{}{}{}{}<R>                 │
-│ In Ellen's house it is warm and toasty while fuzzies play in the snow outside. │
-╰────────────────────────────────────────────────────────────────────────────────╯
+╭─────────────────────────────────────────────────────────────────────────────╮
+│ ===  ALL USERS PLEASE NOTE  ========================                        │
+│ JCL support as alternative to system menu.                                  │
+│ In our continuing effort to support languages other than LISP on the CADDR, │
+│ we have developed an OS/360-compatible JCL.  This can be used as an         │
+│ alternative to the standard system menu.  Type System J to get to a JCL     │
+│ interactive read-execute-diagnose loop window.  [Note that for 360          │
+│ compatibility, all input lines are truncated to 80 characters.]  This       │
+│ window also maintains a mouse-sensitive display of critical job parameters  │
+│ such as dataset allocation, core allocation, channels, etc.  When a JCL     │
+│ syntax error is detected or your job ABENDs, the window-oriented JCL        │
+│ debugger is entered.  The JCL debugger displays appropriate OS/360 error    │
+│ messages (such as IEC703, "disk error") and allows you to dequeue your job. │
+╰─────────────────────────────────────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
