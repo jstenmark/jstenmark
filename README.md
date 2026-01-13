@@ -4,12 +4,14 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭─────────────────────────────────────────────────────────────────────────────╮
-│ If you're crossing the nation in a covered wagon, it's better to have four  │
-│ strong oxen than 100 chickens.  Chickens are OK but we can't make them work │
-│ together yet.                                                               │
-│         -- Ross Bott, Pyramid U.S., on multiprocessors at AUUGM '89.        │
-╰─────────────────────────────────────────────────────────────────────────────╯
+╭─────────────────────────────────────────────────────────╮
+│ A well-used door needs no oil on its hinges.            │
+│ A swift-flowing steam does not grow stagnant.           │
+│ Neither sound nor thoughts can travel through a vacuum. │
+│ Software rots if not used.                              │
+│ These are great mysteries.                              │
+│         -- Geoffrey James, "The Tao of Programming"     │
+╰─────────────────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
