@@ -4,14 +4,9 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭─────────────────────────────────────────────────────────╮
-│ A well-used door needs no oil on its hinges.            │
-│ A swift-flowing steam does not grow stagnant.           │
-│ Neither sound nor thoughts can travel through a vacuum. │
-│ Software rots if not used.                              │
-│ These are great mysteries.                              │
-│         -- Geoffrey James, "The Tao of Programming"     │
-╰─────────────────────────────────────────────────────────╯
+╭───────────────────────────────────────╮
+│ You have a message from the operator. │
+╰───────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
