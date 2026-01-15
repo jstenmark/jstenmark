@@ -4,9 +4,21 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭───────────────────────────────────────╮
-│ You have a message from the operator. │
-╰───────────────────────────────────────╯
+╭──────────────────────────────────────────────────────────────────────────╮
+│     A novice of the temple once approached the Chief Priest with a       │
+│ question.                                                                │
+│     "Master, does Emacs have the Buddha nature?" the novice asked.       │
+│     The Chief Priest had been in the temple for many years and could be  │
+│ relied upon to know these things.  He thought for several minutes before │
+│ replying.                                                                │
+│     "I don't see why not.  It's got bloody well everything else."        │
+│     With that, the Chief Priest went to lunch.  The novice suddenly      │
+│ achieved enlightenment, several years later.                             │
+│ Commentary:                                                              │
+│ His Master is kind,                                                      │
+│ Answering his FAQ quickly,                                               │
+│ With thought and sarcasm.                                                │
+╰──────────────────────────────────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
