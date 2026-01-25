@@ -4,10 +4,14 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭───────────────────────────────────────────────╮
-│ Beware of Programmers who carry screwdrivers. │
-│         -- Leonard Brandwein                  │
-╰───────────────────────────────────────────────╯
+╭───────────────────────────────────────────────────────────────────────╮
+│ Worthless.                                                            │
+│         -- Sir George Bidell Airy, KCB, MA, LLD, DCL, FRS, FRAS       │
+│            (Astronomer Royal of Great Britain), estimating for the    │
+│            Chancellor of the Exchequer the potential value of the     │
+│            "analytical engine" invented by Charles Babbage, September │
+│            15, 1842.                                                  │
+╰───────────────────────────────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
