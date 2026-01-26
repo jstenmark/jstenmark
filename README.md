@@ -4,14 +4,11 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭───────────────────────────────────────────────────────────────────────╮
-│ Worthless.                                                            │
-│         -- Sir George Bidell Airy, KCB, MA, LLD, DCL, FRS, FRAS       │
-│            (Astronomer Royal of Great Britain), estimating for the    │
-│            Chancellor of the Exchequer the potential value of the     │
-│            "analytical engine" invented by Charles Babbage, September │
-│            15, 1842.                                                  │
-╰───────────────────────────────────────────────────────────────────────╯
+╭───────────────────────────────────────────────────────────╮
+│ Breakpoint 1, main (argc=1, argv=0xbffffc40) at main.c:29 │
+│ 29   printf ("Welcome to GNU Hell!\n");                   │
+│         -- "GNU Libtool documentation"                    │
+╰───────────────────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
