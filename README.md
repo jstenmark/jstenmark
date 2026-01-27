@@ -4,11 +4,13 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭───────────────────────────────────────────────────────────╮
-│ Breakpoint 1, main (argc=1, argv=0xbffffc40) at main.c:29 │
-│ 29   printf ("Welcome to GNU Hell!\n");                   │
-│         -- "GNU Libtool documentation"                    │
-╰───────────────────────────────────────────────────────────╯
+╭────────────────────────────────────────────────────────────╮
+│ Does a good farmer neglect a crop he has planted?          │
+│ Does a good teacher overlook even the most humble student? │
+│ Does a good father allow a single child to starve?         │
+│ Does a good programmer refuse to maintain his code?        │
+│         -- Geoffrey James, "The Tao of Programming"        │
+╰────────────────────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
