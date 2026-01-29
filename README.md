@@ -1,4 +1,4 @@
-##### :calling: Reach me at **[email](mailto:johannes@stenmark.in)** ***/*** **[~~LinkedIn~~](https://www.linkedin.com/in/johannes-stenmark)**.
+##### :calling: Reach me at **[email](mailto:johannes@stenmark.in)** ***/*** **[LinkedIn](https://www.linkedin.com/in/johannes-stenmark)**.
 :feet: Check out the [ChatCopyCat](https://github.com/jstenmark/ChatCopyCat) extension for VSCode.
 
 ---
