@@ -4,7 +4,7 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭───────────────────────────────────────────────────────╮
-│ Old programmers never die, they just become managers. │
-╰───────────────────────────────────────────────────────╯
+╭──────────────────────────────────────────────────────────────────────────╮
+│ Can't open /usr/share/games/fortunes/fortunes.  Lid stuck on cookie jar. │
+╰──────────────────────────────────────────────────────────────────────────╯
 ```
