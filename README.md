@@ -4,7 +4,11 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭──────────────────────────────────────────────────────────────────────────╮
-│ Can't open /usr/share/games/fortunes/fortunes.  Lid stuck on cookie jar. │
-╰──────────────────────────────────────────────────────────────────────────╯
+╭───────────────────────────────────────────────────────────────────────────────╮
+│ We the Users, in order to form a more perfect system, establish priorities,   │
+│ ensure connective tranquility, provide for common repairs, promote preventive │
+│ maintenance, and secure the blessings of liberty for ourselves and our        │
+│ processes, do ordain and establish this Software of The Unixed States         │
+│ of America.                                                                   │
+╰───────────────────────────────────────────────────────────────────────────────╯
 ```
