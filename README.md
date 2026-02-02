@@ -4,9 +4,9 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭─────────────────────────────────────────────────────────────────────────╮
-│ FORTRAN is not a flower but a weed -- it is hardy, occasionally blooms, │
-│ and grows in every computer.                                            │
-│         -- A. J. Perlis                                                 │
-╰─────────────────────────────────────────────────────────────────────────╯
+╭──────────────────────────────────────────────────────────────────────────────╮
+│ The chat program is in public domain. This is not the GNU public license. If │
+│ it breaks then you get to keep both pieces.                                  │
+│ (Copyright notice for the chat program)                                      │
+╰──────────────────────────────────────────────────────────────────────────────╯
 ```
