@@ -4,9 +4,9 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭──────────────────────────────────────────────────────────────────────────────╮
-│ The chat program is in public domain. This is not the GNU public license. If │
-│ it breaks then you get to keep both pieces.                                  │
-│ (Copyright notice for the chat program)                                      │
-╰──────────────────────────────────────────────────────────────────────────────╯
+╭────────────────────────────────────────────────────────────────────────╮
+│ C makes it easy for you to shoot yourself in the foot.  C++ makes that │
+│ harder, but when you do, it blows away your whole leg.                 │
+│         -- Bjarne Stroustrup                                           │
+╰────────────────────────────────────────────────────────────────────────╯
 ```
