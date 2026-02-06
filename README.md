@@ -4,9 +4,7 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭───────────────────────────────────────────────────────────────────────────╮
-│ A debugged program is one for which you have not yet found the conditions │
-│ that make it fail.                                                        │
-│         -- Jerry Ogdin                                                    │
-╰───────────────────────────────────────────────────────────────────────────╯
+╭─────────────────────────────────────────────────╮
+│ Is your job running?  You'd better go catch it! │
+╰─────────────────────────────────────────────────╯
 ```
