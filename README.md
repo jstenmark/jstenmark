@@ -4,7 +4,8 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭──────────────────────────────────────────╮
-│ Have you reconsidered a computer career? │
-╰──────────────────────────────────────────╯
+╭────────────────────────────────────────────────────────────────────────╮
+│ In any problem, if you find yourself doing an infinite amount of work, │
+│ the answer may be obtained by inspection.                              │
+╰────────────────────────────────────────────────────────────────────────╯
 ```
