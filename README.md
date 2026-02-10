@@ -4,8 +4,9 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭────────────────────────────────────────────────────────────────────────╮
-│ In any problem, if you find yourself doing an infinite amount of work, │
-│ the answer may be obtained by inspection.                              │
-╰────────────────────────────────────────────────────────────────────────╯
+╭────────────────────────────────────────────────────────────────────────────╮
+│ The use of anthropomorphic terminology when dealing with computing systems │
+│ is a symptom of professional immaturity.                                   │
+│         -- Edsger Dijkstra                                                 │
+╰────────────────────────────────────────────────────────────────────────────╯
 ```
