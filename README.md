@@ -4,9 +4,10 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭────────────────────────────────────────────────────────────────────────────╮
-│ The use of anthropomorphic terminology when dealing with computing systems │
-│ is a symptom of professional immaturity.                                   │
-│         -- Edsger Dijkstra                                                 │
-╰────────────────────────────────────────────────────────────────────────────╯
+╭───────────────────────────────────────────────────────────╮
+│     "Has anyone had problems with the computer accounts?" │
+│     "Yes, I don't have one."                              │
+│     "Okay, you can send mail to one of the tutors ..."    │
+│         -- E. D'Azevedo, Computer Science 372             │
+╰───────────────────────────────────────────────────────────╯
 ```
