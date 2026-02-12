@@ -4,10 +4,7 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭───────────────────────────────────────────────────────────╮
-│     "Has anyone had problems with the computer accounts?" │
-│     "Yes, I don't have one."                              │
-│     "Okay, you can send mail to one of the tutors ..."    │
-│         -- E. D'Azevedo, Computer Science 372             │
-╰───────────────────────────────────────────────────────────╯
+╭─────────────────────────────────────────────────╮
+│ grep me no patterns and I'll tell you no lines. │
+╰─────────────────────────────────────────────────╯
 ```
