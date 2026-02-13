@@ -4,7 +4,8 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭─────────────────────────────────────────────────╮
-│ grep me no patterns and I'll tell you no lines. │
-╰─────────────────────────────────────────────────╯
+╭────────────────────────────────────────────────────────────────────────────╮
+│ "Now this is a totally brain damaged algorithm.  Gag me with a smurfette." │
+│         -- P. Buhr, Computer Science 354                                   │
+╰────────────────────────────────────────────────────────────────────────────╯
 ```
