@@ -4,8 +4,7 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭────────────────────────────────────────────────────────────────────────────╮
-│ "Now this is a totally brain damaged algorithm.  Gag me with a smurfette." │
-│         -- P. Buhr, Computer Science 354                                   │
-╰────────────────────────────────────────────────────────────────────────────╯
+╭──────────────────────────────────────────────────────────╮
+│ If at first you don't succeed, you must be a programmer. │
+╰──────────────────────────────────────────────────────────╯
 ```
