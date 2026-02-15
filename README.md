@@ -4,7 +4,8 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭──────────────────────────────────────────────────────────╮
-│ If at first you don't succeed, you must be a programmer. │
-╰──────────────────────────────────────────────────────────╯
+╭────────────────────────────────────────────────────────────────────╮
+│ "It's God.  No, not Richard Stallman, or Linus Torvalds, but God." │
+│ (By Matt Welsh)                                                    │
+╰────────────────────────────────────────────────────────────────────╯
 ```
