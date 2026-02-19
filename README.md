@@ -4,7 +4,12 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭──────────────────────────────╮
-│ panic: kernel trap (ignored) │
-╰──────────────────────────────╯
+╭──────────────────────────────────────────────────────────────────────╮
+│ This quote is taken from the Diamondback, the University of Maryland │
+│ student newspaper, of Tuesday, 3/10/87.                              │
+│     One disadvantage of the Univac system is that it does not use    │
+│     Unix, a recently developed program which translates from one     │
+│     computer language to another and has a built-in editing system   │
+│     which identifies errors in the original program.                 │
+╰──────────────────────────────────────────────────────────────────────╯
 ```
