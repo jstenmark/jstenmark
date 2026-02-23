@@ -4,15 +4,10 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭─────────────────────────────────────────────────────────────────────────────────╮
-│     It is a period of system war.  User programs, striking from a hidden        │
-│ directory, have won their first victory against the evil Administrative Empire. │
-│ During the battle, User spies managed to steal secret source code to the        │
-│ Empire's ultimate program: the Are-Em Star, a privileged root program with      │
-│ enough power to destroy an entire file structure.  Pursued by the Empire's      │
-│ sinister audit trail, Princess _LPA0 races ~ aboard her shell script,           │
-│ custodian of the stolen listings that could save her people, and restore        │
-│ freedom and games to the network...                                             │
-│         -- DECWARS                                                              │
-╰─────────────────────────────────────────────────────────────────────────────────╯
+╭────────────────────────────────────────────────────────────────────────────────╮
+│ APL is a mistake, carried through to perfection.  It is the language of the    │
+│ future for the programming techniques of the past: it creates a new generation │
+│ of coding bums.                                                                │
+│         -- Edsger W. Dijkstra, SIGPLAN Notices, Volume 17, Number 5            │
+╰────────────────────────────────────────────────────────────────────────────────╯
 ```
