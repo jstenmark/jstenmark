@@ -4,8 +4,12 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭─────────────────────────────────────────────────────────────────────────╮
-│ One good reason why computers can do more work than people is that they │
-│ never have to stop and answer the phone.                                │
-╰─────────────────────────────────────────────────────────────────────────╯
+╭──────────────────────────────────────────────────────────────────────╮
+│ "Yacc" owes much to a most stimulating collection of users, who have │
+│ goaded me beyond my inclination, and frequently beyond my ability in │
+│ their endless search for "one more feature."  Their irritating       │
+│ unwillingness to learn how to do things my way has usually led to my │
+│ doing things their way; most of the time, they have been right.      │
+│         -- S. C. Johnson, "Yacc guide acknowledgements"              │
+╰──────────────────────────────────────────────────────────────────────╯
 ```
