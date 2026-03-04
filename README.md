@@ -4,8 +4,7 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭───────────────────────────────────────────────────────────────────────────────╮
-│ The only "intuitive" interface is the nipple. After that, it's all learned.   │
-│ (Bruce Ediger, bediger@teal.csn.org, in comp.os.linux.misc, on X interfaces.) │
-╰───────────────────────────────────────────────────────────────────────────────╯
+╭────────────────────╮
+│ FORTH IF HONK THEN │
+╰────────────────────╯
 ```
