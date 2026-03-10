@@ -4,15 +4,18 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭─────────────────────────────────────────────────────────────────────────────╮
-│ If just one piece of mail gets lost, well, they'll just think they forgot   │
-│ to send it.  But if *two* pieces of mail get lost, hell, they'll just think │
-│ the other guy hasn't gotten around to answering his mail.  And if *fifty*   │
-│ pieces of mail get lost, can you imagine it, if *fifty* pieces of mail get  │
-│ lost, why they'll think someone *else* is broken!  And if 1Gb of mail gets  │
-│ lost, they'll just *know* that Arpa [ucbarpa.berkeley.edu] is down and      │
-│ think it's a conspiracy to keep them from their God given right to receive  │
-│ Net Mail ...                                                                │
-│         -- Casey Leedom                                                     │
-╰─────────────────────────────────────────────────────────────────────────────╯
+╭───────────────────────────────────────────────────────────────────────────────╮
+│ Writers who use a computer swear to its liberating power in tones that bear   │
+│ witness to the apocalyptic power of a new divinity.  Their conviction results │
+│ from something deeper than mere gratitude for the computer's conveniences.    │
+│ Every new medium of writing brings about new intensities of religious belief  │
+│ and new schisms among believers.  In the 16th century the printed book helped │
+│ make possible the split between Catholics and Protestants.  In the 20th       │
+│ century this history of tragedy and triumph is repeating itself as a farce.   │
+│ Those who worship the Apple computer and those who put their faith in the IBM │
+│ PC are equally convinced that the other camp is damned or deluded.  Each cult │
+│ holds in contempt the rituals and the laws of the other.  Each thinks that it │
+│ is itself the one hope for salvation.                                         │
+│         -- Edward Mendelson, "The New Republic", February 22, 1988            │
+╰───────────────────────────────────────────────────────────────────────────────╯
 ```
