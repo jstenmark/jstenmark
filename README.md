@@ -4,8 +4,8 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭────────────────────────────────────────────────────────────────────────╮
-│ A computer without COBOL and Fortran is like a piece of chocolate cake │
-│ without ketchup and mustard.                                           │
-╰────────────────────────────────────────────────────────────────────────╯
+╭─────────────────────────────────────────────────────────────────────╮
+│ Everyone can be taught to sculpt: Michelangelo would have had to be │
+│ taught how ___not to.  So it is with the great programmers.      │
+╰─────────────────────────────────────────────────────────────────────╯
 ```
