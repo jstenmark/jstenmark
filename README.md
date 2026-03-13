@@ -4,8 +4,9 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭─────────────────────────────────────────────────────────────────────╮
-│ Everyone can be taught to sculpt: Michelangelo would have had to be │
-│ taught how ___not to.  So it is with the great programmers.      │
-╰─────────────────────────────────────────────────────────────────────╯
+╭───────────────────────────────────────────────────────────────────────────╮
+│ Real computer scientists don't write code.  They occasionally tinker with │
+│ `programming systems', but those are so high level that they hardly count │
+│ (and rarely count accurately; precision is for applications).             │
+╰───────────────────────────────────────────────────────────────────────────╯
 ```
