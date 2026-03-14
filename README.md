@@ -4,9 +4,9 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭───────────────────────────────────────────────────────────────────────────╮
-│ Real computer scientists don't write code.  They occasionally tinker with │
-│ `programming systems', but those are so high level that they hardly count │
-│ (and rarely count accurately; precision is for applications).             │
-╰───────────────────────────────────────────────────────────────────────────╯
+╭──────────────────────────────────────────────────────────────────────────╮
+│ Feel free to contact me (flames about my english and the useless of this │
+│ driver will be redirected to /dev/null, oh no, it's full...).            │
+│ (Michael Beck, describing the PC-speaker sound device)                   │
+╰──────────────────────────────────────────────────────────────────────────╯
 ```
