@@ -4,9 +4,7 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭──────────────────────────────────────────────────────────────────────────╮
-│ Feel free to contact me (flames about my english and the useless of this │
-│ driver will be redirected to /dev/null, oh no, it's full...).            │
-│ (Michael Beck, describing the PC-speaker sound device)                   │
-╰──────────────────────────────────────────────────────────────────────────╯
+╭────────────────────────────────────────────────────────────────────────────╮
+│ Why do we want intelligent terminals  when there are so many stupid users? │
+╰────────────────────────────────────────────────────────────────────────────╯
 ```
