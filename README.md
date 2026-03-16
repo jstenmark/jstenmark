@@ -4,7 +4,7 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭────────────────────────────────────────────────────────────────────────────╮
-│ Why do we want intelligent terminals  when there are so many stupid users? │
-╰────────────────────────────────────────────────────────────────────────────╯
+╭───────────────────────────╮
+│ Your fault -- core dumped │
+╰───────────────────────────╯
 ```
