@@ -4,8 +4,8 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭─────────────────────────────────────────────────────────────────────╮
-│ Never underestimate the bandwidth of a station wagon full of tapes. │
-│         -- Dr. Warren Jackson, Director, UTCS                       │
-╰─────────────────────────────────────────────────────────────────────╯
+╭──────────────────────────────────────────────────────────────╮
+│ Maybe Computer Science should be in the College of Theology. │
+│         -- R. S. Barton                                      │
+╰──────────────────────────────────────────────────────────────╯
 ```
