@@ -4,8 +4,8 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭──────────────────────────────────────────────────────────────╮
-│ Maybe Computer Science should be in the College of Theology. │
-│         -- R. S. Barton                                      │
-╰──────────────────────────────────────────────────────────────╯
+╭───────────────────────────╮
+│ "World domination.  Fast" │
+│ (By Linus Torvalds)       │
+╰───────────────────────────╯
 ```
