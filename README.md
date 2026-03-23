@@ -4,8 +4,7 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭───────────────────────────╮
-│ "World domination.  Fast" │
-│ (By Linus Torvalds)       │
-╰───────────────────────────╯
+╭────────────────────────────────────╮
+│ Real Users never use the Help key. │
+╰────────────────────────────────────╯
 ```
