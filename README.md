@@ -4,11 +4,9 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭──────────────────────────────────────────────────────────────────────────────╮
-│ 'Mounten' wird fuer drei Dinge benutzt: 'Aufsitzen' auf Pferde, 'einklinken' │
-│ von Festplatten in Dateisysteme, und, nun, 'besteigen' beim Sex.             │
-│ (Christa Keil in a German posting: "Mounting is used for three things:       │
-│ climbing on a horse, linking in a hard disk unit in data systems, and, well, │
-│ mounting during sex".)                                                       │
-╰──────────────────────────────────────────────────────────────────────────────╯
+╭──────────────────────────────────────────────────────────────────────╮
+│ Machines certainly can solve problems, store information, correlate, │
+│ and play games -- but not with pleasure.                             │
+│         -- Leo Rosten                                                │
+╰──────────────────────────────────────────────────────────────────────╯
 ```
