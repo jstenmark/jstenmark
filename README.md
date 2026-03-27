@@ -4,9 +4,7 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭──────────────────────────────────────────────────────────────────────╮
-│ Machines certainly can solve problems, store information, correlate, │
-│ and play games -- but not with pleasure.                             │
-│         -- Leo Rosten                                                │
-╰──────────────────────────────────────────────────────────────────────╯
+╭─────────────────────────────────────────────────────────────╮
+│ Different all twisty a of in maze are you, passages little. │
+╰─────────────────────────────────────────────────────────────╯
 ```
