@@ -4,7 +4,9 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭─────────────────────────────────────────────────────────────╮
-│ Different all twisty a of in maze are you, passages little. │
-╰─────────────────────────────────────────────────────────────╯
+╭──────────────────────────────────────────────────────────────────────────╮
+│ Real computer scientists only write specs for languages that might run   │
+│ on future hardware.  Nobody trusts them to write specs for anything homo │
+│ sapiens will ever be able to fit on a single planet.                     │
+╰──────────────────────────────────────────────────────────────────────────╯
 ```
