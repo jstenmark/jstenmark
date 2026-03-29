@@ -4,9 +4,8 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭──────────────────────────────────────────────────────────────────────────╮
-│ Real computer scientists only write specs for languages that might run   │
-│ on future hardware.  Nobody trusts them to write specs for anything homo │
-│ sapiens will ever be able to fit on a single planet.                     │
-╰──────────────────────────────────────────────────────────────────────────╯
+╭─────────────────────────────────────────────────────────────────────────────╮
+│ Is it possible that software is not like anything else, that it is meant to │
+│ be discarded:  that the whole point is to always see it as a soap bubble?   │
+╰─────────────────────────────────────────────────────────────────────────────╯
 ```
