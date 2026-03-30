@@ -4,8 +4,9 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭─────────────────────────────────────────────────────────────────────────────╮
-│ Is it possible that software is not like anything else, that it is meant to │
-│ be discarded:  that the whole point is to always see it as a soap bubble?   │
-╰─────────────────────────────────────────────────────────────────────────────╯
+╭───────────────────────────────────────────────────────────────────────╮
+│ "MSDOS didn't get as bad as it is overnight -- it took over ten years │
+│ of careful development."                                              │
+│ (By dmeggins@aix1.uottawa.ca)                                         │
+╰───────────────────────────────────────────────────────────────────────╯
 ```
