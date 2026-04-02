@@ -4,9 +4,8 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭─────────────────────────────────────────────────────────────────────╮
-│ The more data I punch in this card, the lighter it becomes, and the │
-│ lower the mailing cost.                                             │
-│         -- S. Kelly-Bootle, "The Devil's DP Dictionary"             │
-╰─────────────────────────────────────────────────────────────────────╯
+╭────────────────────────────────────────────────────────────╮
+│ "sic transit discus mundi"                                 │
+│ (From the System Administrator's Guide, by Lars Wirzenius) │
+╰────────────────────────────────────────────────────────────╯
 ```
