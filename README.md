@@ -4,7 +4,8 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭─────────────────────────────╮
-│ System checkpoint complete. │
-╰─────────────────────────────╯
+╭───────────────────────────────────────────────────────────────────────────╮
+│ Real programmers don't write in BASIC.  Actually, no programmers write in │
+│ BASIC after reaching puberty.                                             │
+╰───────────────────────────────────────────────────────────────────────────╯
 ```
