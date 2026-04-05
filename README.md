@@ -4,8 +4,8 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭───────────────────────────────────────────────────────────────────────────╮
-│ Real programmers don't write in BASIC.  Actually, no programmers write in │
-│ BASIC after reaching puberty.                                             │
-╰───────────────────────────────────────────────────────────────────────────╯
+╭───────────────────────────────────────────────────────────────────────╮
+│ When someone says "I want a programming language in which I need only │
+│ say what I wish done," give him a lollipop.                           │
+╰───────────────────────────────────────────────────────────────────────╯
 ```
