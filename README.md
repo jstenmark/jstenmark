@@ -4,8 +4,9 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭───────────────────────────────────────────────────────────────────────╮
-│ When someone says "I want a programming language in which I need only │
-│ say what I wish done," give him a lollipop.                           │
-╰───────────────────────────────────────────────────────────────────────╯
+╭───────────────────────────────────────────────────────────────╮
+│ Nearly every complex solution to a programming problem that I │
+│ have looked at carefully has turned out to be wrong.          │
+│         -- Brent Welch                                        │
+╰───────────────────────────────────────────────────────────────╯
 ```
