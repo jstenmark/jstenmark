@@ -4,9 +4,12 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭───────────────────────────────────────────────────────────────╮
-│ Nearly every complex solution to a programming problem that I │
-│ have looked at carefully has turned out to be wrong.          │
-│         -- Brent Welch                                        │
-╰───────────────────────────────────────────────────────────────╯
+╭──────────────────────────────────────────────────────────────╮
+│     n = ((n >>  1) & 0x55555555) | ((n <<  1) & 0xaaaaaaaa); │
+│     n = ((n >>  2) & 0x33333333) | ((n <<  2) & 0xcccccccc); │
+│     n = ((n >>  4) & 0x0f0f0f0f) | ((n <<  4) & 0xf0f0f0f0); │
+│     n = ((n >>  8) & 0x00ff00ff) | ((n <<  8) & 0xff00ff00); │
+│     n = ((n >> 16) & 0x0000ffff) | ((n << 16) & 0xffff0000); │
+│         -- C code which reverses the bits in a word.         │
+╰──────────────────────────────────────────────────────────────╯
 ```
