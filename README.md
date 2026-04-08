@@ -4,12 +4,15 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭──────────────────────────────────────────────────────────────╮
-│     n = ((n >>  1) & 0x55555555) | ((n <<  1) & 0xaaaaaaaa); │
-│     n = ((n >>  2) & 0x33333333) | ((n <<  2) & 0xcccccccc); │
-│     n = ((n >>  4) & 0x0f0f0f0f) | ((n <<  4) & 0xf0f0f0f0); │
-│     n = ((n >>  8) & 0x00ff00ff) | ((n <<  8) & 0xff00ff00); │
-│     n = ((n >> 16) & 0x0000ffff) | ((n << 16) & 0xffff0000); │
-│         -- C code which reverses the bits in a word.         │
-╰──────────────────────────────────────────────────────────────╯
+╭─────────────────────────────────────────────────────────────────────────────╮
+│ If just one piece of mail gets lost, well, they'll just think they forgot   │
+│ to send it.  But if *two* pieces of mail get lost, hell, they'll just think │
+│ the other guy hasn't gotten around to answering his mail.  And if *fifty*   │
+│ pieces of mail get lost, can you imagine it, if *fifty* pieces of mail get  │
+│ lost, why they'll think someone *else* is broken!  And if 1Gb of mail gets  │
+│ lost, they'll just *know* that Arpa [ucbarpa.berkeley.edu] is down and      │
+│ think it's a conspiracy to keep them from their God given right to receive  │
+│ Net Mail ...                                                                │
+│         -- Casey Leedom                                                     │
+╰─────────────────────────────────────────────────────────────────────────────╯
 ```
