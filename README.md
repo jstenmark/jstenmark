@@ -4,27 +4,15 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭────────────────────────────────────────────────────────────────────────────╮
-│ > The day people think linux would be better served by somebody else (FSF  │
-│ > being the natural alternative), I'll "abdicate".  I don't think that     │
-│ > it's something people have to worry about right now - I don't see it     │
-│ > happening in the near future.  I enjoy doing linux, even though it does  │
-│ > mean some work, and I haven't gotten any complaints (some almost timid   │
-│ > reminders about a patch I have forgotten or ignored, but nothing         │
-│ > negative so far).                                                        │
-│ >                                                                          │
-│ > Don't take the above to mean that I'll stop the day somebody complains:  │
-│ > I'm thick-skinned (Lasu, who is reading this over my shoulder commented  │
-│ > that "thick-HEADED is closer to the truth") enough to take some abuse.   │
-│ > If I weren't, I'd have stopped developing linux the day ast ridiculed me │
-│ > on c.o.minix.  What I mean is just that while linux has been my baby so  │
-│ > far, I don't want to stand in the way if people want to make something   │
-│ > better of it (*).                                                        │
-│ >                                                                          │
-│ >                 Linus                                                    │
-│ >                                                                          │
-│ > (*) Hey, maybe I could apply for a saint-hood from the Pope.  Does       │
-│ > somebody know what his email-address is? I'm so nice it makes you puke.  │
-│ (Taken from Linus's reply to someone worried about the future of Linux)    │
-╰────────────────────────────────────────────────────────────────────────────╯
+╭───────────────────────────────────────────────────────────────────────────────────────────╮
+│ ... C++ offers even more flexible control over the visibility of member                   │
+│ objects and member functions.  Specifically, members may be placed in the                 │
+│ public, private, or protected parts of a class.  Members declared in the                  │
+│ public parts are visible to all clients; members declared in the private                  │
+│ parts are fully encapsulated; and members declared in the protected parts                 │
+│ are visible only to the class itself and its subclasses.  C++ also supports               │
+│ the notion of *_______friends*: cooperative classes that are permitted to see each │
+│ other's private parts.                                                                    │
+│         -- Grady Booch, "Object Oriented Design with Applications"                        │
+╰───────────────────────────────────────────────────────────────────────────────────────────╯
 ```
