@@ -4,15 +4,23 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭───────────────────────────────────────────────────────────────────────────────────────────╮
-│ ... C++ offers even more flexible control over the visibility of member                   │
-│ objects and member functions.  Specifically, members may be placed in the                 │
-│ public, private, or protected parts of a class.  Members declared in the                  │
-│ public parts are visible to all clients; members declared in the private                  │
-│ parts are fully encapsulated; and members declared in the protected parts                 │
-│ are visible only to the class itself and its subclasses.  C++ also supports               │
-│ the notion of *_______friends*: cooperative classes that are permitted to see each │
-│ other's private parts.                                                                    │
-│         -- Grady Booch, "Object Oriented Design with Applications"                        │
-╰───────────────────────────────────────────────────────────────────────────────────────────╯
+╭───────────────────────────────────────────────────────────────────────────────╮
+│     Price Wang's programmer was coding software.  His fingers danced upon     │
+│ the keyboard.  The program compiled without an error message, and the program │
+│ ran like a gentle wind.                                                       │
+│     Excellent!" the Price exclaimed, "Your technique is faultless!"           │
+│     "Technique?" said the programmer, turning from his terminal, "What I      │
+│ follow is the Tao -- beyond all technique.  When I first began to program I   │
+│ would see before me the whole program in one mass.  After three years I no    │
+│ longer saw this mass.  Instead, I used subroutines.  But now I see nothing.   │
+│ My whole being exists in a formless void.  My senses are idle.  My spirit,    │
+│ free to work without a plan, follows its own instinct.  In short, my program  │
+│ writes itself.  True, sometimes there are difficult problems.  I see them     │
+│ coming, I slow down, I watch silently.  Then I change a single line of code   │
+│ and the difficulties vanish like puffs of idle smoke.  I then compile the     │
+│ program.  I sit still and let the joy of the work fill my being.  I close my  │
+│ eyes for a moment and then log off."                                          │
+│     Price Wang said, "Would that all of my programmers were as wise!"         │
+│         -- Geoffrey James, "The Tao of Programming"                           │
+╰───────────────────────────────────────────────────────────────────────────────╯
 ```
