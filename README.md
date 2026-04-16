@@ -4,10 +4,7 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭─────────────────────────────────────────────────────────────────────────────────╮
-│ C has "the power of assembly language and the convenience of... assembly        │
-│ language."                                                                      │
-│     -- Dennis Ritchie (1941-2011), creator of the C programming language and of │
-│     UNIX                                                                        │
-╰─────────────────────────────────────────────────────────────────────────────────╯
+╭────────────────────────────────────────╮
+│ VMS is like a nightmare about RXS-11M. │
+╰────────────────────────────────────────╯
 ```
