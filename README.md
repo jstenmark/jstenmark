@@ -4,7 +4,7 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭────────────────────────────────────────╮
-│ VMS is like a nightmare about RXS-11M. │
-╰────────────────────────────────────────╯
+╭─────────────────────────────────────────────────╮
+│ This system will self-destruct in five minutes. │
+╰─────────────────────────────────────────────────╯
 ```
