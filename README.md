@@ -4,7 +4,11 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭─────────────────────────────────────────────────╮
-│ This system will self-destruct in five minutes. │
-╰─────────────────────────────────────────────────╯
+╭──────────────────────────────────────────────────────────────────────────────╮
+│ If the designers of X-window built cars, there would be no fewer than five   │
+│ steering wheels hidden about the cockpit, none of which followed the same    │
+│ principles -- but you'd be able to shift gears with your car stereo.  Useful │
+│ feature, that.                                                               │
+│         -- From the programming notebooks of a heretic, 1990.                │
+╰──────────────────────────────────────────────────────────────────────────────╯
 ```
