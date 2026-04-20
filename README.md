@@ -4,7 +4,8 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭─────────────────────────────────────────────────────────────────────╮
-│ All programmers are playwrights and all computers are lousy actors. │
-╰─────────────────────────────────────────────────────────────────────╯
+╭────────────────────────────────────────────────────────────────────╮
+│ "All language designers are arrogant.  Goes with the territory..." │
+│ (By Larry Wall)                                                    │
+╰────────────────────────────────────────────────────────────────────╯
 ```
