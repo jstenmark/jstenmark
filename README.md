@@ -4,8 +4,9 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭────────────────────────────────────────────────────────────────────╮
-│ "All language designers are arrogant.  Goes with the territory..." │
-│ (By Larry Wall)                                                    │
-╰────────────────────────────────────────────────────────────────────╯
+╭─────────────────────────────────────────────────────────────────────────────╮
+│ No part of this message may reproduce, store itself in a retrieval system,  │
+│ or transmit disease, in any form, without the permissiveness of the author. │
+│         -- Chris Shaw                                                       │
+╰─────────────────────────────────────────────────────────────────────────────╯
 ```
