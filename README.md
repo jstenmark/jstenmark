@@ -4,9 +4,8 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭─────────────────────────────────────────────────────────────────────────────╮
-│ No part of this message may reproduce, store itself in a retrieval system,  │
-│ or transmit disease, in any form, without the permissiveness of the author. │
-│         -- Chris Shaw                                                       │
-╰─────────────────────────────────────────────────────────────────────────────╯
+╭──────────────────────────────────────────╮
+│ To iterate is human, to recurse, divine. │
+│         -- Robert Heller                 │
+╰──────────────────────────────────────────╯
 ```
