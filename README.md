@@ -4,8 +4,9 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭──────────────────────────────────────────╮
-│ To iterate is human, to recurse, divine. │
-│         -- Robert Heller                 │
-╰──────────────────────────────────────────╯
+╭────────────────────────────────────────────────────────────────────────────╮
+│ [Crash programs] fail because they are based on the theory that, with nine │
+│ women pregnant, you can get a baby a month.                                │
+│         -- Wernher von Braun                                               │
+╰────────────────────────────────────────────────────────────────────────────╯
 ```
