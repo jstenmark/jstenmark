@@ -4,9 +4,8 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭────────────────────────────────────────────────────────────────────────────╮
-│ [Crash programs] fail because they are based on the theory that, with nine │
-│ women pregnant, you can get a baby a month.                                │
-│         -- Wernher von Braun                                               │
-╰────────────────────────────────────────────────────────────────────────────╯
+╭──────────────────────────────────────────────────╮
+│ linux: because a PC is a terrible thing to waste │
+│ (ksh@cis.ufl.edu put this on Tshirts in '93)     │
+╰──────────────────────────────────────────────────╯
 ```
