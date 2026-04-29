@@ -4,7 +4,7 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭────────────────────────────────╮
-│ May all your PUSHes be POPped. │
-╰────────────────────────────────╯
+╭──────────────────────────────────────────╮
+│ Cobol programmers are down in the dumps. │
+╰──────────────────────────────────────────╯
 ```
