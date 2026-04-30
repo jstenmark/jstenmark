@@ -4,7 +4,7 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭──────────────────────────────────────────╮
-│ Cobol programmers are down in the dumps. │
-╰──────────────────────────────────────────╯
+╭───────────────────────────────────────╮
+│ You're using a keyboard!  How quaint! │
+╰───────────────────────────────────────╯
 ```
