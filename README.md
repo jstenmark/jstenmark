@@ -4,8 +4,7 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭───────────────────────────────────────────────────╮
-│ Why use Windows, since there is a door?           │
-│ (By fachat@galileo.rhein-neckar.de, Andre Fachat) │
-╰───────────────────────────────────────────────────╯
+╭───────────────────────────────────────────────────────────────────────────────╮
+│ As Will Rogers would have said, "There is no such things as a free variable." │
+╰───────────────────────────────────────────────────────────────────────────────╯
 ```
