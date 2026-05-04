@@ -4,7 +4,8 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭───────────────────────────────────────────────────────────────────────────────╮
-│ As Will Rogers would have said, "There is no such things as a free variable." │
-╰───────────────────────────────────────────────────────────────────────────────╯
+╭─────────────────────────────────────╮
+│ Avoid the Gates of Hell.  Use Linux │
+│ (Unknown source)                    │
+╰─────────────────────────────────────╯
 ```
