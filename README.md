@@ -4,8 +4,7 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭─────────────────────────────────────╮
-│ Avoid the Gates of Hell.  Use Linux │
-│ (Unknown source)                    │
-╰─────────────────────────────────────╯
+╭──────────────────────────────────────────────╮
+│ I must have slipped a disk -- my pack hurts! │
+╰──────────────────────────────────────────────╯
 ```
