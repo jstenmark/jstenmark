@@ -4,7 +4,7 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭──────────────────────────────────────────────╮
-│ I must have slipped a disk -- my pack hurts! │
-╰──────────────────────────────────────────────╯
+╭───────────────────────────────╮
+│ She sells cshs by the cshore. │
+╰───────────────────────────────╯
 ```
