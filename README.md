@@ -4,7 +4,7 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭───────────────────────────────╮
-│ She sells cshs by the cshore. │
-╰───────────────────────────────╯
+╭─────────────────────────────────────────────────╮
+│ There are never any bugs you haven't found yet. │
+╰─────────────────────────────────────────────────╯
 ```
