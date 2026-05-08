@@ -4,7 +4,8 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭─────────────────────────────────────────────────╮
-│ There are never any bugs you haven't found yet. │
-╰─────────────────────────────────────────────────╯
+╭─────────────────────────────────────────────────────────────────────────╮
+│ In a five year period we can get one superb programming language.  Only │
+│ we can't control when the five year period will begin.                  │
+╰─────────────────────────────────────────────────────────────────────────╯
 ```
