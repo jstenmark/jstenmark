@@ -4,8 +4,10 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭─────────────────────────────────────────────────────────────────────────╮
-│ In a five year period we can get one superb programming language.  Only │
-│ we can't control when the five year period will begin.                  │
-╰─────────────────────────────────────────────────────────────────────────╯
+╭────────────────────────────────────────────────────────────────────────────────╮
+│ Who wants to remember that escape-x-alt-control-left shift-b puts you into     │
+│ super-edit-debug-compile mode?                                                 │
+│ (Discussion in comp.os.linux.misc on the intuitiveness of commands, especially │
+│ Emacs.)                                                                        │
+╰────────────────────────────────────────────────────────────────────────────────╯
 ```
