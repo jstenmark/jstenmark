@@ -5,9 +5,8 @@
 #### :cookie: Fortune cookie of the day
 ```smalltalk
 ╭─────────────────────────────────────────────────────────────────────╮
-│ Never try to explain computers to a layman.  It's easier to explain │
-│ sex to a virgin.                                                    │
-│         -- Robert Heinlein                                          │
-│ (Note, however, that virgins tend to know a lot about computers.)   │
+│ You can tell how far we have to go, when FORTRAN is the language of │
+│ supercomputers.                                                     │
+│         -- Steven Feiner                                            │
 ╰─────────────────────────────────────────────────────────────────────╯
 ```
