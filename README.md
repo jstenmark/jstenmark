@@ -4,9 +4,8 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭─────────────────────────────────────────────────────────────────────╮
-│ You can tell how far we have to go, when FORTRAN is the language of │
-│ supercomputers.                                                     │
-│         -- Steven Feiner                                            │
-╰─────────────────────────────────────────────────────────────────────╯
+╭───────────────────────────────────────────────────────────────────────────────────╮
+│ Counting in octal is just like counting in decimal--if you don't use your thumbs. │
+│         -- Tom Lehrer                                                             │
+╰───────────────────────────────────────────────────────────────────────────────────╯
 ```
