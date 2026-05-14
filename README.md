@@ -4,8 +4,7 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭───────────────────────────────────────────────────────────────────────────────────╮
-│ Counting in octal is just like counting in decimal--if you don't use your thumbs. │
-│         -- Tom Lehrer                                                             │
-╰───────────────────────────────────────────────────────────────────────────────────╯
+╭───────────────────────────────────────────────────────╮
+│ You have a massage (from the Swedish prime minister). │
+╰───────────────────────────────────────────────────────╯
 ```
