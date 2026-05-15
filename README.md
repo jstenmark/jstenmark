@@ -4,7 +4,10 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭───────────────────────────────────────────────────────╮
-│ You have a massage (from the Swedish prime minister). │
-╰───────────────────────────────────────────────────────╯
+╭───────────────────────────────────────────╮
+│ The first time, it's a KLUDGE!            │
+│ The second, a trick.                      │
+│ Later, it's a well-established technique! │
+│         -- Mike Broido, Intermetrics      │
+╰───────────────────────────────────────────╯
 ```
