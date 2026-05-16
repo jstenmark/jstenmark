@@ -4,10 +4,12 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭───────────────────────────────────────────╮
-│ The first time, it's a KLUDGE!            │
-│ The second, a trick.                      │
-│ Later, it's a well-established technique! │
-│         -- Mike Broido, Intermetrics      │
-╰───────────────────────────────────────────╯
+╭──────────────────────────────────────────────────────────────────────────────╮
+│     THE LESSER-KNOWN PROGRAMMING LANGUAGES #16: C-                           │
+│ This language was named for the grade received by its creator when he        │
+│ submitted it as a class project in a graduate programming class.  C- is best │
+│ described as a "low-level" programming language.  In fact, the language      │
+│ generally requires more C- statements than machine-code statements to        │
+│ execute a given task.  In this respect, it is very similar to COBOL.         │
+╰──────────────────────────────────────────────────────────────────────────────╯
 ```
