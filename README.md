@@ -5,11 +5,9 @@
 #### :cookie: Fortune cookie of the day
 ```smalltalk
 ╭──────────────────────────────────────────────────────────────────────────────╮
-│     THE LESSER-KNOWN PROGRAMMING LANGUAGES #16: C-                           │
-│ This language was named for the grade received by its creator when he        │
-│ submitted it as a class project in a graduate programming class.  C- is best │
-│ described as a "low-level" programming language.  In fact, the language      │
-│ generally requires more C- statements than machine-code statements to        │
-│ execute a given task.  In this respect, it is very similar to COBOL.         │
+│ Fly Windows NT:                                                              │
+│ All the passengers carry their seats out onto the tarmac, placing the chairs │
+│ in the outline of a plane. They all sit down, flap their arms and make jet   │
+│ swooshing sounds as if they are flying.                                      │
 ╰──────────────────────────────────────────────────────────────────────────────╯
 ```
