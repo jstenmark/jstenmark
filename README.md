@@ -4,7 +4,9 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭───────────────────────────────────────────────────────────────────────────╮
-│ To understand a program you must become both the machine and the program. │
-╰───────────────────────────────────────────────────────────────────────────╯
+╭────────────────────────────────────────────────────────────────────────╮
+│ "Absolutely nothing should be concluded from these figures except that │
+│ no conclusion can be drawn from them."                                 │
+│ (By Joseph L. Brothers, Linux/PowerPC Project)                         │
+╰────────────────────────────────────────────────────────────────────────╯
 ```
