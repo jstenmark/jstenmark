@@ -4,9 +4,8 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭────────────────────────────────────────────────────────────────────────╮
-│ "Absolutely nothing should be concluded from these figures except that │
-│ no conclusion can be drawn from them."                                 │
-│ (By Joseph L. Brothers, Linux/PowerPC Project)                         │
-╰────────────────────────────────────────────────────────────────────────╯
+╭────────────────────────────────────────────────────────────────────────────────╮
+│ "We are on the verge: Today our program proved Fermat's next-to-last theorem." │
+│         -- Epigrams in Programming, ACM SIGPLAN Sept. 1982                     │
+╰────────────────────────────────────────────────────────────────────────────────╯
 ```
