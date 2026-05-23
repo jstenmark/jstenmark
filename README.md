@@ -4,8 +4,8 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭────────────────────────────────────────────────────────────────────────────────╮
-│ "We are on the verge: Today our program proved Fermat's next-to-last theorem." │
-│         -- Epigrams in Programming, ACM SIGPLAN Sept. 1982                     │
-╰────────────────────────────────────────────────────────────────────────────────╯
+╭─────────────────────────────────────────────────────────────────────────╮
+│ The meat is rotten, but the booze is holding out.                       │
+│ Computer translation of "The spirit is willing, but the flesh is weak." │
+╰─────────────────────────────────────────────────────────────────────────╯
 ```
