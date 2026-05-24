@@ -4,8 +4,9 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭─────────────────────────────────────────────────────────────────────────╮
-│ The meat is rotten, but the booze is holding out.                       │
-│ Computer translation of "The spirit is willing, but the flesh is weak." │
-╰─────────────────────────────────────────────────────────────────────────╯
+╭─────────────────────────────────────────────────────────────────────────────────╮
+│ If, for some reason, we make some big mistake and IBM wins, my personal feeling │
+│ is that we are going to enter a computer Dark Ages for about twenty years.      │
+│                 -- Steve Jobs (1955-2011)                                       │
+╰─────────────────────────────────────────────────────────────────────────────────╯
 ```
