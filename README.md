@@ -4,9 +4,7 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭─────────────────────────────────────────────────────────────────────────────────╮
-│ If, for some reason, we make some big mistake and IBM wins, my personal feeling │
-│ is that we are going to enter a computer Dark Ages for about twenty years.      │
-│                 -- Steve Jobs (1955-2011)                                       │
-╰─────────────────────────────────────────────────────────────────────────────────╯
+╭─────────────────────────────────────────────────────╮
+│ Staff meeting in the conference room in %d minutes. │
+╰─────────────────────────────────────────────────────╯
 ```
