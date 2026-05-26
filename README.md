@@ -4,7 +4,7 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭─────────────────────────────────────────────────────╮
-│ Staff meeting in the conference room in %d minutes. │
-╰─────────────────────────────────────────────────────╯
+╭─────────────────────────────────────────────────╮
+│ This system will self-destruct in five minutes. │
+╰─────────────────────────────────────────────────╯
 ```
