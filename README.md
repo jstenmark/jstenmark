@@ -4,7 +4,7 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭─────────────────────────────────────────────────╮
-│ This system will self-destruct in five minutes. │
-╰─────────────────────────────────────────────────╯
+╭───────────────────────────╮
+│ Your fault -- core dumped │
+╰───────────────────────────╯
 ```
