@@ -4,7 +4,10 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭───────────────────────────╮
-│ Your fault -- core dumped │
-╰───────────────────────────╯
+╭───────────────────────────────────────────────────────────────────────────────╮
+│     The master programmer moves from program to program without fear.  No     │
+│ change in management can harm him.  He will not be fired, even if the project │
+│ is canceled. Why is this?  He is filled with the Tao.                         │
+│         -- Geoffrey James, "The Tao of Programming"                           │
+╰───────────────────────────────────────────────────────────────────────────────╯
 ```
