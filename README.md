@@ -4,9 +4,7 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭───────────────────────────────────────────────────────────────────────╮
-│ At Group L, Stoffel oversees six first-rate programmers, a managerial │
-│ challenge roughly comparable to herding cats.                         │
-│         -- The Washington Post Magazine, 9 June, 1985                 │
-╰───────────────────────────────────────────────────────────────────────╯
+╭────────────────────────────╮
+│ System restarting, wait... │
+╰────────────────────────────╯
 ```
