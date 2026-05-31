@@ -4,7 +4,7 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭────────────────────────────╮
-│ System restarting, wait... │
-╰────────────────────────────╯
+╭────────────────────────────────╮
+│ Debug is human, de-fix divine. │
+╰────────────────────────────────╯
 ```
