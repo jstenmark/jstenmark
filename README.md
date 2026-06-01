@@ -4,7 +4,9 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭────────────────────────────────╮
-│ Debug is human, de-fix divine. │
-╰────────────────────────────────╯
+╭──────────────────────────────────────────────────────────────────────────╮
+│ Feel free to contact me (flames about my english and the useless of this │
+│ driver will be redirected to /dev/null, oh no, it's full...).            │
+│ (Michael Beck, describing the PC-speaker sound device)                   │
+╰──────────────────────────────────────────────────────────────────────────╯
 ```
