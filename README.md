@@ -4,9 +4,7 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭──────────────────────────────────────────────────────────────────────────╮
-│ Feel free to contact me (flames about my english and the useless of this │
-│ driver will be redirected to /dev/null, oh no, it's full...).            │
-│ (Michael Beck, describing the PC-speaker sound device)                   │
-╰──────────────────────────────────────────────────────────────────────────╯
+╭───────────────────────────────────────────────────────────────────────────────╮
+│ You don't have to know how the computer works, just how to work the computer. │
+╰───────────────────────────────────────────────────────────────────────────────╯
 ```
