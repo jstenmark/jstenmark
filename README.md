@@ -4,7 +4,11 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭───────────────────────────────────────────────────────────────────────────────╮
-│ You don't have to know how the computer works, just how to work the computer. │
-╰───────────────────────────────────────────────────────────────────────────────╯
+╭────────────────────────────────────────────────────────────────────────────────╮
+│ Now I know someone out there is going to claim, "Well then, UNIX is intuitive, │
+│ because you only need to learn 5000 commands, and then everything else follows │
+│ from that! Har har har!"                                                       │
+│ (Andy Bates in comp.os.linux.misc, on "intuitive interfaces", slightly         │
+│ defending Macs.)                                                               │
+╰────────────────────────────────────────────────────────────────────────────────╯
 ```
