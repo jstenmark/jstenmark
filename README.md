@@ -4,11 +4,9 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭────────────────────────────────────────────────────────────────────────────────╮
-│ Now I know someone out there is going to claim, "Well then, UNIX is intuitive, │
-│ because you only need to learn 5000 commands, and then everything else follows │
-│ from that! Har har har!"                                                       │
-│ (Andy Bates in comp.os.linux.misc, on "intuitive interfaces", slightly         │
-│ defending Macs.)                                                               │
-╰────────────────────────────────────────────────────────────────────────────────╯
+╭────────────────────────────────────────────────────────────────────╮
+│ The next person to mention spaghetti stacks to me is going to have │
+│ his head knocked off.                                              │
+│         -- Bill Conrad                                             │
+╰────────────────────────────────────────────────────────────────────╯
 ```
