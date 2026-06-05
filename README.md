@@ -4,9 +4,7 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭────────────────────────────────────────────────────────────────────╮
-│ The next person to mention spaghetti stacks to me is going to have │
-│ his head knocked off.                                              │
-│         -- Bill Conrad                                             │
-╰────────────────────────────────────────────────────────────────────╯
+╭────────────────────────────────────────╮
+│ VMS is like a nightmare about RXS-11M. │
+╰────────────────────────────────────────╯
 ```
