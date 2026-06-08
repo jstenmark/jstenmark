@@ -4,7 +4,9 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭────────────────────────────╮
-│ System restarting, wait... │
-╰────────────────────────────╯
+╭──────────────────────────────────────────────────────────╮
+│ If it happens once, it's a bug.                          │
+│ If it happens twice, it's a feature.                     │
+│ If it happens more than twice, it's a design philosophy. │
+╰──────────────────────────────────────────────────────────╯
 ```
