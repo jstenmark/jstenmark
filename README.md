@@ -4,9 +4,10 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭──────────────────────────────────────────────────────────╮
-│ If it happens once, it's a bug.                          │
-│ If it happens twice, it's a feature.                     │
-│ If it happens more than twice, it's a design philosophy. │
-╰──────────────────────────────────────────────────────────╯
+╭──────────────────────────────────────────────────────────────────────────────╮
+│ The personal computer market is about the same size as the total potato chip │
+│ market.  Next year it will be about half the size of the pet food market and │
+│ is fast approaching the total worldwide sales of pantyhose"                  │
+│         -- James Finke, Commodore Int'l Ltd., 1982                           │
+╰──────────────────────────────────────────────────────────────────────────────╯
 ```
