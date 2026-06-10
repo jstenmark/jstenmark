@@ -4,10 +4,8 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭──────────────────────────────────────────────────────────────────────────────╮
-│ The personal computer market is about the same size as the total potato chip │
-│ market.  Next year it will be about half the size of the pet food market and │
-│ is fast approaching the total worldwide sales of pantyhose"                  │
-│         -- James Finke, Commodore Int'l Ltd., 1982                           │
-╰──────────────────────────────────────────────────────────────────────────────╯
+╭─────────────────────────────────────────────────────────────────────────╮
+│ We don't understand the software, and sometimes we don't understand the │
+│ hardware, but we can *___see* the blinking lights!                   │
+╰─────────────────────────────────────────────────────────────────────────╯
 ```
