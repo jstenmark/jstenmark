@@ -4,8 +4,9 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭─────────────────────────────────────────────────────────────────────────╮
-│ We don't understand the software, and sometimes we don't understand the │
-│ hardware, but we can *___see* the blinking lights!                   │
-╰─────────────────────────────────────────────────────────────────────────╯
+╭────────────────────────────────────────────────────────────────────────╮
+│ "I'd crawl over an acre of 'Visual This++' and 'Integrated Development │
+│ That' to get to gcc, Emacs, and gdb.  Thank you."                      │
+│ (By Vance Petree, Virginia Power)                                      │
+╰────────────────────────────────────────────────────────────────────────╯
 ```
