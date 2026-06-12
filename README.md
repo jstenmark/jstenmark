@@ -4,9 +4,9 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭────────────────────────────────────────────────────────────────────────╮
-│ "I'd crawl over an acre of 'Visual This++' and 'Integrated Development │
-│ That' to get to gcc, Emacs, and gdb.  Thank you."                      │
-│ (By Vance Petree, Virginia Power)                                      │
-╰────────────────────────────────────────────────────────────────────────╯
+╭────────────────────────────────────────────────────────────────────────────╮
+│ ... when fits of creativity run strong, more than one programmer or writer │
+│ has been known to abandon the desktop for the more spacious floor.         │
+│         -- Fred Brooks                                                     │
+╰────────────────────────────────────────────────────────────────────────────╯
 ```
