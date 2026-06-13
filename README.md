@@ -4,9 +4,7 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭────────────────────────────────────────────────────────────────────────────╮
-│ ... when fits of creativity run strong, more than one programmer or writer │
-│ has been known to abandon the desktop for the more spacious floor.         │
-│         -- Fred Brooks                                                     │
-╰────────────────────────────────────────────────────────────────────────────╯
+╭──────────────────────────────────────────────────────╮
+│ /earth is 98% full ... please delete anyone you can. │
+╰──────────────────────────────────────────────────────╯
 ```
