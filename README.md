@@ -4,7 +4,9 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭──────────────────────────────────────────────────────╮
-│ /earth is 98% full ... please delete anyone you can. │
-╰──────────────────────────────────────────────────────╯
+╭─────────────────────────────────────────────────────────────────────────╮
+│ There is no reason for any individual to have a computer in their home. │
+│         -- Ken Olsen (President of Digital Equipment Corporation),      │
+│            Convention of the World Future Society, in Boston, 1977      │
+╰─────────────────────────────────────────────────────────────────────────╯
 ```
