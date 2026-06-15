@@ -4,9 +4,9 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭─────────────────────────────────────────────────────────────────────────╮
-│ There is no reason for any individual to have a computer in their home. │
-│         -- Ken Olsen (President of Digital Equipment Corporation),      │
-│            Convention of the World Future Society, in Boston, 1977      │
-╰─────────────────────────────────────────────────────────────────────────╯
+╭───────────────────────────────────────────────────────────────────────────────╮
+│ The sendmail configuration file is one of those files that looks like someone │
+│ beat their head on the keyboard.  After working with it... I can see why!     │
+│         -- Harry Skelton                                                      │
+╰───────────────────────────────────────────────────────────────────────────────╯
 ```
