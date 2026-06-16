@@ -4,9 +4,7 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭───────────────────────────────────────────────────────────────────────────────╮
-│ The sendmail configuration file is one of those files that looks like someone │
-│ beat their head on the keyboard.  After working with it... I can see why!     │
-│         -- Harry Skelton                                                      │
-╰───────────────────────────────────────────────────────────────────────────────╯
+╭─────────────────────────────────╮
+│ Remember: use logout to logout. │
+╰─────────────────────────────────╯
 ```
