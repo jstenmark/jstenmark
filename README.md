@@ -4,7 +4,9 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭─────────────────────────────────╮
-│ Remember: use logout to logout. │
-╰─────────────────────────────────╯
+╭────────────────────────────────────────────────────────────────────╮
+│ You can do this in a number of ways.  IBM chose to do all of them. │
+│ Why do you find that funny?                                        │
+│         -- D. Taylor, Computer Science 350                         │
+╰────────────────────────────────────────────────────────────────────╯
 ```
