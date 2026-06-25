@@ -4,12 +4,7 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭─────────────────────────────────────────────────────────────────────────────╮
-│     One day a student came to Moon and said, "I understand how to make      │
-│ a better garbage collector.  We must keep a reference count of the pointers │
-│ to each cons."                                                              │
-│     Moon patiently told the student the following story -- "One day a       │
-│ student came to Moon and said, "I understand how to make a better garbage   │
-│ collector..."                                                               │
-╰─────────────────────────────────────────────────────────────────────────────╯
+╭─────────────────╮
+│ Please go away. │
+╰─────────────────╯
 ```
