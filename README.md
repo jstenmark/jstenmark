@@ -4,7 +4,8 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭───────────────────────────────────────────────────╮
-│ Never trust a computer you can't repair yourself. │
-╰───────────────────────────────────────────────────╯
+╭───────────────────────────────────────────────────────────────────╮
+│ To be a kind of moral Unix, he touched the hem of Nature's shift. │
+│         -- Shelley                                                │
+╰───────────────────────────────────────────────────────────────────╯
 ```
