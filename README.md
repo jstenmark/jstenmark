@@ -4,8 +4,9 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭───────────────────────────────────────────────────────────────────╮
-│ To be a kind of moral Unix, he touched the hem of Nature's shift. │
-│         -- Shelley                                                │
-╰───────────────────────────────────────────────────────────────────╯
+╭────────────────────────────────────────────────────────────────╮
+│ The IBM 2250 is impressive ...                                 │
+│ if you compare it with a system selling for a tenth its price. │
+│         -- D. Cohen                                            │
+╰────────────────────────────────────────────────────────────────╯
 ```
