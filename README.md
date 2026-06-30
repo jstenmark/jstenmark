@@ -4,9 +4,11 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭────────────────────────────────────────────────────────────────╮
-│ The IBM 2250 is impressive ...                                 │
-│ if you compare it with a system selling for a tenth its price. │
-│         -- D. Cohen                                            │
-╰────────────────────────────────────────────────────────────────╯
+╭───────────────────────────────────────────────────────────────────────────────╮
+│ In fact, S. M. Simpson, eventually devised an efficient 24-point Fourier      │
+│ transform, which was a precursor to the Cooley-Tukey fast Fourier transform   │
+│ in 1965.  The FFT made all of Simpson's efficient autocorrelation and         │
+│ spectrum programs instantly obsolete, on which he had worked half a lifetime. │
+│         -- Proc. IEEE, Sept. 1982, p.900                                      │
+╰───────────────────────────────────────────────────────────────────────────────╯
 ```
