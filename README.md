@@ -4,11 +4,8 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭───────────────────────────────────────────────────────────────────────────────╮
-│ In fact, S. M. Simpson, eventually devised an efficient 24-point Fourier      │
-│ transform, which was a precursor to the Cooley-Tukey fast Fourier transform   │
-│ in 1965.  The FFT made all of Simpson's efficient autocorrelation and         │
-│ spectrum programs instantly obsolete, on which he had worked half a lifetime. │
-│         -- Proc. IEEE, Sept. 1982, p.900                                      │
-╰───────────────────────────────────────────────────────────────────────────────╯
+╭─────────────────────────────────────────────────────────────────────────────────╮
+│ Real Programmers don't write in FORTRAN.  FORTRAN is for pipe stress freaks and │
+│ crystallography weenies.  FORTRAN is for wimp engineers who wear white socks.   │
+╰─────────────────────────────────────────────────────────────────────────────────╯
 ```
