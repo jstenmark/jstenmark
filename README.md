@@ -4,8 +4,8 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭─────────────────────────────────────────────────────────────────────────────────╮
-│ Real Programmers don't write in FORTRAN.  FORTRAN is for pipe stress freaks and │
-│ crystallography weenies.  FORTRAN is for wimp engineers who wear white socks.   │
-╰─────────────────────────────────────────────────────────────────────────────────╯
+╭──────────────────────────────────────────────────────────────────────╮
+│ I think there's a world market for about five computers.             │
+│         -- attr. Thomas J. Watson (Chairman of the Board, IBM), 1943 │
+╰──────────────────────────────────────────────────────────────────────╯
 ```
