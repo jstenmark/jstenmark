@@ -4,8 +4,8 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭──────────────────────────────────────────────────────────────────────╮
-│ I think there's a world market for about five computers.             │
-│         -- attr. Thomas J. Watson (Chairman of the Board, IBM), 1943 │
-╰──────────────────────────────────────────────────────────────────────╯
+╭──────────────────────────────────────────────────────────╮
+│ Blinding speed can compensate for a lot of deficiencies. │
+│         -- David Nichols                                 │
+╰──────────────────────────────────────────────────────────╯
 ```
