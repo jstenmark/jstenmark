@@ -4,8 +4,8 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭──────────────────────────────────────────────────────────╮
-│ Blinding speed can compensate for a lot of deficiencies. │
-│         -- David Nichols                                 │
-╰──────────────────────────────────────────────────────────╯
+╭───────────────────────────────────────────────────────────────────────╮
+│ When someone says "I want a programming language in which I need only │
+│ say what I wish done," give him a lollipop.                           │
+╰───────────────────────────────────────────────────────────────────────╯
 ```
