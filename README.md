@@ -4,8 +4,8 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭───────────────────────────────────────────────────────────────────────╮
-│ When someone says "I want a programming language in which I need only │
-│ say what I wish done," give him a lollipop.                           │
-╰───────────────────────────────────────────────────────────────────────╯
+╭────────────────────────────────────────────────────────────────────────╮
+│ Real computer scientists don't program in assembler.  They don't write │
+│ in anything less portable than a number two pencil.                    │
+╰────────────────────────────────────────────────────────────────────────╯
 ```
