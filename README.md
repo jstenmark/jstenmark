@@ -4,12 +4,9 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭──────────────────────────────────────────────────────────────────────────╮
-│ ... it is easy to be blinded to the essential uselessness of them by the │
-│ sense of achievement you get from getting them to work at all.  In other │
-│ words... their fundamental design flaws are completely hidden by their   │
-│ superficial design flaws.                                                │
-│         -- The Hitchhiker's Guide to the Galaxy, on the products         │
-│                of the Sirius Cybernetics Corporation.                    │
-╰──────────────────────────────────────────────────────────────────────────╯
+╭─────────────────────────────────────────────────────────────────────────╮
+│ "Even more amazing was the realization that God has Internet access.  I │
+│ wonder if He has a full newsfeed?"                                      │
+│ (By Matt Welsh)                                                         │
+╰─────────────────────────────────────────────────────────────────────────╯
 ```
