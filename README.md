@@ -4,9 +4,7 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭─────────────────────────────────────────────────────────────────────────╮
-│ "Even more amazing was the realization that God has Internet access.  I │
-│ wonder if He has a full newsfeed?"                                      │
-│ (By Matt Welsh)                                                         │
-╰─────────────────────────────────────────────────────────────────────────╯
+╭────────────────────────────────────────────╮
+│ All the simple programs have been written. │
+╰────────────────────────────────────────────╯
 ```
