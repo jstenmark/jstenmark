@@ -4,7 +4,9 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭────────────────────────────────────────────╮
-│ All the simple programs have been written. │
-╰────────────────────────────────────────────╯
+╭────────────────────────────────────────────────────────────────────────────────╮
+│ What a computer is to me is the most remarkable tool that we have ever come up │
+│ with. It's the equivalent of a bicycle for our minds.                          │
+│                 -- Steve Jobs (1955-2011)                                      │
+╰────────────────────────────────────────────────────────────────────────────────╯
 ```
