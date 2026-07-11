@@ -4,9 +4,9 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭────────────────────────────────────────────────────────────────────────────────╮
-│ What a computer is to me is the most remarkable tool that we have ever come up │
-│ with. It's the equivalent of a bicycle for our minds.                          │
-│                 -- Steve Jobs (1955-2011)                                      │
-╰────────────────────────────────────────────────────────────────────────────────╯
+╭──────────────────────────────────────────────────────────────────────────────╮
+│ `When you say "I wrote a program that crashed Windows", people just stare at │
+│ you blankly and say "Hey, I got those with the system, *for free*".'         │
+│ (By Linus Torvalds)                                                          │
+╰──────────────────────────────────────────────────────────────────────────────╯
 ```
