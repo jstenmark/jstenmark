@@ -5,8 +5,15 @@
 #### :cookie: Fortune cookie of the day
 ```smalltalk
 ╭──────────────────────────────────────────────────────────────────────────────╮
-│ `When you say "I wrote a program that crashed Windows", people just stare at │
-│ you blankly and say "Hey, I got those with the system, *for free*".'         │
-│ (By Linus Torvalds)                                                          │
+│ Dear Emily:                                                                  │
+│     I recently read an article that said, "reply by mail, I'll summarize."   │
+│ What should I do?                                                            │
+│         -- Doubtful                                                          │
+│ Dear Doubtful:                                                               │
+│     Post your response to the whole net.  That request applies only to       │
+│ dumb people who don't have something interesting to say.  Your postings are  │
+│ much more worthwhile than other people's, so it would be a waste to reply by │
+│ mail.                                                                        │
+│         -- Emily Postnews Answers Your Questions on Netiquette               │
 ╰──────────────────────────────────────────────────────────────────────────────╯
 ```
