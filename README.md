@@ -4,10 +4,8 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭────────────────────────────────────────────────────────────────────────────╮
-│ In a display of perverse brilliance, Carl the repairman mistakes a room    │
-│ humidifier for a mid-range computer but manages to tie it into the network │
-│ anyway.                                                                    │
-│         -- The 5th Wave                                                    │
-╰────────────────────────────────────────────────────────────────────────────╯
+╭────────────────────────────────────────────╮
+│ Tomorrow's computers some time next month. │
+│         -- DEC                             │
+╰────────────────────────────────────────────╯
 ```
