@@ -4,8 +4,8 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭────────────────────────────────────────────╮
-│ Tomorrow's computers some time next month. │
-│         -- DEC                             │
-╰────────────────────────────────────────────╯
+╭────────────────────────────────────────────────────────╮
+│ No wonder Clairol makes so much money selling shampoo. │
+│ Lather, Rinse, Repeat is an infinite loop!             │
+╰────────────────────────────────────────────────────────╯
 ```
