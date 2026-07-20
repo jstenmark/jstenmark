@@ -4,8 +4,7 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭────────────────────────────────────────────────────────╮
-│ No wonder Clairol makes so much money selling shampoo. │
-│ Lather, Rinse, Repeat is an infinite loop!             │
-╰────────────────────────────────────────────────────────╯
+╭──────────────────────────────────────────────────────────────╮
+│ Do you guys know what you're doing, or are you just hacking? │
+╰──────────────────────────────────────────────────────────────╯
 ```
