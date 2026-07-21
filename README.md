@@ -4,7 +4,10 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭──────────────────────────────────────────────────────────────╮
-│ Do you guys know what you're doing, or are you just hacking? │
-╰──────────────────────────────────────────────────────────────╯
+╭───────────────────────────────────────────────────────────────────────╮
+│ "The biggest problem facing software engineering is the one it will   │
+│  never solve - politics."                                             │
+│         -- Gavin Baker, ca 1996, An unusually cynical moment inspired │
+│            by working on a large project beseiged by politics         │
+╰───────────────────────────────────────────────────────────────────────╯
 ```
