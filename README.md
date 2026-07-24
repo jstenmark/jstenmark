@@ -4,10 +4,7 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭─────────────────────────────────────────────────────────────────────╮
-│ Whenever one person is found adequate to the discharge of a duty by │
-│ close application thereto, it is worse execute by two persons and   │
-│ scarcely done at all if three or more are employed therein.         │
-│         -- George Washington, 1732-1799                             │
-╰─────────────────────────────────────────────────────────────────────╯
+╭─────────────────────────────────────────────────────────────────╮
+│ Long computations which yield zero are probably all for naught. │
+╰─────────────────────────────────────────────────────────────────╯
 ```
