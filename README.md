@@ -4,14 +4,12 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭────────────────────────────────────────╮
-│             _-^--^=-_                  │
-│            _.-^^          -~_          │
-│         _--                  --_       │
-│            <                        >) │
-│            |                         | │
-│         \._                   _./      │
-│            ```--. . , ; .--'''         │
+╭─────────────────────────────────────────────────────────────────────────╮
+│ A computer lets you make more mistakes faster than any other invention, │
+│ with the possible exceptions of handguns and Tequilla.                  │
+│         -- Mitch Ratcliffe                                              │
+╰─────────────────────────────────────────────────────────────────────────╯
+```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
 │               `-=#$%&%$#=-'            │
