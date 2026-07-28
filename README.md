@@ -4,10 +4,12 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭──────────────────────────────────────────────────────────────────────╮
-│ If the code and the comments disagree, then both are probably wrong. │
-│         -- Norm Schryer                                              │
-╰──────────────────────────────────────────────────────────────────────╯
+╭────────────────────────────────────────────────────────────────────────────────╮
+│ Giving up on assembly language was the apple in our Garden of Eden:  Languages │
+│ whose use squanders machine cycles are sinful.  The LISP machine now permits   │
+│ LISP programmers to abandon bra and fig-leaf.                                  │
+│         -- Epigrams in Programming, ACM SIGPLAN Sept. 1982                     │
+╰────────────────────────────────────────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
