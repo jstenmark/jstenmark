@@ -5,10 +5,18 @@
 #### :cookie: Fortune cookie of the day
 ```smalltalk
 ╭────────────────────────────────────────────────────────────────────────────────╮
-│ Giving up on assembly language was the apple in our Garden of Eden:  Languages │
-│ whose use squanders machine cycles are sinful.  The LISP machine now permits   │
-│ LISP programmers to abandon bra and fig-leaf.                                  │
-│         -- Epigrams in Programming, ACM SIGPLAN Sept. 1982                     │
+│ "I'm an idiot.. At least this one [bug] took about 5 minutes to find.."        │
+│ (Linus Torvalds in response to a bug report.)                                  │
+│ > I'm an idiot.. At least this [bug] took about 5 minutes to find..            │
+│ Disquieting ...                                                                │
+│ (Gonzalo Tornaria in response to Linus Torvalds's mailing about a kernel bug.) │
+│ > I'm an idiot.. At least this [bug] took about 5 minutes to find..            │
+│ We need to find some new terms to describe the rest of us mere mortals         │
+│ then.                                                                          │
+│ (Craig Schlenter in response to Linus Torvalds's mailing about a kernel bug.)  │
+│ > I'm an idiot.. At least this [bug] took about 5 minutes to find..            │
+│ Surely, Linus is talking about the kind of idiocy that others aspire to :-).   │
+│ (Bruce Perens in response to Linus Torvalds's mailing about a kernel bug.)     │
 ╰────────────────────────────────────────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
