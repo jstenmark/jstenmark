@@ -4,9 +4,10 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭────────────────────────────────────────────────╮
-│ You can't go home again, unless you set . │
-╰────────────────────────────────────────────────╯
+╭────────────────────────────────────────────────────────╮
+│ Linux: Because a PC is a terrible thing to waste.      │
+│ (By komarimf@craft.camp.clarkson.edu, Mark Komarinski) │
+╰────────────────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
