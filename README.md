@@ -4,10 +4,9 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭────────────────────────────────────────────────────────╮
-│ Linux: Because a PC is a terrible thing to waste.      │
-│ (By komarimf@craft.camp.clarkson.edu, Mark Komarinski) │
-╰────────────────────────────────────────────────────────╯
+╭────────────────────────────────────────────────────────────────────╮
+│ We are experiencing system trouble -- do not adjust your terminal. │
+╰────────────────────────────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
