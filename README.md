@@ -4,9 +4,11 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭──────────────────────────────────────────────────────╮
-│ Passwords are implemented as a result of insecurity. │
-╰──────────────────────────────────────────────────────╯
+╭─────────────────────────────────────────────────────────────────────────╮
+│ VMS Beer: Requires minimal user interaction, except for popping the top │
+│ and sipping.  However cans have been known on occasion to explode, or   │
+│ contain extremely un-beer-like contents.                                │
+╰─────────────────────────────────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
