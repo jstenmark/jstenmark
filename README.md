@@ -4,9 +4,12 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭─────────────────────────────────────────────╮
-│ Bus error -- please leave by the rear door. │
-╰─────────────────────────────────────────────╯
+╭─────────────────╮
+│ C Code.         │
+│ C Code Run.     │
+│ Run, Code, RUN! │
+│     PLEASE!!!!  │
+╰─────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
