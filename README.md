@@ -4,12 +4,12 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭─────────────────╮
-│ C Code.         │
-│ C Code Run.     │
-│ Run, Code, RUN! │
-│     PLEASE!!!!  │
-╰─────────────────╯
+╭──────────────────────────────────────────────────────────────────────────╮
+│ But in our enthusiasm, we could not resist a radical overhaul of the     │
+│ system, in which all of its major weaknesses have been exposed,          │
+│ analyzed, and replaced with new weaknesses.                              │
+│         -- Bruce Leverett, "Register Allocation in Optimizing Compilers" │
+╰──────────────────────────────────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
