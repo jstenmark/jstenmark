@@ -5,10 +5,7 @@
 #### :cookie: Fortune cookie of the day
 ```smalltalk
 ╭──────────────────────────────────────────────────────────╮
-│ Thus spake the master programmer:                        │
-│     "When you have learned to snatch the error code from │
-│     the trap frame, it will be time for you to leave."   │
-│         -- Geoffrey James, "The Tao of Programming"      │
+│ GIVE:    Support the helpless victims of computer error. │
 ╰──────────────────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
