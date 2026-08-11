@@ -4,16 +4,22 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭───────────────────────────────────────────────────────────────────────────╮
-│ +#if defined(__alpha__) && defined(CONFIG_PCI)                            │
-│ +       /*                                                                │
-│ +        * The meaning of life, the universe, and everything. Plus        │
-│ +        * this makes the year come out right.                            │
-│ +        */                                                               │
-│ +       year -= 42;                                                       │
-│ +#endif                                                                   │
-│ (From the patch for 1.3.2: (kernel/time.c), submitted by Marcus Meissner) │
-╰───────────────────────────────────────────────────────────────────────────╯
+╭─────────────────────────────────────────────────────────────╮
+│ Fortune suggests uses for YOUR favorite UNIX commands!      │
+│ Try:                                                        │
+│     [Where is Jimmy Hoffa?            (C shell)             │
+│     ^How did the^sex change operation go?    (C shell)      │
+│     "How would you rate BSD vs. System V?                   │
+│     %blow                    (C shell)                      │
+│     'thou shalt not mow thy grass at 8am'    (C shell)      │
+│     got a light?                (C shell)                   │
+│     !!:Say, what do you think of margarine?    (C shell)    │
+│     PATH=pretending! /usr/ucb/which sense    (Bourne shell) │
+│     make love                                               │
+│     make "the perfect dry martini"                          │
+│     man -kisses dog                (anything up to 4.3BSD)  │
+│     i=Hoffa ; >; ; rm ; rm         (Bourne shell)   │
+╰─────────────────────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
