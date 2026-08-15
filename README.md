@@ -4,13 +4,10 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭───────────────────────────────────────────────────────────────────────────────╮
-│ We the Users, in order to form a more perfect system, establish priorities,   │
-│ ensure connective tranquility, provide for common repairs, promote preventive │
-│ maintenance, and secure the blessings of liberty for ourselves and our        │
-│ processes, do ordain and establish this Software of The Unixed States         │
-│ of America.                                                                   │
-╰───────────────────────────────────────────────────────────────────────────────╯
+╭─────────────────────────────────────────────────────────────────────────────╮
+│ "The C Programming Language -- A language which combines the flexibility of │
+│ assembly language with the power of assembly language."                     │
+╰─────────────────────────────────────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
