@@ -4,13 +4,9 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭───────────────────────────────────────────────────────────────────────╮
-│ Unix gives you just enough rope to hang yourself -- and then a couple │
-│ of more feet, just to be sure.                                        │
-│         -- Eric Allman                                                │
-│ ... We make rope.                                                     │
-│         -- Rob Gingell on Sun Microsystem's new virtual memory.       │
-╰───────────────────────────────────────────────────────────────────────╯
+╭────────────────────────────────────────────────────────╮
+│ The world is coming to an end ... SAVE YOUR BUFFERS!!! │
+╰────────────────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
