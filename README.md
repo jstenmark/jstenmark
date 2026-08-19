@@ -4,9 +4,11 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭────────────────────────────────────────────────────────╮
-│ The world is coming to an end ... SAVE YOUR BUFFERS!!! │
-╰────────────────────────────────────────────────────────╯
+╭────────────────────────────────────────────────────────────────────────╮
+│ Almost anything derogatory you could say about today's software design │
+│ would be accurate.                                                     │
+│         -- K. E. Iverson                                               │
+╰────────────────────────────────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
