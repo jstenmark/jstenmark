@@ -4,11 +4,10 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭────────────────────────────────────────────────────────────────────────╮
-│ Almost anything derogatory you could say about today's software design │
-│ would be accurate.                                                     │
-│         -- K. E. Iverson                                               │
-╰────────────────────────────────────────────────────────────────────────╯
+╭──────────────────────────────────────────────────────────────────────────╮
+│ Standards are crucial.  And the best thing about standards is: there are │
+│ so ____many to choose from!                                          │
+╰──────────────────────────────────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
