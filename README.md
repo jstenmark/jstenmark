@@ -4,10 +4,9 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭──────────────────────────────────────────────────────────────────────────╮
-│ Standards are crucial.  And the best thing about standards is: there are │
-│ so ____many to choose from!                                          │
-╰──────────────────────────────────────────────────────────────────────────╯
+╭───────────────────────────────────────────────╮
+│ Overload -- core meltdown sequence initiated. │
+╰───────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
