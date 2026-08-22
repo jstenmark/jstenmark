@@ -4,9 +4,10 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭───────────────────────────────────────────────╮
-│ Overload -- core meltdown sequence initiated. │
-╰───────────────────────────────────────────────╯
+╭─────────────────────────────────────────────────────────────────────────╮
+│ Trying to be happy is like trying to build a machine for which the only │
+│ specification is that it should run noiselessly.                        │
+╰─────────────────────────────────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
