@@ -4,12 +4,11 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭──────────────────────────────────────────────────────────────────────────╮
-│ If you put tomfoolery into a computer, nothing comes out but tomfoolery. │
-│ But this tomfoolery, having passed through a very expensive machine,     │
-│ is somehow ennobled and no-one dares criticise it.                       │
-│         -- Pierre Gallois                                                │
-╰──────────────────────────────────────────────────────────────────────────╯
+╭──────────────────────────────────────────────────────────────────────────────╮
+│ Intel engineering seem to have misheard Intel marketing strategy. The phrase │
+│ was "Divide and conquer" not "Divide and cock up"                            │
+│ (By iialan@www.linux.org.uk, Alan Cox)                                       │
+╰──────────────────────────────────────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
