@@ -5,8 +5,7 @@
 #### :cookie: Fortune cookie of the day
 ```smalltalk
 ╭────────────────────────────────────────────────────────────────────────────────╮
-│ [FORTRAN] will persist for some time -- probably for at least the next decade. │
-│         -- T. Cheatham                                                         │
+│ UNIX is many things to many people, but it's never been everything to anybody. │
 ╰────────────────────────────────────────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
