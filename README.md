@@ -4,9 +4,10 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭────────────────────────────────────────────────────────────────────────────────╮
-│ UNIX is many things to many people, but it's never been everything to anybody. │
-╰────────────────────────────────────────────────────────────────────────────────╯
+╭──────────────────────────────────────────────────────────────────────────╮
+│ Real programmers don't bring brown-bag lunches.  If the vending machine  │
+│ doesn't sell it, they don't eat it.  Vending machines don't sell quiche. │
+╰──────────────────────────────────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
