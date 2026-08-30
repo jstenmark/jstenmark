@@ -4,10 +4,11 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭──────────────────────────────────────────────────────────────────────────╮
-│ Real programmers don't bring brown-bag lunches.  If the vending machine  │
-│ doesn't sell it, they don't eat it.  Vending machines don't sell quiche. │
-╰──────────────────────────────────────────────────────────────────────────╯
+╭─────────────────────────────────────────────────────────────────────────────╮
+│ No part of this message may reproduce, store itself in a retrieval system,  │
+│ or transmit disease, in any form, without the permissiveness of the author. │
+│         -- Chris Shaw                                                       │
+╰─────────────────────────────────────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
