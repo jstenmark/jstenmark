@@ -4,21 +4,25 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭────────────────────────────────────────────────────────────────────────────────╮
-│     A master programmer passed a novice programmer one day.  The master        │
-│ noted the novice's preoccupation with a hand-held computer game.  "Excuse me", │
-│ he said, "may I examine it?"                                                   │
-│     The novice bolted to attention and handed the device to the master.        │
-│ "I see that the device claims to have three levels of play: Easy, Medium,      │
-│ and Hard", said the master.  "Yet every such device has another level of play, │
-│ where the device seeks not to conquer the human, nor to be conquered by the    │
-│ human."                                                                        │
-│     "Pray, great master," implored the novice, "how does one find this         │
-│ mysterious setting?"                                                           │
-│     The master dropped the device to the ground and crushed it under foot.     │
-│ And suddenly the novice was enlightened.                                       │
-│         -- Geoffrey James, "The Tao of Programming"                            │
-╰────────────────────────────────────────────────────────────────────────────────╯
+╭─────────────────────────────────────────────────────────────────────────────────╮
+│ ***** Special AI Seminar (abstract)                                             │
+│ It has been widely recognized that AI programs require expert knowledge         │
+│ in order to perform well in complex domains.  But knowledge alone is not        │
+│ sufficient for some applications; wisdom is needed as well.  Accordingly,       │
+│ we have developed a new approach to artificial intelligence which we call       │
+│ "wisdom engineering".  As a test of our ideas, we have written IMMANUEL, a      │
+│ wisdom based system for the task domain of western philosophical thought.       │
+│ IMMANUEL was supplied initially with 200 wisdom units which contained wisdom    │
+│ about such elementary concepts as mind, matter, being, nothingness, and so      │
+│ forth.  IMMANUEL was then allowed to run freely, guided by the heuristic        │
+│ rules contained in its heterarchically organized meta wisdom base.  IMMANUEL    │
+│ succeeded in rediscovering most of the important philosophical ideas developed  │
+│ in western culture over the course of the last 25 centuries, including those    │
+│ underlying Plato's theory of government, Kant's metaphysics, Nietzsche's theory │
+│ of value, and Husserl's phenomenology.  In this seminar, we will describe       │
+│ IMMANUEL's achievements and internal architecture.  We will also briefly        │
+│ discuss our recent efforts to apply wisdom engineering to oil exploration.      │
+╰─────────────────────────────────────────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
