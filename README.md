@@ -5,7 +5,9 @@
 #### :cookie: Fortune cookie of the day
 ```smalltalk
 ╭────────────────────────────────────────────────────────────────────────╮
-│ Everybody needs a little love sometime; stop hacking and fall in love! │
+│ As the trials of life continue to take their toll, remember that there │
+│ is always a future in Computer Maintenance.                            │
+│         -- National Lampoon, "Deteriorata"                             │
 ╰────────────────────────────────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
