@@ -4,11 +4,9 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭───────────────────────────────────────────────────────────────────────╮
-│ I had the rare misfortune of being one of the first people to try and │
-│ implement a PL/1 compiler.                                            │
-│         -- T. Cheatham                                                │
-╰───────────────────────────────────────────────────────────────────────╯
+╭─────────────────────────────────╮
+│ You can't take damsel here now. │
+╰─────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
