@@ -4,9 +4,11 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭─────────────────────────────────╮
-│ You can't take damsel here now. │
-╰─────────────────────────────────╯
+╭─────────────────────────────────────────────────────────────────────────╮
+│ He's like a function -- he returns a value, in the form of his opinion. │
+│ It's up to you to cast it into a void or not.                           │
+│         -- Phil Lapsley                                                 │
+╰─────────────────────────────────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
