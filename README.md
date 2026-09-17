@@ -4,9 +4,23 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭────────────────────────────────────────────────────────────────────────────╮
-│ Recursion is the root of computation since it trades description for time. │
-╰────────────────────────────────────────────────────────────────────────────╯
+╭───────────────────────────────────────────────────────────────╮
+│ 101 USE SFOR A DEAD MICROPROCESSOR                            │
+│     (1)  Scarecrow for centipedes                             │
+│     (2)  Dead cat brush                                       │
+│     (3)  Hair barrettes                                       │
+│     (4)  Cleats                                               │
+│     (5)  Self-piercing earrings                               │
+│     (6)  Fungus trellis                                       │
+│     (7)  False eyelashes                                      │
+│     (8)  Prosthetic dog claws                                 │
+│         .                                                     │
+│         .                                                     │
+│         .                                                     │
+│     (99)  Window garden harrow (pulled behind Tonka tractors) │
+│     (100) Killer velcro                                       │
+│     (101) Currency                                            │
+╰───────────────────────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
