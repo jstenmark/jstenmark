@@ -4,23 +4,14 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭───────────────────────────────────────────────────────────────╮
-│ 101 USE SFOR A DEAD MICROPROCESSOR                            │
-│     (1)  Scarecrow for centipedes                             │
-│     (2)  Dead cat brush                                       │
-│     (3)  Hair barrettes                                       │
-│     (4)  Cleats                                               │
-│     (5)  Self-piercing earrings                               │
-│     (6)  Fungus trellis                                       │
-│     (7)  False eyelashes                                      │
-│     (8)  Prosthetic dog claws                                 │
-│         .                                                     │
-│         .                                                     │
-│         .                                                     │
-│     (99)  Window garden harrow (pulled behind Tonka tractors) │
-│     (100) Killer velcro                                       │
-│     (101) Currency                                            │
-╰───────────────────────────────────────────────────────────────╯
+╭─────────────────────────────────────────────────────────────────────────────╮
+│ Try to find the real tense of the report you are reading:  Was it done, is  │
+│ it being done, or is something to be done?  Reports are now written in four │
+│ tenses:  past tense, present tense, future tense, and pretense.  Watch for  │
+│ novel uses of CONGRAM (CONtractor GRAMmar), defined by the imperfect past,  │
+│ the insufficient present, and the absolutely perfect future.                │
+│         -- Amrom Katz                                                       │
+╰─────────────────────────────────────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
