@@ -4,14 +4,9 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭─────────────────────────────────────────────────────────────────────────────╮
-│ Try to find the real tense of the report you are reading:  Was it done, is  │
-│ it being done, or is something to be done?  Reports are now written in four │
-│ tenses:  past tense, present tense, future tense, and pretense.  Watch for  │
-│ novel uses of CONGRAM (CONtractor GRAMmar), defined by the imperfect past,  │
-│ the insufficient present, and the absolutely perfect future.                │
-│         -- Amrom Katz                                                       │
-╰─────────────────────────────────────────────────────────────────────────────╯
+╭─────────────────────────────────────────────────────────────────────╮
+│ The value of a program is proportional to the weight of its output. │
+╰─────────────────────────────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
