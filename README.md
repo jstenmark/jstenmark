@@ -4,11 +4,10 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭───────────────────────────────────────────────────────────────────────────╮
-│ In practice, failures in system development, like unemployment in Russia, │
-│ happens a lot despite official propaganda to the contrary.                │
-│         -- Paul Licker                                                    │
-╰───────────────────────────────────────────────────────────────────────────╯
+╭────────────────────────────────────────────────────────────╮
+│ Unix is the worst operating system; except for all others. │
+│         -- Berry Kercheval                                 │
+╰────────────────────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
