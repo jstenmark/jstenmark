@@ -4,10 +4,11 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭────────────────────────────────────────────────────────────╮
-│ Unix is the worst operating system; except for all others. │
-│         -- Berry Kercheval                                 │
-╰────────────────────────────────────────────────────────────╯
+╭──────────────────────────────────────────────────────────────────────────╮
+│ And it should be the law: If you use the word `paradigm' without knowing │
+│ what the dictionary says it means, you go to jail.  No exceptions.       │
+│         -- David Jones                                                   │
+╰──────────────────────────────────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
