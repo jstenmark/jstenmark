@@ -4,13 +4,10 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭──────────────────────────────────────────────────────────────────────────────╮
-│     THE LESSER-KNOWN PROGRAMMING LANGUAGES #17: SARTRE                       │
-│ Named after the late existential philosopher, SARTRE is an extremely         │
-│ unstructured language.  Statements in SARTRE have no purpose; they just are. │
-│ Thus SARTRE programs are left to define their own functions. SARTRE          │
-│ programmers tend to be boring and depressed, and are no fun at parties.      │
-╰──────────────────────────────────────────────────────────────────────────────╯
+╭────────────────────────────────────────────╮
+│ "Nuclear war can ruin your whole compile." │
+│         -- Karl Lehenbauer                 │
+╰────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
