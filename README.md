@@ -4,10 +4,9 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭────────────────────────────────────────────╮
-│ "Nuclear war can ruin your whole compile." │
-│         -- Karl Lehenbauer                 │
-╰────────────────────────────────────────────╯
+╭─────────────────────────────╮
+│ System checkpoint complete. │
+╰─────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
