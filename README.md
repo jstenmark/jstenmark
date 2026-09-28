@@ -4,9 +4,10 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭─────────────────────────────╮
-│ System checkpoint complete. │
-╰─────────────────────────────╯
+╭───────────────────────────────────────────────────────────────────────────╮
+│ Some people claim that the UNIX learning curve is steep, but at least you │
+│ only have to climb it once.                                               │
+╰───────────────────────────────────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
