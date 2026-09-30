@@ -4,9 +4,11 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭────────────────────────────────╮
-│ APL hackers do it in the quad. │
-╰────────────────────────────────╯
+╭─────────────────────────────────────────────────────────────────────╮
+│ Many of the convicted thieves Parker has met began their            │
+│ life of crime after taking college Computer Science courses.        │
+│         -- Roger Rapoport, "Programs for Plunder", Omni, March 1981 │
+╰─────────────────────────────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
