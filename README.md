@@ -4,11 +4,17 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭─────────────────────────────────────────────────────────────────────╮
-│ Many of the convicted thieves Parker has met began their            │
-│ life of crime after taking college Computer Science courses.        │
-│         -- Roger Rapoport, "Programs for Plunder", Omni, March 1981 │
-╰─────────────────────────────────────────────────────────────────────╯
+╭────────────────────────────────────────────────────────────────────────────────╮
+│                 UNIX Trix                                                      │
+│ For those of you in the reseller business, here is a helpful tip that will     │
+│ save your support staff a few hours of precious time.  Before you send your    │
+│ next machine out to an untrained client, change the permissions on /etc/passwd │
+│ to 666 and make sure there is a copy somewhere on the disk.  Now when they     │
+│ forget the root password, you can easily login as an ordinary user and correct │
+│ the damage.  Having a bootable tape (for larger machines) is not a bad idea    │
+│ either.  If you need some help, give us a call.                                │
+│         -- CommUNIXque 1:1, ASCAR Business Systems                             │
+╰────────────────────────────────────────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
