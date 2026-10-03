@@ -4,10 +4,12 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭────────────────────────────────────────────────╮
-│ Marvelous!  The super-user's going to boot me! │
-│ What a finely tuned response to the situation! │
-╰────────────────────────────────────────────────╯
+╭─────────────────────────────────────────────────────────────────────╮
+│ By long-standing tradition, I take this opportunity to savage other │
+│ designers in the thin disguise of good, clean fun.                  │
+│         -- P. J. Plauger, "Computer Language", 1988, April          │
+│            Fool's column.                                           │
+╰─────────────────────────────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
