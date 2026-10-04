@@ -4,12 +4,22 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭─────────────────────────────────────────────────────────────────────╮
-│ By long-standing tradition, I take this opportunity to savage other │
-│ designers in the thin disguise of good, clean fun.                  │
-│         -- P. J. Plauger, "Computer Language", 1988, April          │
-│            Fool's column.                                           │
-╰─────────────────────────────────────────────────────────────────────╯
+╭──────────────────────────────────────────────────────────────────────────────╮
+│ Fellow programmer, greetings!  You are reading a letter which will bring     │
+│ you luck and good fortune.  Just mail (or UUCP) ten copies of this letter    │
+│ to ten of your friends.  Before you make the copies, send a chip or          │
+│ other bit of hardware, and 100 lines of 'C' code to the first person on the  │
+│ list given at the bottom of this letter.  Then delete their name and add     │
+│ yours to the bottom of the list.                                             │
+│ Don't break the chain!  Make the copy within 48 hours.  Gerald R. of San     │
+│ Diego failed to send out his ten copies and woke the next morning to find    │
+│ his job description changed to "COBOL programmer."  Fred A. of New York sent │
+│ out his ten copies and within a month had enough hardware and software to    │
+│ build a Cray dedicated to playing Zork.  Martha H. of Chicago laughed at     │
+│ this letter and broke the chain.  Shortly thereafter, a fire broke out in    │
+│ her terminal and she now spends her days writing documentation for IBM PC's. │
+│ Don't break the chain!  Send out your ten copies today!                      │
+╰──────────────────────────────────────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
