@@ -4,11 +4,9 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭───────────────────────────────────────────────────────────────────────────╮
-│ Don't get suckered in by the comments -- they can be terribly misleading. │
-│ Debug only code.                                                          │
-│         -- Dave Storer                                                    │
-╰───────────────────────────────────────────────────────────────────────────╯
+╭──────────────────────────────────────────────────────╮
+│ The only thing worse than X Windows: (X Windows) - X │
+╰──────────────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
