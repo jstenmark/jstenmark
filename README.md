@@ -4,10 +4,11 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭───────────────────────────────────────────────────────────────────────╮
-│ We are Pentium of Borg. Division is futile. You will be approximated. │
-│ (seen in someone's .signature)                                        │
-╰───────────────────────────────────────────────────────────────────────╯
+╭─────────────────────────────────────────────────────────────────────╮
+│ "Linux poses a real challenge for those with a taste for late-night │
+│ hacking (and/or conversations with God)."                           │
+│ (By Matt Welsh)                                                     │
+╰─────────────────────────────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
