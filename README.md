@@ -4,11 +4,15 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭─────────────────────────────────────────────────────────────────────╮
-│ "Linux poses a real challenge for those with a taste for late-night │
-│ hacking (and/or conversations with God)."                           │
-│ (By Matt Welsh)                                                     │
-╰─────────────────────────────────────────────────────────────────────╯
+╭───────────────────────────────────────────────────────────╮
+│ Scotty:    Captain, we din' can reference it!             │
+│ Kirk:    Analysis, Mr. Spock?                             │
+│ Spock:    Captain, it doesn't appear in the symbol table. │
+│ Kirk:    Then it's of external origin?                    │
+│ Spock:    Affirmative.                                    │
+│ Kirk:    Mr. Sulu, go to pass two.                        │
+│ Sulu:    Aye aye, sir, going to pass two.                 │
+╰───────────────────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
