@@ -4,15 +4,9 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭───────────────────────────────────────────────────────────╮
-│ Scotty:    Captain, we din' can reference it!             │
-│ Kirk:    Analysis, Mr. Spock?                             │
-│ Spock:    Captain, it doesn't appear in the symbol table. │
-│ Kirk:    Then it's of external origin?                    │
-│ Spock:    Affirmative.                                    │
-│ Kirk:    Mr. Sulu, go to pass two.                        │
-│ Sulu:    Aye aye, sir, going to pass two.                 │
-╰───────────────────────────────────────────────────────────╯
+╭─────────────────────────────────────────────────────╮
+│ HELP!!!! I'm being held prisoner in /usr/games/lib! │
+╰─────────────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
