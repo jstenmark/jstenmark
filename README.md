@@ -4,9 +4,10 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭────────────────────────────────────────╮
-│ Crazee Edeee, his prices are INSANE!!! │
-╰────────────────────────────────────────╯
+╭───────────────────────────────────────────────────────────────────────╮
+│ A language that doesn't affect the way you think about programming is │
+│ not worth knowing.                                                    │
+╰───────────────────────────────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
