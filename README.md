@@ -4,10 +4,11 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭──────────────────────────────────────────────────────────────────────╮
-│ I think there's a world market for about five computers.             │
-│         -- attr. Thomas J. Watson (Chairman of the Board, IBM), 1943 │
-╰──────────────────────────────────────────────────────────────────────╯
+╭─────────────────────────────────────────────────────────────────────────╮
+│ It appears that PL/I (and its dialects) is, or will be, the most widely │
+│ used higher level language for systems programming.                     │
+│         -- J. Sammet                                                    │
+╰─────────────────────────────────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
