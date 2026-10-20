@@ -4,11 +4,9 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭─────────────────────────────────────────────────────────────────────────╮
-│ It appears that PL/I (and its dialects) is, or will be, the most widely │
-│ used higher level language for systems programming.                     │
-│         -- J. Sammet                                                    │
-╰─────────────────────────────────────────────────────────────────────────╯
+╭──────────────────────╮
+│ Type louder, please. │
+╰──────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
