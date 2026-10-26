@@ -4,9 +4,10 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭─────────────────────────╮
-│ IOT trap -- core dumped │
-╰─────────────────────────╯
+╭───────────────────────────────────────────────────────────────────────╮
+│ Remember, God could only create the world in 6 days because he didn't │
+│ have an established user base.                                        │
+╰───────────────────────────────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
