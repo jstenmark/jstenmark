@@ -4,9 +4,11 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭─────────────────────────╮
-│ IOT trap -- core dumped │
-╰─────────────────────────╯
+╭──────────────────────────────────────────────────────────────────────╮
+│ Martin was probably ripping them off.  That's some family, isn't it? │
+│ Incest, prostitution, fanaticism, software.                          │
+│         -- Charles Willeford, "Miami Blues"                          │
+╰──────────────────────────────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
