@@ -4,9 +4,11 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭───────────────────────────────────────────────────────────╮
-│ You are in a maze of little twisting passages, all alike. │
-╰───────────────────────────────────────────────────────────╯
+╭──────────────────────────────────────────────────────────────────────╮
+│ "Are [Linux users] lemmings collectively jumping off of the cliff of │
+│ reliable, well-engineered commercial software?"                      │
+│ (By Matt Welsh)                                                      │
+╰──────────────────────────────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
