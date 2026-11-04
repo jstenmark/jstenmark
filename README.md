@@ -4,11 +4,12 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭──────────────────────────────────────────────────────────────────────╮
-│ "Are [Linux users] lemmings collectively jumping off of the cliff of │
-│ reliable, well-engineered commercial software?"                      │
-│ (By Matt Welsh)                                                      │
-╰──────────────────────────────────────────────────────────────────────╯
+╭─────────────────────────────────────────────────────────────────────────────────╮
+│ C has "the power of assembly language and the convenience of... assembly        │
+│ language."                                                                      │
+│     -- Dennis Ritchie (1941-2011), creator of the C programming language and of │
+│     UNIX                                                                        │
+╰─────────────────────────────────────────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
