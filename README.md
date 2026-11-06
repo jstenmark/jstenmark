@@ -4,10 +4,9 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭────────────────────────────────────────────────────────────╮
-│ "sic transit discus mundi"                                 │
-│ (From the System Administrator's Guide, by Lars Wirzenius) │
-╰────────────────────────────────────────────────────────────╯
+╭────────────────────────────────────────────────────────────────────────╮
+│ Everybody needs a little love sometime; stop hacking and fall in love! │
+╰────────────────────────────────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
