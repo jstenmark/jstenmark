@@ -4,9 +4,11 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭─────────────────────────────────────────────────────╮
-│ Overflow on /dev/null, please empty the bit bucket. │
-╰─────────────────────────────────────────────────────╯
+╭────────────────────────────────────────────────────────────────────────╮
+│ The human mind ordinarily operates at only ten percent of its capacity │
+│ -- the rest is overhead for the operating system.                      │
+│         -- Nicholas Ambrose                                            │
+╰────────────────────────────────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
