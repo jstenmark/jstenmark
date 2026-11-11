@@ -4,11 +4,10 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭────────────────────────────────────────────────────────────────────────╮
-│ The human mind ordinarily operates at only ten percent of its capacity │
-│ -- the rest is overhead for the operating system.                      │
-│         -- Nicholas Ambrose                                            │
-╰────────────────────────────────────────────────────────────────────────╯
+╭──────────────────────────────────────────────────────────────────────────╮
+│ Real programmers don't bring brown-bag lunches.  If the vending machine  │
+│ doesn't sell it, they don't eat it.  Vending machines don't sell quiche. │
+╰──────────────────────────────────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
