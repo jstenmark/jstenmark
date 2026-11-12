@@ -4,10 +4,10 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭──────────────────────────────────────────────────────────────────────────╮
-│ Real programmers don't bring brown-bag lunches.  If the vending machine  │
-│ doesn't sell it, they don't eat it.  Vending machines don't sell quiche. │
-╰──────────────────────────────────────────────────────────────────────────╯
+╭───────────────────────────────────────────────────────╮
+│ Keep the number of passes in a compiler to a minimum. │
+│         -- D. Gries                                   │
+╰───────────────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
