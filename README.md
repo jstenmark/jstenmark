@@ -4,9 +4,11 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭────────────────────────────────────────────────────────────────────────────────╮
-│ Today is a good day for information-gathering.  Read someone else's mail file. │
-╰────────────────────────────────────────────────────────────────────────────────╯
+╭────────────────────────────────────────────────────────────────────────╮
+│ If a 6600 used paper tape instead of core memory, it would use up tape │
+│ at about 30 miles/second.                                              │
+│         -- Grishman, Assembly Language Programming                     │
+╰────────────────────────────────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
