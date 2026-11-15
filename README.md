@@ -4,11 +4,10 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭────────────────────────────────────────────────────────────────────────╮
-│ If a 6600 used paper tape instead of core memory, it would use up tape │
-│ at about 30 miles/second.                                              │
-│         -- Grishman, Assembly Language Programming                     │
-╰────────────────────────────────────────────────────────────────────────╯
+╭───────────────────────────────────────────────────────────────────────────╮
+│ Simulations are like miniskirts, they show a lot and hide the essentials. │
+│         -- Hubert Kirrman                                                 │
+╰───────────────────────────────────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
