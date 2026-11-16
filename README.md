@@ -4,10 +4,9 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭───────────────────────────────────────────────────────────────────────────╮
-│ Simulations are like miniskirts, they show a lot and hide the essentials. │
-│         -- Hubert Kirrman                                                 │
-╰───────────────────────────────────────────────────────────────────────────╯
+╭──────────────────────────╮
+│ Beware the new TTY code! │
+╰──────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
