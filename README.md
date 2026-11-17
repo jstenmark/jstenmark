@@ -4,9 +4,11 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭──────────────────────────╮
-│ Beware the new TTY code! │
-╰──────────────────────────╯
+╭──────────────────────────────────────────────────────────────────────────────╮
+│ Thus spake the master programmer:                                            │
+│     "When a program is being tested, it is too late to make design changes." │
+│         -- Geoffrey James, "The Tao of Programming"                          │
+╰──────────────────────────────────────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
