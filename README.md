@@ -4,11 +4,13 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭──────────────────────────────────────────────────────────────────────────────╮
-│ Thus spake the master programmer:                                            │
-│     "When a program is being tested, it is too late to make design changes." │
-│         -- Geoffrey James, "The Tao of Programming"                          │
-╰──────────────────────────────────────────────────────────────────────────────╯
+╭─────────────────────────────────────────────────────────────────────────────────╮
+│ When I read commentary about suggestions for where C should go, I often think   │
+│ back and give thanks that it wasn't developed under the advice of a worldwide   │
+│ crowd.                                                                          │
+│     -- Dennis Ritchie (1941-2011), creator of the C programming language and of │
+│     UNIX                                                                        │
+╰─────────────────────────────────────────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
