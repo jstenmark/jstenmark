@@ -4,13 +4,13 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭─────────────────────────────────────────────────────────────────────────────────╮
-│ When I read commentary about suggestions for where C should go, I often think   │
-│ back and give thanks that it wasn't developed under the advice of a worldwide   │
-│ crowd.                                                                          │
-│     -- Dennis Ritchie (1941-2011), creator of the C programming language and of │
-│     UNIX                                                                        │
-╰─────────────────────────────────────────────────────────────────────────────────╯
+╭────────────────────────────────────────────────────────────╮
+│ It's multiple choice time...                               │
+│     What is FORTRAN?                                       │
+│     a: Between thre and fiv tran.                          │
+│     b: What two computers engage in before they interface. │
+│     c: Ridiculous.                                         │
+╰────────────────────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
