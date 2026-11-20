@@ -4,13 +4,10 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭────────────────────────────────────────────────────────────╮
-│ It's multiple choice time...                               │
-│     What is FORTRAN?                                       │
-│     a: Between thre and fiv tran.                          │
-│     b: What two computers engage in before they interface. │
-│     c: Ridiculous.                                         │
-╰────────────────────────────────────────────────────────────╯
+╭──────────────────────────────────────────────────────────────────────────╮
+│ Coding is easy;  All you do is sit staring at a terminal until the drops │
+│ of blood form on your forehead.                                          │
+╰──────────────────────────────────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
