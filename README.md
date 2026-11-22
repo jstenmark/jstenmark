@@ -4,11 +4,10 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭───────────────────────────────────────────────────────────────────────────────╮
-│ Not me, guy. I read the Bash man page each day like a Jehovah's Witness reads │
-│ the Bible. No wait, the Bash man page IS the bible. Excuse me...              │
-│ (More on confusing aliases, taken from comp.os.linux.misc)                    │
-╰───────────────────────────────────────────────────────────────────────────────╯
+╭─────────────────────────────────────────────────────────────────────────────╮
+│ Beware of the Turing Tar-pit in which everything is possible but nothing of │
+│ interest is easy.                                                           │
+╰─────────────────────────────────────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
