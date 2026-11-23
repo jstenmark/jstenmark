@@ -4,10 +4,11 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭─────────────────────────────────────────────────────────────────────────────╮
-│ Beware of the Turing Tar-pit in which everything is possible but nothing of │
-│ interest is easy.                                                           │
-╰─────────────────────────────────────────────────────────────────────────────╯
+╭────────────────────────────────────────────────────────────────────────╮
+│ Systems have sub-systems and sub-systems have sub-systems and so on ad │
+│ infinitum -- which is why we're always starting over.                  │
+│         -- Epigrams in Programming, ACM SIGPLAN Sept. 1982             │
+╰────────────────────────────────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
