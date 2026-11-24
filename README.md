@@ -4,11 +4,11 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭────────────────────────────────────────────────────────────────────────╮
-│ Systems have sub-systems and sub-systems have sub-systems and so on ad │
-│ infinitum -- which is why we're always starting over.                  │
-│         -- Epigrams in Programming, ACM SIGPLAN Sept. 1982             │
-╰────────────────────────────────────────────────────────────────────────╯
+╭───────────────────────────────────────────────────────────────────────╮
+│ Yes, we will be going to OSI, Mars, and Pluto, but not necessarily in │
+│ that order.                                                           │
+│         -- George Michaelson                                          │
+╰───────────────────────────────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
