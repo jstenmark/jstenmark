@@ -4,11 +4,9 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭───────────────────────────────────────────────────────────────────────╮
-│ Yes, we will be going to OSI, Mars, and Pluto, but not necessarily in │
-│ that order.                                                           │
-│         -- George Michaelson                                          │
-╰───────────────────────────────────────────────────────────────────────╯
+╭──────────────────────────────────────────────────────────────────────╮
+│ MESSAGE ACKNOWLEDGED -- The Pershing II missiles have been launched. │
+╰──────────────────────────────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
