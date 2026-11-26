@@ -4,9 +4,11 @@
 ---
 #### :cookie: Fortune cookie of the day
 ```smalltalk
-╭──────────────────────────────────────────────────────────────────────╮
-│ MESSAGE ACKNOWLEDGED -- The Pershing II missiles have been launched. │
-╰──────────────────────────────────────────────────────────────────────╯
+╭─────────────────────────────────────────────────────────────────────────────╮
+│ A person who is more than casually interested in computers should be well   │
+│ schooled in machine language, since it is a fundamental part of a computer. │
+│         -- Donald Knuth                                                     │
+╰─────────────────────────────────────────────────────────────────────────────╯
 ```--. . , ; .--'''         │
 │              | |   |                   │
 │               .-=||  | |=-.            │
